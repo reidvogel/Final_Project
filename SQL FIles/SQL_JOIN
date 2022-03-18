@@ -17,7 +17,7 @@ FROM
 Select
 DC."DCID",	
 DC."Job_Title",
-DC."Salary_Estimate",
+DC."Avg_Salary",
 DC."Location",
 DC."Company_Name"
 
@@ -26,9 +26,9 @@ From public.data_cleaned1 AS DC
 Union all
 
 Select 
-LF."CONCAT",
+LF."LFID",
 LF.title,
-cast (basesalary as varchar),
+lf.basesalary,
 LF.location,
 LF.company
 	
@@ -60,45 +60,10 @@ lf."Race_Two_Or_More",
 lf."Race_Black",
 lf."Race_Hispanic",
 lf."Race",
-lf."Education",
-DC."Rating",
-DC."Headquarters",
-DC."Size",
-DC."Founded",
-DC."Type_of_ownership",
-DC."Industry",
-DC."Sector",
-DC."Revenue",
-DC."Competitors",
-DC."Hourly",
-DC."Employer provided",
-DC."Lower Salary",
-DC."Upper Salary",
-DC."Avg_Salary",
-DC.company_txt,
-DC."Job_Location",
-DC."Age",
-DC."Python",
-DC.spark,
-DC.aws,
-DC.excel,
-DC.sql,
-DC.sas,
-DC.keras,
-DC.pytorch,
-DC.scikit,
-DC.tensor,
-DC.hadoop,
-DC.tableau,
-DC.bi,
-DC.flink,
-DC.mongo,
-DC.google_an,
-DC.job_title_sim,
-DC.seniority_by_title,
-DC."Degree"
+lf."Education"
+
 Into Full_Data
 FROM public.combined COM
-LEFT JOIN public.levels_fyi1 AS lf ON COM."COMID" = LF."LFID"
-Left Join public.data_cleaned1 as DC on COM."COMID" = DC."DCID"
+left JOIN public.levels_fyi1 AS lf ON COM."COMID" = LF."LFID"
+
 					
