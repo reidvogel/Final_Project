@@ -1,1476 +1,1476 @@
-COMID,Job_Title,Salary_Estimate,Location,Company_Name
-DC0,Data Scientist,$53K-$91K (Glassdoor est.),"Albuquerque, NM","Tecolote Research
+COMID,Job_Title,Avg_Salary,Location,Company_Name
+DC0,Data Scientist,72,"Albuquerque, NM","Tecolote Research
 3.8"
-DC1,Healthcare Data Scientist,$63K-$112K (Glassdoor est.),"Linthicum, MD","University of Maryland Medical System
+DC1,Healthcare Data Scientist,87.5,"Linthicum, MD","University of Maryland Medical System
 3.4"
-DC2,Data Scientist,$80K-$90K (Glassdoor est.),"Clearwater, FL","KnowBe4
+DC2,Data Scientist,85,"Clearwater, FL","KnowBe4
 4.8"
-DC3,Data Scientist,$56K-$97K (Glassdoor est.),"Richland, WA","PNNL
+DC3,Data Scientist,76.5,"Richland, WA","PNNL
 3.8"
-DC4,Data Scientist,$86K-$143K (Glassdoor est.),"New York, NY","Affinity Solutions
+DC4,Data Scientist,114.5,"New York, NY","Affinity Solutions
 2.9"
-DC5,Data Scientist,$71K-$119K (Glassdoor est.),"Dallas, TX","CyrusOne
+DC5,Data Scientist,95,"Dallas, TX","CyrusOne
 3.4"
-DC6,Data Scientist,$54K-$93K (Glassdoor est.),"Baltimore, MD","ClearOne Advantage
+DC6,Data Scientist,73.5,"Baltimore, MD","ClearOne Advantage
 4.1"
-DC7,Data Scientist,$86K-$142K (Glassdoor est.),"San Jose, CA","Logic20/20
+DC7,Data Scientist,114,"San Jose, CA","Logic20/20
 3.8"
-DC8,Research Scientist,$38K-$84K (Glassdoor est.),"Rochester, NY","Rochester Regional Health
+DC8,Research Scientist,61,"Rochester, NY","Rochester Regional Health
 3.3"
-DC9,Data Scientist,$120K-$160K (Glassdoor est.),"New York, NY","<intent>
+DC9,Data Scientist,140,"New York, NY","<intent>
 4.6"
-DC10,Data Scientist,$126K-$201K (Glassdoor est.),"San Jose, CA","Wish
+DC10,Data Scientist,163.5,"San Jose, CA","Wish
 3.5"
-DC11,Data Scientist,$64K-$106K (Glassdoor est.),"Chantilly, VA","ManTech
+DC11,Data Scientist,85,"Chantilly, VA","ManTech
 4.1"
-DC12,Staff Data Scientist - Technology,$106K-$172K (Glassdoor est.),"Plano, TX","Walmart
+DC12,Staff Data Scientist - Technology,139,"Plano, TX","Walmart
 3.2"
-DC13,Data Analyst,$46K-$85K (Glassdoor est.),"Seattle, WA","Yesler
+DC13,Data Analyst,65.5,"Seattle, WA","Yesler
 4.1"
-DC14,Data Scientist,$83K-$144K (Glassdoor est.),"Cambridge, MA","Takeda Pharmaceuticals
+DC14,Data Scientist,113.5,"Cambridge, MA","Takeda Pharmaceuticals
 3.7"
-DC29,Clinical Data Scientist,$63K-$105K (Glassdoor est.),"Groton, CT","Pfizer
+DC29,Clinical Data Scientist,84,"Groton, CT","Pfizer
 4.0"
-DC15,Data Engineer I,$102K-$190K (Glassdoor est.),"Newark, NJ","Audible
+DC15,Data Engineer I,146,"Newark, NJ","Audible
 3.6"
-DC16,"Scientist I/II, Biology",$67K-$137K (Glassdoor est.),"Cambridge, MA","Blueprint Medicines
+DC16,"Scientist I/II, Biology",102,"Cambridge, MA","Blueprint Medicines
 3.9"
-DC17,Customer Data Scientist,$118K-$189K (Glassdoor est.),"Mountain View, CA","h2o.ai
+DC17,Customer Data Scientist,153.5,"Mountain View, CA","h2o.ai
 4.3"
-DC18,Data Scientist - Health Data Analytics,$110K-$175K (Glassdoor est.),"San Francisco, CA","Nuna
+DC18,Data Scientist - Health Data Analytics,142.5,"San Francisco, CA","Nuna
 4.2"
-DC19,Data Scientist,$64K-$111K (Glassdoor est.),"Denver, CO","Pinnacol Assurance
+DC19,Data Scientist,87.5,"Denver, CO","Pinnacol Assurance
 4.0"
-DC20,Data Scientist,$81K-$130K (Glassdoor est.),"Seattle, WA","Porch
+DC20,Data Scientist,105.5,"Seattle, WA","Porch
 3.2"
-DC21,Senior Data Scientist / Machine Learning,$73K-$119K (Glassdoor est.),"Dallas, TX","Health IQ
+DC21,Senior Data Scientist / Machine Learning,96,"Dallas, TX","Health IQ
 3.9"
-DC22,Data Scientist - Quantitative,$86K-$139K (Glassdoor est.),"Chicago, IL","Truckstop.com
+DC22,Data Scientist - Quantitative,112.5,"Chicago, IL","Truckstop.com
 3.8"
-DC23,Data Scientist,$63K-$105K (Glassdoor est.),"Louisville, KY","SMC 3
+DC23,Data Scientist,84,"Louisville, KY","SMC 3
 4.3"
-DC25,Data Scientist,$109K-$177K (Glassdoor est.),"Herndon, VA","Novetta
+DC25,Data Scientist,143,"Herndon, VA","Novetta
 4.0"
-DC26,Digital Health Data Scientist,$63K-$110K (Glassdoor est.),"Cambridge, MA","Pfizer
+DC26,Digital Health Data Scientist,86.5,"Cambridge, MA","Pfizer
 4.0"
-DC27,Data Scientist,$75K-$124K (Glassdoor est.),"Hillsboro, OR","First Tech Federal Credit Union
+DC27,Data Scientist,99.5,"Hillsboro, OR","First Tech Federal Credit Union
 3.5"
-DC28,Associate Data Analyst,$34K-$61K (Glassdoor est.),"Worcester, MA","The Hanover Insurance Group
+DC28,Associate Data Analyst,47.5,"Worcester, MA","The Hanover Insurance Group
 3.7"
-DC30,Data Scientist,$80K-$90K (Glassdoor est.),"Clearwater, FL","KnowBe4
+DC30,Data Scientist,85,"Clearwater, FL","KnowBe4
 4.8"
-DC31,Data Scientist,$56K-$97K (Glassdoor est.),"Richland, WA","PNNL
+DC31,Data Scientist,76.5,"Richland, WA","PNNL
 3.8"
-DC32,Data Scientist,$72K-$120K (Glassdoor est.),"Detroit, MI","Amrock
+DC32,Data Scientist,96,"Detroit, MI","Amrock
 3.6"
-DC33,Data Scientist / Machine Learning Expert,$86K-$143K (Glassdoor est.),"Cambridge, MA","Novartis
+DC33,Data Scientist / Machine Learning Expert,114.5,"Cambridge, MA","Novartis
 3.8"
-DC34,Data Scientist,$93K-$149K (Glassdoor est.),"Sunnyvale, CA","Juniper Networks
+DC34,Data Scientist,121,"Sunnyvale, CA","Juniper Networks
 3.8"
-DC35,Data Scientist,$85K-$140K (Glassdoor est.),"Ipswich, MA","New England Biolabs
+DC35,Data Scientist,112.5,"Ipswich, MA","New England Biolabs
 4.7"
-DC36,Web Data Analyst,$77K-$135K (Glassdoor est.),"San Jose, CA","Clarity Insights
+DC36,Web Data Analyst,106,"San Jose, CA","Clarity Insights
 4.2"
-DC37,Data Scientist,$82K-$132K (Glassdoor est.),"Redlands, CA","Esri
+DC37,Data Scientist,107,"Redlands, CA","Esri
 3.5"
-DC38,Data Scientist,$83K-$137K (Glassdoor est.),"Woburn, MA","Systems & Technology Research
+DC38,Data Scientist,110,"Woburn, MA","Systems & Technology Research
 4.7"
-DC39,Senior Data Scientist,$115K-$180K (Glassdoor est.),"Fremont, CA","Sartorius
+DC39,Senior Data Scientist,147.5,"Fremont, CA","Sartorius
 3.5"
-DC40,Data Engineer,$74K-$138K (Glassdoor est.),"Long Beach, NY","Lancer Insurance
+DC40,Data Engineer,106,"Long Beach, NY","Lancer Insurance
 3.5"
-DC41,Data Analyst,$64K-$112K (Glassdoor est.),"San Francisco, CA","Sauce Labs
+DC41,Data Analyst,88,"San Francisco, CA","Sauce Labs
 4.2"
-DC68,Data Scientist in Artificial Intelligence Early Career,$49K-$85K (Glassdoor est.),"Richland, WA","Pacific Northwest National Laboratory
+DC68,Data Scientist in Artificial Intelligence Early Career,67,"Richland, WA","Pacific Northwest National Laboratory
 3.8"
-DC43,Data Engineer,$68K-$129K (Glassdoor est.),"Marlborough, MA","Persivia
+DC43,Data Engineer,98.5,"Marlborough, MA","Persivia
 3.6"
-DC44,Data Scientist - Algorithms & Inference,$110K-$175K (Glassdoor est.),"San Francisco, CA","Nuna
+DC44,Data Scientist - Algorithms & Inference,142.5,"San Francisco, CA","Nuna
 4.2"
-DC45,Scientist,$52K-$113K (Glassdoor est.),"Allendale, NJ","Edgewell Personal Care
+DC45,Scientist,82.5,"Allendale, NJ","Edgewell Personal Care
 3.4"
-DC46,Senior Data Scientist,$110K-$150K(Employer est.),"Chicago, IL","Equity Residential
+DC46,Senior Data Scientist,130,"Chicago, IL","Equity Residential
 4.3"
-DC48,Data Scientist,Employer Provided Salary:$150K-$160K,"Washington, DC","BPA Services
+DC48,Data Scientist,155,"Washington, DC","BPA Services
 5.0"
-DC49,Lead Data Scientist,$158K-$211K (Glassdoor est.),"Bellevue, WA","Visa Inc.
+DC49,Lead Data Scientist,184.5,"Bellevue, WA","Visa Inc.
 3.7"
-DC50,Associate Data Analyst,$20K-$39K (Glassdoor est.),"Longmont, CO","Intrado
+DC50,Associate Data Analyst,29.5,"Longmont, CO","Intrado
 3.1"
-DC51,Spectral Scientist/Engineer,$56K-$117K (Glassdoor est.),"Beavercreek, OH","Centauri
+DC51,Spectral Scientist/Engineer,86.5,"Beavercreek, OH","Centauri
 4.7"
-DC52,College Hire - Data Scientist - Open to December 2019 Graduates,$63K-$99K (Glassdoor est.),"Peoria, IL","Caterpillar
+DC52,College Hire - Data Scientist - Open to December 2019 Graduates,81,"Peoria, IL","Caterpillar
 3.7"
-DC54,Data Scientist,$68K-$114K (Glassdoor est.),"Fort Lauderdale, FL","Zimmerman Advertising
+DC54,Data Scientist,91,"Fort Lauderdale, FL","Zimmerman Advertising
 3.8"
-DC55,"Data Scientist, Office of Data Science",$86K-$143K (Glassdoor est.),"Boston, MA","Liberty Mutual Insurance
+DC55,"Data Scientist, Office of Data Science",114.5,"Boston, MA","Liberty Mutual Insurance
 3.3"
-DC70,Data Scientist,$61K-$109K (Glassdoor est.),"Coraopolis, PA","DICK''S Sporting Goods - Corporate
+DC70,Data Scientist,85,"Coraopolis, PA","DICK''S Sporting Goods - Corporate
 3.8"
-DC377,Data Operations Lead,Employer Provided Salary:$85K-$90K,"San Francisco, CA",Muso
-DC56,Data Science Analyst,$41K-$95K (Glassdoor est.),"Huntsville, AL","Torch Technologies, Inc.
+DC377,Data Operations Lead,87.5,"San Francisco, CA",Muso
+DC56,Data Science Analyst,68,"Huntsville, AL","Torch Technologies, Inc.
 4.6"
-DC57,Data Scientist,$86K-$144K (Glassdoor est.),"Armonk, NY","Swiss Re
+DC57,Data Scientist,115,"Armonk, NY","Swiss Re
 3.7"
-DC58,Data Scientist,$80K-$139K (Glassdoor est.),"San Diego, CA","Northrop Grumman
+DC58,Data Scientist,109.5,"San Diego, CA","Northrop Grumman
 3.7"
-DC59,Data Scientist,$56K-$95K (Glassdoor est.),"Albuquerque, NM","Sartorius
+DC59,Data Scientist,75.5,"Albuquerque, NM","Sartorius
 3.5"
-DC60,Data Scientist,$120K-$189K (Glassdoor est.),"San Francisco, CA","Netskope
+DC60,Data Scientist,154.5,"San Francisco, CA","Netskope
 4.1"
-DC61,Data Scientist,$111K-$176K (Glassdoor est.),"Saint Louis, MO","1904labs
+DC61,Data Scientist,143.5,"Saint Louis, MO","1904labs
 4.7"
-DC62,Data Scientist,$54K-$93K (Glassdoor est.),"Baltimore, MD","ClearOne Advantage
+DC62,Data Scientist,73.5,"Baltimore, MD","ClearOne Advantage
 4.1"
-DC63,Data Scientist,$71K-$119K (Glassdoor est.),"Dallas, TX","CyrusOne
+DC63,Data Scientist,95,"Dallas, TX","CyrusOne
 3.4"
-DC65,Senior Data Scientist,$82K-$132K (Glassdoor est.),"Cincinnati, OH","The David J. Joseph Company
+DC65,Senior Data Scientist,107,"Cincinnati, OH","The David J. Joseph Company
 4.4"
-DC66,Data Scientist,$84K-$146K (Glassdoor est.),"New York, NY","USEReady
+DC66,Data Scientist,115,"New York, NY","USEReady
 4.3"
-DC67,Senior Risk Data Scientist,$107K-$172K (Glassdoor est.),"Palo Alto, CA","Bill.com
+DC67,Senior Risk Data Scientist,139.5,"Palo Alto, CA","Bill.com
 3.8"
-DC72,Data Scientist,$88K-$148K (Glassdoor est.),"Framingham, MA","Berg Health
+DC72,Data Scientist,118,"Framingham, MA","Berg Health
 2.8"
-DC73,Data Scientist,$60K-$99K (Glassdoor est.),"Atlanta, GA","Oversight Systems
+DC73,Data Scientist,79.5,"Atlanta, GA","Oversight Systems
 4.7"
-DC75,Data Scientist - Research,$41K-$72K (Glassdoor est.),"Boston, MA","C Space
+DC75,Data Scientist - Research,56.5,"Boston, MA","C Space
 3.1"
-DC76,Data Scientist,$96K-$161K (Glassdoor est.),"Philadelphia, PA","Numeric, LLC
+DC76,Data Scientist,128.5,"Philadelphia, PA","Numeric, LLC
 3.2"
-DC77,R&D Data Analysis Scientist,$65K-$130K (Glassdoor est.),"Vancouver, WA","HP Inc.
+DC77,R&D Data Analysis Scientist,97.5,"Vancouver, WA","HP Inc.
 4.0"
-DC89,Jr. Business Data Analyst,$37K-$76K (Glassdoor est.),"Harrisburg, PA","webfx.com
+DC89,Jr. Business Data Analyst,56.5,"Harrisburg, PA","webfx.com
 4.7"
-DC90,Data Scientist,$100K-$160K (Glassdoor est.),"Laurel, MD","Johns Hopkins University Applied Physics Laboratory
+DC90,Data Scientist,130,"Laurel, MD","Johns Hopkins University Applied Physics Laboratory
 4.5"
-DC78,Analytics Consultant,$52K-$81K (Glassdoor est.),"Indianapolis, IN","SpringML
+DC78,Analytics Consultant,66.5,"Indianapolis, IN","SpringML
 4.4"
-DC79,"Director, Data Science",$139K-$220K (Glassdoor est.),"Lake Forest, IL","Grainger
+DC79,"Director, Data Science",179.5,"Lake Forest, IL","Grainger
 3.6"
-DC80,Scientist,$50K-$102K (Glassdoor est.),"Maryland Heights, MO","EAG Laboratories
+DC80,Scientist,76,"Maryland Heights, MO","EAG Laboratories
 2.7"
-DC81,Data Scientist SR,$85K-$139K (Glassdoor est.),"Charlottesville, VA","The Buffalo Group
+DC81,Data Scientist SR,112,"Charlottesville, VA","The Buffalo Group
 3.9"
-DC82,Data Scientist,$74K-$122K (Glassdoor est.),"Pittsburgh, PA","Carmeuse
+DC82,Data Scientist,98,"Pittsburgh, PA","Carmeuse
 3.1"
-DC83,R&D Sr Data Scientist,$99K-$157K (Glassdoor est.),"Vancouver, WA","HP Inc.
+DC83,R&D Sr Data Scientist,128,"Vancouver, WA","HP Inc.
 4.0"
-DC84,Customer Data Scientist/Sales Engineer (Bay,$79K-$222K (Glassdoor est.),"Mountain View, CA","h2o.ai
+DC84,Customer Data Scientist/Sales Engineer (Bay,150.5,"Mountain View, CA","h2o.ai
 4.3"
-DC85,Research Scientist,$57K-$118K (Glassdoor est.),"Cambridge, MA","GNS Healthcare
+DC85,Research Scientist,87.5,"Cambridge, MA","GNS Healthcare
 1.9"
-DC86,Data Scientist,$83K-$137K (Glassdoor est.),"Chantilly, VA","Peraton
+DC86,Data Scientist,110,"Chantilly, VA","Peraton
 3.3"
-DC87,Data Scientist,$86K-$141K (Glassdoor est.),"San Jose, CA","Pactera
+DC87,Data Scientist,113.5,"San Jose, CA","Pactera
 4.4"
-DC88,Data Scientist,$94K-$154K (Glassdoor est.),"San Francisco, CA","Nurx
+DC88,Data Scientist,124,"San Francisco, CA","Nurx
 3.9"
-DC91,Data Analyst,$55K-$100K (Glassdoor est.),"Chicago, IL","Productive Edge
+DC91,Data Analyst,77.5,"Chicago, IL","Productive Edge
 4.3"
-DC92,Data Engineer,$60K-$114K (Glassdoor est.),"Arlington, VA","Excella Consulting
+DC92,Data Engineer,87,"Arlington, VA","Excella Consulting
 4.0"
-DC93,Data Analyst,$39K-$68K (Glassdoor est.),"Tacoma, WA","Gensco
+DC93,Data Analyst,53.5,"Tacoma, WA","Gensco
 4.4"
-DC94,Staff Data Scientist - Technology,$106K-$172K (Glassdoor est.),"Plano, TX","Walmart
+DC94,Staff Data Scientist - Technology,139,"Plano, TX","Walmart
 3.2"
-DC95,Data Scientist,$86K-$142K (Glassdoor est.),"San Jose, CA","Logic20/20
+DC95,Data Scientist,114,"San Jose, CA","Logic20/20
 3.8"
-DC96,Data Scientist,$64K-$107K (Glassdoor est.),"Miami, FL","goTRG
+DC96,Data Scientist,85.5,"Miami, FL","goTRG
 4.2"
-DC97,Data Management Specialist,$31K-$65K (Glassdoor est.),"Huntsville, AL","NMR Consulting
+DC97,Data Management Specialist,48,"Huntsville, AL","NMR Consulting
 4.5"
-DC99,E-Commerce Data Analyst,$34K-$62K (Glassdoor est.),"New Orleans, LA","iSeatz
+DC99,E-Commerce Data Analyst,48,"New Orleans, LA","iSeatz
 3.5"
-DC101,Sr. Scientist II,$117K-$231K (Glassdoor est.),"San Francisco, CA","Nektar Therapeutics
+DC101,Sr. Scientist II,174,"San Francisco, CA","Nektar Therapeutics
 3.5"
-DC102,Insurance Data Scientist,$64K-$106K (Glassdoor est.),"Atlanta, GA","TransUnion
+DC102,Insurance Data Scientist,85,"Atlanta, GA","TransUnion
 3.9"
-DC104,Data Modeler,$79K-$134K (Glassdoor est.),"Landover, MD","IT Concepts
+DC104,Data Modeler,106.5,"Landover, MD","IT Concepts
 4.7"
-DC105,Data Analyst / Scientist,$52K-$93K (Glassdoor est.),"Patuxent River, MD","Scientific Research Corporation
+DC105,Data Analyst / Scientist,72.5,"Patuxent River, MD","Scientific Research Corporation
 4.2"
-DC106,Scientist,$55K-$116K (Glassdoor est.),"Suitland, MD","General Dynamics Information Technology
+DC106,Scientist,85.5,"Suitland, MD","General Dynamics Information Technology
 3.4"
-DC107,Data Scientist,$72K-$123K (Glassdoor est.),"McLean, VA","MITRE
+DC107,Data Scientist,97.5,"McLean, VA","MITRE
 3.2"
-DC108,Data Scientist,$74K-$124K (Glassdoor est.),"Fort Belvoir, VA","The Buffalo Group
+DC108,Data Scientist,99,"Fort Belvoir, VA","The Buffalo Group
 3.9"
-DC109,Data Analyst,$40K-$73K (Glassdoor est.),"Milwaukee, WI","DentaQuest
+DC109,Data Analyst,56.5,"Milwaukee, WI","DentaQuest
 3.1"
-DC110,Lead Data Scientist,$102K-$164K (Glassdoor est.),"Silver Spring, MD","Redjack
+DC110,Lead Data Scientist,133,"Silver Spring, MD","Redjack
 4.1"
-DC112,Data Scientist,$89K-$153K (Glassdoor est.),"New York, NY","7Park Data
+DC112,Data Scientist,121,"New York, NY","7Park Data
 3.8"
-DC113,Data Scientist,$61K-$110K (Glassdoor est.),"Syracuse, NY","Rapid Response Monitoring
+DC113,Data Scientist,85.5,"Syracuse, NY","Rapid Response Monitoring
 4.7"
-DC116,"Data Scientist, Rice University",$65K-$110K (Glassdoor est.),"Houston, TX","Trilogy Ed
+DC116,"Data Scientist, Rice University",87.5,"Houston, TX","Trilogy Ed
 4.3"
-DC117,Senior Data Scientist,$200K-$275K(Employer est.),"Washington, DC","Gallup
+DC117,Senior Data Scientist,237.5,"Washington, DC","Gallup
 4.2"
-DC118,Data Engineer,$68K-$123K (Glassdoor est.),"Charlotte, NC","CapTech
+DC118,Data Engineer,95.5,"Charlotte, NC","CapTech
 3.9"
-DC119,Senior Data Scientist,$80K-$129K (Glassdoor est.),"Southfield, MI","American Axle & Manufacturing
+DC119,Senior Data Scientist,104.5,"Southfield, MI","American Axle & Manufacturing
 3.3"
-DC120,Financial Data Analyst,$41K-$72K (Glassdoor est.),"Matawan, NJ","CentralReach
+DC120,Financial Data Analyst,56.5,"Matawan, NJ","CentralReach
 4.7"
-DC122,Senior Data Analyst,$39K-$71K (Glassdoor est.),"Phoenix, AZ","Integrate
+DC122,Senior Data Analyst,55,"Phoenix, AZ","Integrate
 4.3"
-DC123,Research Scientist,$38K-$85K (Glassdoor est.),"Omaha, NE","Boys Town Hospital
+DC123,Research Scientist,61.5,"Omaha, NE","Boys Town Hospital
 2.9"
-DC124,Data Scientist,$121K-$193K (Glassdoor est.),"San Francisco, CA","Demandbase
+DC124,Data Scientist,157,"San Francisco, CA","Demandbase
 4.5"
-DC139,Data Scientist,$80K-$135K (Glassdoor est.),"Cincinnati, OH","The E.W. Scripps Company
+DC139,Data Scientist,107.5,"Cincinnati, OH","The E.W. Scripps Company
 3.5"
-DC125,Data Engineer,$54K-$102K (Glassdoor est.),"Lyndhurst, NJ","Sapphire Digital
+DC125,Data Engineer,78,"Lyndhurst, NJ","Sapphire Digital
 3.4"
-DC126,Data Scientist,$83K-$144K (Glassdoor est.),"Cambridge, MA","Takeda Pharmaceuticals
+DC126,Data Scientist,113.5,"Cambridge, MA","Takeda Pharmaceuticals
 3.7"
-DC127,Data Scientist,$120K-$160K (Glassdoor est.),"New York, NY","<intent>
+DC127,Data Scientist,140,"New York, NY","<intent>
 4.6"
-DC128,Data Scientist,$102K-$163K (Glassdoor est.),"San Francisco, CA","Formation
+DC128,Data Scientist,132.5,"San Francisco, CA","Formation
 3.2"
-DC129,Data Engineer,$76K-$140K (Glassdoor est.),"San Francisco, CA","Autodesk
+DC129,Data Engineer,108,"San Francisco, CA","Autodesk
 4.0"
-DC130,Ag Data Scientist,$60K-$101K (Glassdoor est.),"Atlanta, IN","Beck''s Hybrids
+DC130,Ag Data Scientist,80.5,"Atlanta, IN","Beck''s Hybrids
 4.6"
-DC131,Data Scientist,$82K-$133K (Glassdoor est.),"Rockville, MD","DrFirst
+DC131,Data Scientist,107.5,"Rockville, MD","DrFirst
 2.8"
-DC132,Data Engineer,$65K-$125K (Glassdoor est.),"Minneapolis, MN","Object Partners
+DC132,Data Engineer,95,"Minneapolis, MN","Object Partners
 4.7"
-DC136,Data Scientist II,$91K-$148K (Glassdoor est.),"Los Angeles, CA","L.A. Care Health Plan
+DC136,Data Scientist II,119.5,"Los Angeles, CA","L.A. Care Health Plan
 3.0"
-DC137,Senior Data Engineer,$95K-$173K (Glassdoor est.),"Charlotte, NC","Red Ventures
+DC137,Senior Data Engineer,134,"Charlotte, NC","Red Ventures
 3.2"
-DC138,Data Scientist,$77K-$124K (Glassdoor est.),"Cambridge, MA","Quick Base
+DC138,Data Scientist,100.5,"Cambridge, MA","Quick Base
 4.4"
-DC140,Data Engineer,$85K-$159K (Glassdoor est.),"Washington, DC","Upside Business Travel
+DC140,Data Engineer,122,"Washington, DC","Upside Business Travel
 4.0"
-DC141,Data Engineer,$80K-$105K(Employer est.),"Chicago, IL","Equity Residential
+DC141,Data Engineer,92.5,"Chicago, IL","Equity Residential
 4.3"
-DC142,Data Analyst,$43K-$81K (Glassdoor est.),"Baltimore, MD","Synagro
+DC142,Data Analyst,62,"Baltimore, MD","Synagro
 2.3"
-DC143,Project Scientist,$29K-$50K (Glassdoor est.),"Alabaster, AL","Alliance Source Testing
+DC143,Project Scientist,39.5,"Alabaster, AL","Alliance Source Testing
 4.0"
-DC145,Data Scientist,$82K-$133K (Glassdoor est.),"Santa Fe Springs, Los Angeles, CA","Accuride International
+DC145,Data Scientist,107.5,"Santa Fe Springs, Los Angeles, CA","Accuride International
 3.6"
-DC146,Data Analytics Manager,$26K-$55K (Glassdoor est.),"Kansas City, MO","Full Potential Solutions
+DC146,Data Analytics Manager,40.5,"Kansas City, MO","Full Potential Solutions
 3.8"
-DC147,Senior Machine Learning (ML) Engineer / Data Scientist - Cyber Security Analytics,$61K-$118K (Glassdoor est.),"Ashburn, VA","Visa Inc.
+DC147,Senior Machine Learning (ML) Engineer / Data Scientist - Cyber Security Analytics,89.5,"Ashburn, VA","Visa Inc.
 3.7"
-DC148,Data Scientist,$60K-$102K (Glassdoor est.),"Chicago, IL","Maven Wave Partners
+DC148,Data Scientist,81,"Chicago, IL","Maven Wave Partners
 4.4"
-DC150,Senior Data Scientist,$112K-$182K (Glassdoor est.),"Herndon, VA","Novetta
+DC150,Senior Data Scientist,147,"Herndon, VA","Novetta
 4.0"
-DC152,Data Scientist,$64K-$106K (Glassdoor est.),"Fort Worth, TX","First Command Financial Services, Inc.
+DC152,Data Scientist,85,"Fort Worth, TX","First Command Financial Services, Inc.
 3.2"
-DC153,Associate Scientist,$51K-$112K (Glassdoor est.),"Valencia, CA","Pharmavite
+DC153,Associate Scientist,81.5,"Valencia, CA","Pharmavite
 2.9"
-DC154,"Scientist 2, QC Viral Vector",$113K-$223K (Glassdoor est.),"Novato, CA","BioMarin Pharmaceutical
+DC154,"Scientist 2, QC Viral Vector",168,"Novato, CA","BioMarin Pharmaceutical
 3.8"
-DC156,Machine Learning Engineer,$72K-$129K (Glassdoor est.),"Aurora, CO","Stratagem Group
+DC156,Machine Learning Engineer,100.5,"Aurora, CO","Stratagem Group
 4.3"
-DC157,Data Scientist/ML Engineer,$71K-$123K (Glassdoor est.),"New York, NY","PA Consulting
+DC157,Data Scientist/ML Engineer,97,"New York, NY","PA Consulting
 3.4"
-DC158,Data Scientist,$64K-$106K (Glassdoor est.),"Chantilly, VA","ManTech
+DC158,Data Scientist,85,"Chantilly, VA","ManTech
 4.1"
-DC159,Customer Data Scientist,$118K-$189K (Glassdoor est.),"Mountain View, CA","h2o.ai
+DC159,Customer Data Scientist,153.5,"Mountain View, CA","h2o.ai
 4.3"
-DC161,Data Engineer,Employer Provided Salary:$120K-$145K,"Tampa, FL","Gridiron IT
+DC161,Data Engineer,132.5,"Tampa, FL","Gridiron IT
 5.0"
-DC162,Data Engineer,$80K-$120K (Glassdoor est.),"Chicago, IL","Productive Edge
+DC162,Data Engineer,100,"Chicago, IL","Productive Edge
 4.3"
-DC164,Sr. Data Scientist,$80K-$130K (Glassdoor est.),"Denver, CO","Evolve Vacation Rental
+DC164,Sr. Data Scientist,105,"Denver, CO","Evolve Vacation Rental
 3.7"
-DC166,Data Engineer 4 - Contract,$59K-$115K (Glassdoor est.),"Riverton, UT","The Church of Jesus Christ of Latter-day Saints
+DC166,Data Engineer 4 - Contract,87,"Riverton, UT","The Church of Jesus Christ of Latter-day Saints
 4.2"
-DC167,Data Analyst - Asset Management,$71K-$136K (Glassdoor est.),"San Francisco, CA","Maximus Real Estate Partners
+DC167,Data Analyst - Asset Management,103.5,"San Francisco, CA","Maximus Real Estate Partners
 4.3"
-DC168,Senior Research Scientist - Embedded System Development for DevOps,$81K-$167K (Glassdoor est.),"Pittsburgh, PA","Software Engineering Institute
+DC168,Senior Research Scientist - Embedded System Development for DevOps,124,"Pittsburgh, PA","Software Engineering Institute
 2.6"
-DC169,Data Scientist - Bioinformatics,$49K-$85K (Glassdoor est.),"Richland, WA","PNNL
+DC169,Data Scientist - Bioinformatics,67,"Richland, WA","PNNL
 3.8"
-DC170,Data Engineer,$60K-$114K (Glassdoor est.),"Washington, DC","AVANADE
+DC170,Data Engineer,87,"Washington, DC","AVANADE
 3.9"
-DC171,Customer Data Scientist/Sales Engineer,$71K-$204K (Glassdoor est.),"Chicago, IL","h2o.ai
+DC171,Customer Data Scientist/Sales Engineer,137.5,"Chicago, IL","h2o.ai
 4.3"
-DC172,Lead Data Scientist,$75K-$125K (Glassdoor est.),"Cincinnati, OH","PatientPoint
+DC172,Lead Data Scientist,100,"Cincinnati, OH","PatientPoint
 3.8"
-DC174,MongoDB Data Engineer II,$77K-$136K (Glassdoor est.),"Chattanooga, TN","BlueCross BlueShield of Tennessee
+DC174,MongoDB Data Engineer II,106.5,"Chattanooga, TN","BlueCross BlueShield of Tennessee
 3.8"
-DC175,Senior Data Scientist Statistics,$74K-$123K (Glassdoor est.),"Richland, WA","PNNL
+DC175,Senior Data Scientist Statistics,98.5,"Richland, WA","PNNL
 3.8"
-DC177,Senior Data Analyst,$44K-$78K (Glassdoor est.),"Clearwater, FL","KnowBe4
+DC177,Senior Data Analyst,61,"Clearwater, FL","KnowBe4
 4.8"
-DC178,Senior Spark Engineer (Data Science),$65K-$148K (Glassdoor est.),"Indianapolis, IN","KSM Consulting
+DC178,Senior Spark Engineer (Data Science),106.5,"Indianapolis, IN","KSM Consulting
 4.4"
-DC179,Data Engineer,$59K-$110K (Glassdoor est.),"Cambridge, MA","Cogo Labs
+DC179,Data Engineer,84.5,"Cambridge, MA","Cogo Labs
 3.9"
-DC180,BI & Platform Analytics Manager,$85K-$134K (Glassdoor est.),"Ewing, NJ","Church & Dwight
+DC180,BI & Platform Analytics Manager,109.5,"Ewing, NJ","Church & Dwight
 3.4"
-DC181,Lead Data Scientist,$124K-$204K (Glassdoor est.),"Boston, MA","MassMutual
+DC181,Lead Data Scientist,164,"Boston, MA","MassMutual
 3.6"
-DC182,"Sr. Data Scientist - Analytics, Personalized Healthcare (PHC)",$131K-$207K (Glassdoor est.),"South San Francisco, CA","Genentech
+DC182,"Sr. Data Scientist - Analytics, Personalized Healthcare (PHC)",169,"South San Francisco, CA","Genentech
 3.9"
-DC183,Senior Data Scientist,$110K-$174K (Glassdoor est.),"Cupertino, CA","Juniper Networks
+DC183,Senior Data Scientist,142,"Cupertino, CA","Juniper Networks
 3.8"
-DC185,Pricipal Scientist Molecular and cellular biologist,$52K-$101K (Glassdoor est.),"Boston, MA","Takeda Pharmaceuticals
+DC185,Pricipal Scientist Molecular and cellular biologist,76.5,"Boston, MA","Takeda Pharmaceuticals
 3.7"
-DC187,"Data Scientist (Actuary, FSA or ASA)",$81K-$133K (Glassdoor est.),"Frederick, MD","Legal & General America
+DC187,"Data Scientist (Actuary, FSA or ASA)",107,"Frederick, MD","Legal & General America
 3.8"
-DC188,Staff Data Scientist,$132K-$211K (Glassdoor est.),"San Jose, CA","Western Digital
+DC188,Staff Data Scientist,171.5,"San Jose, CA","Western Digital
 3.5"
-DC190,Senior Data Scientist / Machine Learning,$73K-$119K (Glassdoor est.),"Dallas, TX","Health IQ
+DC190,Senior Data Scientist / Machine Learning,96,"Dallas, TX","Health IQ
 3.9"
-DC191,Data Scientist - Health Data Analytics,$110K-$175K (Glassdoor est.),"San Francisco, CA","Nuna
+DC191,Data Scientist - Health Data Analytics,142.5,"San Francisco, CA","Nuna
 4.2"
-DC192,Data Engineer 5 - Contract (Remote),$74K-$140K (Glassdoor est.),"Riverton, UT","The Church of Jesus Christ of Latter-day Saints
+DC192,Data Engineer 5 - Contract (Remote),107,"Riverton, UT","The Church of Jesus Christ of Latter-day Saints
 4.2"
-DC193,Senior Scientist - Neuroscience,$100K-$190K (Glassdoor est.),"Marlborough, MA","Sunovion
+DC193,Senior Scientist - Neuroscience,145,"Marlborough, MA","Sunovion
 3.5"
-DC194,Senior Data Analyst,$43K-$80K (Glassdoor est.),"Herndon, VA","National Student Clearinghouse
+DC194,Senior Data Analyst,61.5,"Herndon, VA","National Student Clearinghouse
 2.9"
-DC197,Medical Lab Scientist,$17-$24 Per Hour(Glassdoor est.),"West Reading, PA","Tower Health
+DC197,Medical Lab Scientist,42,"West Reading, PA","Tower Health
 3.6"
-DC198,"Risk and Analytics IT, Data Scientist",$91K-$149K (Glassdoor est.),"Madison, WI","State of Wisconsin Investment Board
+DC198,"Risk and Analytics IT, Data Scientist",120,"Madison, WI","State of Wisconsin Investment Board
 2.7"
-DC199,"Scientist, Analytical Development",$42K-$82K (Glassdoor est.),"Cambridge, MA","Rubius Therapeutics
+DC199,"Scientist, Analytical Development",62,"Cambridge, MA","Rubius Therapeutics
 4.4"
-DC200,Senior Data Scientist,$116K-$185K (Glassdoor est.),"San Francisco, CA","Autodesk
+DC200,Senior Data Scientist,150.5,"San Francisco, CA","Autodesk
 4.0"
-DC211,Sr. Data Scientist II,$111K-$183K (Glassdoor est.),"New York, NY","Argo Group US
+DC211,Sr. Data Scientist II,147,"New York, NY","Argo Group US
 3.4"
-DC212,Excel / VBA / SQL Data Analyst,$44K-$78K (Glassdoor est.),"Springfield, MO","Associated Electric Cooperative
+DC212,Excel / VBA / SQL Data Analyst,61,"Springfield, MO","Associated Electric Cooperative
 4.1"
-DC213,Machine Learning Research Scientist,$81K-$159K (Glassdoor est.),"Pittsburgh, PA","Software Engineering Institute
+DC213,Machine Learning Research Scientist,120,"Pittsburgh, PA","Software Engineering Institute
 2.6"
-DC201,Analytics Manager,$59K-$116K (Glassdoor est.),"Dearborn, MI","OneMagnify
+DC201,Analytics Manager,87.5,"Dearborn, MI","OneMagnify
 4.3"
-DC202,Data Engineer,$48K-$95K (Glassdoor est.),"Winter Park, FL","IZEA
+DC202,Data Engineer,71.5,"Winter Park, FL","IZEA
 4.2"
-DC203,Digital Marketing & ECommerce Data Analyst,$31K-$72K (Glassdoor est.),"San Rafael, CA","Vionic Group
+DC203,Digital Marketing & ECommerce Data Analyst,51.5,"San Rafael, CA","Vionic Group
 3.6"
-DC204,Sr. Scientist - Digital & Image Analysis/Computational Pathology,$105K-$198K (Glassdoor est.),"San Diego, CA","Takeda Pharmaceuticals
+DC204,Sr. Scientist - Digital & Image Analysis/Computational Pathology,151.5,"San Diego, CA","Takeda Pharmaceuticals
 3.7"
-DC205,Senior Data Analyst,$55K-$100K (Glassdoor est.),"Hamilton, NJ","Dodge Data & Analytics
+DC205,Senior Data Analyst,77.5,"Hamilton, NJ","Dodge Data & Analytics
 2.8"
-DC206,Principal Scientist - Immunologist,$98K-$182K (Glassdoor est.),"Boston, MA","Takeda Pharmaceuticals
+DC206,Principal Scientist - Immunologist,140,"Boston, MA","Takeda Pharmaceuticals
 3.7"
-DC207,Senior Data Scientist,$73K-$124K (Glassdoor est.),"Woodbridge, NJ","Plymouth Rock Assurance
+DC207,Senior Data Scientist,98.5,"Woodbridge, NJ","Plymouth Rock Assurance
 3.3"
-DC208,Principal Data Scientist with over 10 years experience,Employer Provided Salary:$200K-$250K,"San Francisco, CA",CA-One Tech Cloud
-DC209,MED TECH/LAB SCIENTIST - LABORATORY,$21-$34 Per Hour(Glassdoor est.),"Lewes, DE","Beebe Healthcare
+DC208,Principal Data Scientist with over 10 years experience,225,"San Francisco, CA",CA-One Tech Cloud
+DC209,MED TECH/LAB SCIENTIST - LABORATORY,56.5,"Lewes, DE","Beebe Healthcare
 3.6"
-DC210,"Sr. Scientist, Quantitative Translational Sciences",$117K-$206K (Glassdoor est.),"Boston, MA","Takeda Pharmaceuticals
+DC210,"Sr. Scientist, Quantitative Translational Sciences",161.5,"Boston, MA","Takeda Pharmaceuticals
 3.7"
-DC215,"VP, Data Science",$83K-$166K (Glassdoor est.),"Phoenix, AZ","PennyMac
+DC215,"VP, Data Science",124.5,"Phoenix, AZ","PennyMac
 3.2"
-DC216,Senior Data Scientist,$114K-$182K (Glassdoor est.),"Burbank, CA","Zest AI
+DC216,Senior Data Scientist,148,"Burbank, CA","Zest AI
 3.9"
-DC217,Radar Data Analyst,$42K-$76K (Glassdoor est.),"Huntsville, AL","DECISIVE ANALYTICS Corporation
+DC217,Radar Data Analyst,59,"Huntsville, AL","DECISIVE ANALYTICS Corporation
 4.7"
-DC221,PL Actuarial-Lead Data Scientist,$114K-$179K (Glassdoor est.),"Worcester, MA","The Hanover Insurance Group
+DC221,PL Actuarial-Lead Data Scientist,146.5,"Worcester, MA","The Hanover Insurance Group
 3.7"
-DC223,PV Scientist,$60K-$123K (Glassdoor est.),"Newton, MA","Karyopharm Therapeutics Inc.
+DC223,PV Scientist,91.5,"Newton, MA","Karyopharm Therapeutics Inc.
 2.9"
-DC224,Senior Data & Machine Learning Scientist,$100K-$166K (Glassdoor est.),"Chicago, IL","Tempus Labs
+DC224,Senior Data & Machine Learning Scientist,133,"Chicago, IL","Tempus Labs
 3.0"
-DC225,Principal Data Scientist (Computational Chemistry),$108K-$173K (Glassdoor est.),"Salt Lake City, UT","Recursion Pharmaceuticals
+DC225,Principal Data Scientist (Computational Chemistry),140.5,"Salt Lake City, UT","Recursion Pharmaceuticals
 4.7"
-DC226,Data Engineer,$48K-$93K (Glassdoor est.),"Lafayette, LA","P2 Energy Solutions
+DC226,Data Engineer,70.5,"Lafayette, LA","P2 Energy Solutions
 3.7"
-DC228,"Principal Scientist, Chemistry & Immunology",$54K-$115K (Glassdoor est.),"Rochester, NY","Rochester Regional Health
+DC228,"Principal Scientist, Chemistry & Immunology",84.5,"Rochester, NY","Rochester Regional Health
 3.3"
-DC229,Software Engineer - Data Visualization,$60K-$127K (Glassdoor est.),"Annapolis Junction, MD","ClearEdge
+DC229,Software Engineer - Data Visualization,93.5,"Annapolis Junction, MD","ClearEdge
 4.0"
-DC230,"Scientist/Senior Scientist, Autoimmune",$90K-$179K (Glassdoor est.),"Cambridge, MA","Rubius Therapeutics
+DC230,"Scientist/Senior Scientist, Autoimmune",134.5,"Cambridge, MA","Rubius Therapeutics
 4.4"
-DC233,Staff Machine Learning Engineer,$138K-$224K (Glassdoor est.),"San Francisco, CA","Tapjoy
+DC233,Staff Machine Learning Engineer,181,"San Francisco, CA","Tapjoy
 3.9"
-DC234,"Principal Scientist, Hematology",$54K-$115K (Glassdoor est.),"Rochester, NY","Rochester Regional Health
+DC234,"Principal Scientist, Hematology",84.5,"Rochester, NY","Rochester Regional Health
 3.3"
-DC235,Lead Data Engineer,$190K-$220K(Employer est.),"Mountain View, CA","Credit Sesame
+DC235,Lead Data Engineer,205,"Mountain View, CA","Credit Sesame
 4.1"
-DC239,Marketing Data Analyst,$35K-$62K (Glassdoor est.),"Highland, CA","San Manuel Casino
+DC239,Marketing Data Analyst,48.5,"Highland, CA","San Manuel Casino
 3.6"
-DC240,Medical Laboratory Scientist,$18-$25 Per Hour(Glassdoor est.),"Burleson, TX","Texas Health Huguley Hospital
+DC240,Medical Laboratory Scientist,44.5,"Burleson, TX","Texas Health Huguley Hospital
 4.0"
-DC242,R&D Specialist/ Food Scientist,$39K-$66K (Glassdoor est.),"Hoopeston, IL","Teasdale Latin Foods
+DC242,R&D Specialist/ Food Scientist,52.5,"Hoopeston, IL","Teasdale Latin Foods
 2.4"
-DC243,Senior Research Scientist-Machine Learning,$81K-$167K (Glassdoor est.),"Pittsburgh, PA","Software Engineering Institute
+DC243,Senior Research Scientist-Machine Learning,124,"Pittsburgh, PA","Software Engineering Institute
 2.6"
-DC245,Analytics Manager - Data Mart,$42K-$86K (Glassdoor est.),"Scotts Valley, CA","Central California Alliance for Health
+DC245,Analytics Manager - Data Mart,64,"Scotts Valley, CA","Central California Alliance for Health
 3.5"
-DC246,Sr. Data Engineer - Contract-to-Hire (Java),$69K-$127K (Glassdoor est.),"Knoxville, TN","Pilot Flying J Travel Centers LLC
+DC246,Sr. Data Engineer - Contract-to-Hire (Java),98,"Knoxville, TN","Pilot Flying J Travel Centers LLC
 3.0"
-DC247,MED TECH/LAB SCIENTIST- SOUTH COASTAL LAB,$21-$34 Per Hour(Glassdoor est.),"Millville, DE","Beebe Healthcare
+DC247,MED TECH/LAB SCIENTIST- SOUTH COASTAL LAB,56.5,"Millville, DE","Beebe Healthcare
 3.6"
-DC248,Food Scientist - Developer,$40K-$68K (Glassdoor est.),"Milwaukee, WI","Palermo''s Pizza
+DC248,Food Scientist - Developer,54,"Milwaukee, WI","Palermo''s Pizza
 3.3"
-DC250,Staff Scientist-Downstream Process Development,$49K-$113K (Glassdoor est.),"Rockville, MD","Advanced BioScience Laboratories
+DC250,Staff Scientist-Downstream Process Development,81,"Rockville, MD","Advanced BioScience Laboratories
 2.7"
-DC251,Sr. Data Engineer,$75K-$140K (Glassdoor est.),"Chicago, IL","Echo Global Logistics
+DC251,Sr. Data Engineer,107.5,"Chicago, IL","Echo Global Logistics
 3.4"
-DC253,Data Scientist - Quantitative,$86K-$139K (Glassdoor est.),"Chicago, IL","Truckstop.com
+DC253,Data Scientist - Quantitative,112.5,"Chicago, IL","Truckstop.com
 3.8"
-DC254,Data Scientist,$66K-$112K (Glassdoor est.),"Herndon, VA","Lockheed Martin
+DC254,Data Scientist,89,"Herndon, VA","Lockheed Martin
 3.7"
-DC255,Senior Research Statistician- Data Scientist,$76K-$125K (Glassdoor est.),"Sheboygan, WI","Acuity Insurance
+DC255,Senior Research Statistician- Data Scientist,100.5,"Sheboygan, WI","Acuity Insurance
 4.8"
-DC256,"Business Data Analyst, SQL",$44K-$86K (Glassdoor est.),"New York, NY","Fareportal
+DC256,"Business Data Analyst, SQL",65,"New York, NY","Fareportal
 3.8"
-DC257,Medical Technologist / Clinical Laboratory Scientist,$15-$25 Per Hour(Glassdoor est.),"New Orleans, LA","Veterans Affairs, Veterans Health Administration
+DC257,Medical Technologist / Clinical Laboratory Scientist,41.5,"New Orleans, LA","Veterans Affairs, Veterans Health Administration
 3.4"
-DC258,Data Scientist,$53K-$92K (Glassdoor est.),"Dallas, TX","Credera
+DC258,Data Scientist,72.5,"Dallas, TX","Credera
 4.3"
-DC259,Senior Data Analyst,$44K-$78K (Glassdoor est.),"Clearwater, FL","KnowBe4
+DC259,Senior Data Analyst,61,"Clearwater, FL","KnowBe4
 4.8"
-DC260,BI & Platform Analytics Manager,$85K-$134K (Glassdoor est.),"Ewing, NJ","Church & Dwight
+DC260,BI & Platform Analytics Manager,109.5,"Ewing, NJ","Church & Dwight
 3.4"
-DC262,Data Engineer,$59K-$110K (Glassdoor est.),"Cambridge, MA","Cogo Labs
+DC262,Data Engineer,84.5,"Cambridge, MA","Cogo Labs
 3.9"
-DC263,Data Scientist,$64K-$111K (Glassdoor est.),"Chicago, IL","Spectrum Communications and Consulting
+DC263,Data Scientist,87.5,"Chicago, IL","Spectrum Communications and Consulting
 3.4"
-DC264,Data Analyst,$65K-$120K (Glassdoor est.),"San Mateo, CA","NCSOFT
+DC264,Data Analyst,92.5,"San Mateo, CA","NCSOFT
 3.1"
-DC265,Associate Data Scientist/Computer Scientist,$60K-$103K (Glassdoor est.),"McLean, VA","MITRE
+DC265,Associate Data Scientist/Computer Scientist,81.5,"McLean, VA","MITRE
 3.2"
-DC282,Data Engineer 5 - Contract (Remote),$74K-$140K (Glassdoor est.),"Riverton, UT","The Church of Jesus Christ of Latter-day Saints
+DC282,Data Engineer 5 - Contract (Remote),107,"Riverton, UT","The Church of Jesus Christ of Latter-day Saints
 4.2"
-DC284,Digital Health Data Scientist,$63K-$110K (Glassdoor est.),"Cambridge, MA","Pfizer
+DC284,Digital Health Data Scientist,86.5,"Cambridge, MA","Pfizer
 4.0"
-DC285,Data Scientist,$63K-$105K (Glassdoor est.),"Louisville, KY","SMC 3
+DC285,Data Scientist,84,"Louisville, KY","SMC 3
 4.3"
-DC266,Business Intelligence Analyst / Developer,$53K-$105K (Glassdoor est.),"Dayton, OH","Dayton Freight Lines, Inc.
+DC266,Business Intelligence Analyst / Developer,79,"Dayton, OH","Dayton Freight Lines, Inc.
 4.3"
-DC267,Lead Data Scientist,$124K-$204K (Glassdoor est.),"Boston, MA","MassMutual
+DC267,Lead Data Scientist,164,"Boston, MA","MassMutual
 3.6"
-DC268,"Sr. Data Scientist - Analytics, Personalized Healthcare (PHC)",$131K-$207K (Glassdoor est.),"South San Francisco, CA","Genentech
+DC268,"Sr. Data Scientist - Analytics, Personalized Healthcare (PHC)",169,"South San Francisco, CA","Genentech
 3.9"
-DC269,Senior Data Scientist,$110K-$174K (Glassdoor est.),"Cupertino, CA","Juniper Networks
+DC269,Senior Data Scientist,142,"Cupertino, CA","Juniper Networks
 3.8"
-DC270,Data Analyst,$33K-$62K (Glassdoor est.),"Parlier, CA","Community Action Partnership of San Luis Obispo
+DC270,Data Analyst,47.5,"Parlier, CA","Community Action Partnership of San Luis Obispo
 2.8"
-DC273,Pricipal Scientist Molecular and cellular biologist,$52K-$101K (Glassdoor est.),"Boston, MA","Takeda Pharmaceuticals
+DC273,Pricipal Scientist Molecular and cellular biologist,76.5,"Boston, MA","Takeda Pharmaceuticals
 3.7"
-DC274,Data Analyst,$48K-$90K (Glassdoor est.),"San Francisco, CA","TrueAccord
+DC274,Data Analyst,69,"San Francisco, CA","TrueAccord
 3.4"
-DC275,Data Analyst,$34K-$64K (Glassdoor est.),"Meridian, ID","DRB Systems
+DC275,Data Analyst,49,"Meridian, ID","DRB Systems
 4.0"
-DC276,Staff Data Scientist,$132K-$211K (Glassdoor est.),"San Jose, CA","Western Digital
+DC276,Staff Data Scientist,171.5,"San Jose, CA","Western Digital
 3.5"
-DC277,"Data Scientist (Actuary, FSA or ASA)",$81K-$133K (Glassdoor est.),"Frederick, MD","Legal & General America
+DC277,"Data Scientist (Actuary, FSA or ASA)",107,"Frederick, MD","Legal & General America
 3.8"
-DC278,System and Data Analyst,$42K-$76K (Glassdoor est.),"Cherry Hill, NJ","Corcentric
+DC278,System and Data Analyst,59,"Cherry Hill, NJ","Corcentric
 3.7"
-DC281,Data Scientist,$66K-$111K (Glassdoor est.),"Indianapolis, IN","U.Group
+DC281,Data Scientist,88.5,"Indianapolis, IN","U.Group
 3.5"
-DC334,Data Engineer I - Azure,$54K-$101K (Glassdoor est.),"Pella, IA","Vermeer
+DC334,Data Engineer I - Azure,77.5,"Pella, IA","Vermeer
 3.9"
-DC288,Data & Analytics Consultant (NYC),$91K-$138K (Glassdoor est.),"New York, NY","Systems Evolution Inc.
+DC288,Data & Analytics Consultant (NYC),114.5,"New York, NY","Systems Evolution Inc.
 4.7"
-DC289,Senior Scientist - Neuroscience,$100K-$190K (Glassdoor est.),"Marlborough, MA","Sunovion
+DC289,Senior Scientist - Neuroscience,145,"Marlborough, MA","Sunovion
 3.5"
-DC290,Data Engineer,$62K-$114K (Glassdoor est.),"Nashville, TN","Eventbrite
+DC290,Data Engineer,88,"Nashville, TN","Eventbrite
 4.4"
-DC291,Big Data Engineer - Chicago - Future Opportunity,$71K-$129K (Glassdoor est.),"Chicago, IL","Centro
+DC291,Big Data Engineer - Chicago - Future Opportunity,100,"Chicago, IL","Centro
 4.1"
-DC292,Senior Data Analyst,$43K-$80K (Glassdoor est.),"Herndon, VA","National Student Clearinghouse
+DC292,Senior Data Analyst,61.5,"Herndon, VA","National Student Clearinghouse
 2.9"
-DC293,Data Scientist,$74K-$119K (Glassdoor est.),"Portland, OR","comScore
+DC293,Data Scientist,96.5,"Portland, OR","comScore
 2.5"
-DC295,Survey Data Analyst,$55K-$97K (Glassdoor est.),"Minneapolis, MN","SullivanCotter
+DC295,Survey Data Analyst,76,"Minneapolis, MN","SullivanCotter
 4.2"
-DC296,Data Scientist,$15K-$16K(Employer est.),"Port Washington, NY","NPD
+DC296,Data Scientist,15.5,"Port Washington, NY","NPD
 3.9"
-DC299,Data Scientist,$61K-$106K (Glassdoor est.),"Austin, TX","Bakery Agency
+DC299,Data Scientist,83.5,"Austin, TX","Bakery Agency
 4.3"
-DC300,"Risk and Analytics IT, Data Scientist",$91K-$149K (Glassdoor est.),"Madison, WI","State of Wisconsin Investment Board
+DC300,"Risk and Analytics IT, Data Scientist",120,"Madison, WI","State of Wisconsin Investment Board
 2.7"
-DC302,Data Scientist,$127K-$199K (Glassdoor est.),"South San Francisco, CA","Genentech
+DC302,Data Scientist,163,"South San Francisco, CA","Genentech
 3.9"
-DC305,Lead Health Data Analyst - Front End,$74K-$126K (Glassdoor est.),"Providence, RI","Blue Cross & Blue Shield of Rhode Island
+DC305,Lead Health Data Analyst - Front End,100,"Providence, RI","Blue Cross & Blue Shield of Rhode Island
 3.4"
-DC306,Research Scientist,$33K-$72K (Glassdoor est.),"Omaha, NE","Boys Town
+DC306,Research Scientist,52.5,"Omaha, NE","Boys Town
 3.8"
-DC332,Data Engineer,$70K-$132K (Glassdoor est.),"Agoura Hills, CA","PennyMac
+DC332,Data Engineer,101,"Agoura Hills, CA","PennyMac
 3.2"
-DC333,Senior Data Scientist,$73K-$124K (Glassdoor est.),"Woodbridge, NJ","Plymouth Rock Assurance
+DC333,Senior Data Scientist,98.5,"Woodbridge, NJ","Plymouth Rock Assurance
 3.3"
-DC307,Medical Lab Scientist,$17-$24 Per Hour(Glassdoor est.),"West Reading, PA","Tower Health
+DC307,Medical Lab Scientist,42,"West Reading, PA","Tower Health
 3.6"
-DC308,Junior Data Analyst,$37K-$63K (Glassdoor est.),"Washington, DC","The HSC Health Care System
+DC308,Junior Data Analyst,50,"Washington, DC","The HSC Health Care System
 3.3"
-DC309,SQL Data Engineer,$67K-$119K (Glassdoor est.),"Austin, TX","Pro-Sphere Tek
+DC309,SQL Data Engineer,93,"Austin, TX","Pro-Sphere Tek
 3.4"
-DC310,Data Scientist,$72K-$117K (Glassdoor est.),"Cincinnati, OH","Ameritas Life Insurance Corp
+DC310,Data Scientist,94.5,"Cincinnati, OH","Ameritas Life Insurance Corp
 3.0"
-DC311,Senior Data Scientist,$116K-$185K (Glassdoor est.),"San Francisco, CA","Autodesk
+DC311,Senior Data Scientist,150.5,"San Francisco, CA","Autodesk
 4.0"
-DC312,Data Scientist,$78K-$126K (Glassdoor est.),"Raleigh, NC","Genworth
+DC312,Data Scientist,102,"Raleigh, NC","Genworth
 3.7"
-DC313,"Scientist, Analytical Development",$42K-$82K (Glassdoor est.),"Cambridge, MA","Rubius Therapeutics
+DC313,"Scientist, Analytical Development",62,"Cambridge, MA","Rubius Therapeutics
 4.4"
-DC314,Analytics Manager,$59K-$116K (Glassdoor est.),"Dearborn, MI","OneMagnify
+DC314,Analytics Manager,87.5,"Dearborn, MI","OneMagnify
 4.3"
-DC316,Clinical Data Scientist,$63K-$105K (Glassdoor est.),"Groton, CT","Pfizer
+DC316,Clinical Data Scientist,84,"Groton, CT","Pfizer
 4.0"
-DC317,Data Scientist,$109K-$177K (Glassdoor est.),"Herndon, VA","Novetta
+DC317,Data Scientist,143,"Herndon, VA","Novetta
 4.0"
-DC318,"Sr. Data Scientist, Cyber-Security LT Contract",$116K-$194K (Glassdoor est.),"Phila, PA","Numeric, LLC
+DC318,"Sr. Data Scientist, Cyber-Security LT Contract",155,"Phila, PA","Numeric, LLC
 3.2"
-DC319,Data Engineer,$48K-$95K (Glassdoor est.),"Winter Park, FL","IZEA
+DC319,Data Engineer,71.5,"Winter Park, FL","IZEA
 4.2"
-DC320,Data Scientist,$83K-$133K (Glassdoor est.),"Oakland, CA","Trace Data
+DC320,Data Scientist,108,"Oakland, CA","Trace Data
 3.9"
-DC322,Sr. Scientist - Digital & Image Analysis/Computational Pathology,$105K-$198K (Glassdoor est.),"San Diego, CA","Takeda Pharmaceuticals
+DC322,Sr. Scientist - Digital & Image Analysis/Computational Pathology,151.5,"San Diego, CA","Takeda Pharmaceuticals
 3.7"
-DC323,Digital Marketing & ECommerce Data Analyst,$31K-$72K (Glassdoor est.),"San Rafael, CA","Vionic Group
+DC323,Digital Marketing & ECommerce Data Analyst,51.5,"San Rafael, CA","Vionic Group
 3.6"
-DC324,Principal Scientist - Immunologist,$98K-$182K (Glassdoor est.),"Boston, MA","Takeda Pharmaceuticals
+DC324,Principal Scientist - Immunologist,140,"Boston, MA","Takeda Pharmaceuticals
 3.7"
-DC325,Senior Data Analyst,$55K-$100K (Glassdoor est.),"Hamilton, NJ","Dodge Data & Analytics
+DC325,Senior Data Analyst,77.5,"Hamilton, NJ","Dodge Data & Analytics
 2.8"
-DC326,Insurance Financial Data Analyst,$45K-$82K (Glassdoor est.),"Boise, ID","Clearwater Analytics
+DC326,Insurance Financial Data Analyst,63.5,"Boise, ID","Clearwater Analytics
 4.2"
-DC328,Data Scientist,$83K-$135K (Glassdoor est.),"San Francisco, CA","Tekvalley, Corp.
+DC328,Data Scientist,109,"San Francisco, CA","Tekvalley, Corp.
 4.0"
-DC330,Data Scientist,$70K-$122K (Glassdoor est.),"Oak Ridge, TN","BWX Technologies
+DC330,Data Scientist,96,"Oak Ridge, TN","BWX Technologies
 3.5"
-DC331,Principal Data Scientist with over 10 years experience,Employer Provided Salary:$200K-$250K,"San Francisco, CA",CA-One Tech Cloud
-DC335,"Sr. Scientist, Quantitative Translational Sciences",$117K-$206K (Glassdoor est.),"Boston, MA","Takeda Pharmaceuticals
+DC331,Principal Data Scientist with over 10 years experience,225,"San Francisco, CA",CA-One Tech Cloud
+DC335,"Sr. Scientist, Quantitative Translational Sciences",161.5,"Boston, MA","Takeda Pharmaceuticals
 3.7"
-DC337,MED TECH/LAB SCIENTIST - LABORATORY,$21-$34 Per Hour(Glassdoor est.),"Lewes, DE","Beebe Healthcare
+DC337,MED TECH/LAB SCIENTIST - LABORATORY,56.5,"Lewes, DE","Beebe Healthcare
 3.6"
-DC339,Sr. Data Scientist II,$111K-$183K (Glassdoor est.),"New York, NY","Argo Group US
+DC339,Sr. Data Scientist II,147,"New York, NY","Argo Group US
 3.4"
-DC341,Data Scientist,$68K-$112K (Glassdoor est.),"San Ramon, CA","L&T Infotech
+DC341,Data Scientist,90,"San Ramon, CA","L&T Infotech
 3.5"
-DC342,Information Security Data Analyst,$42K-$74K (Glassdoor est.),"Red Bank, NJ","OceanFirst Financial
+DC342,Information Security Data Analyst,58,"Red Bank, NJ","OceanFirst Financial
 4.3"
-DC344,Excel / VBA / SQL Data Analyst,$44K-$78K (Glassdoor est.),"Springfield, MO","Associated Electric Cooperative
+DC344,Excel / VBA / SQL Data Analyst,61,"Springfield, MO","Associated Electric Cooperative
 4.1"
-DC346,Machine Learning Research Scientist,$81K-$159K (Glassdoor est.),"Pittsburgh, PA","Software Engineering Institute
+DC346,Machine Learning Research Scientist,120,"Pittsburgh, PA","Software Engineering Institute
 2.6"
-DC347,Data Scientist,$95K-$161K (Glassdoor est.),"New York, NY","Sotheby''s
+DC347,Data Scientist,128,"New York, NY","Sotheby''s
 3.6"
-DC348,Data Scientist,$75K-$124K (Glassdoor est.),"Hillsboro, OR","First Tech Federal Credit Union
+DC348,Data Scientist,99.5,"Hillsboro, OR","First Tech Federal Credit Union
 3.5"
-DC349,Data Scientist,$72K-$120K (Glassdoor est.),"Detroit, MI","Amrock
+DC349,Data Scientist,96,"Detroit, MI","Amrock
 3.6"
-DC350,Data Scientist,$76K-$126K (Glassdoor est.),"Washington, DC","Vanda Pharmaceuticals
+DC350,Data Scientist,101,"Washington, DC","Vanda Pharmaceuticals
 2.3"
-DC351,Senior Data Scientist,$114K-$182K (Glassdoor est.),"Burbank, CA","Zest AI
+DC351,Senior Data Scientist,148,"Burbank, CA","Zest AI
 3.9"
-DC352,"Data Scientist, Senior",$108K-$176K (Glassdoor est.),"Fort Belvoir, VA","Novetta
+DC352,"Data Scientist, Senior",142,"Fort Belvoir, VA","Novetta
 4.0"
-DC353,Senior Data Scientist,$130K-$208K (Glassdoor est.),"Palo Alto, CA","CK-12 Foundation
+DC353,Senior Data Scientist,169,"Palo Alto, CA","CK-12 Foundation
 4.1"
-DC354,"VP, Data Science",$83K-$166K (Glassdoor est.),"Phoenix, AZ","PennyMac
+DC354,"VP, Data Science",124.5,"Phoenix, AZ","PennyMac
 3.2"
-DC355,Radar Data Analyst,$42K-$76K (Glassdoor est.),"Huntsville, AL","DECISIVE ANALYTICS Corporation
+DC355,Radar Data Analyst,59,"Huntsville, AL","DECISIVE ANALYTICS Corporation
 4.7"
-DC356,CONSULTANT– DATA ANALYTICS GROUP,$37K-$68K (Glassdoor est.),"San Diego, CA","Opinion Dynamics
+DC356,CONSULTANT– DATA ANALYTICS GROUP,52.5,"San Diego, CA","Opinion Dynamics
 4.2"
-DC376,RESEARCH SCIENTIST - BIOLOGICAL SAFETY,$38K-$82K (Glassdoor est.),"San Antonio, TX","Southwest Research Institute
+DC376,RESEARCH SCIENTIST - BIOLOGICAL SAFETY,60,"San Antonio, TX","Southwest Research Institute
 3.9"
-DC357,Data Engineer,$52K-$99K (Glassdoor est.),"Houston, TX","Applied Information Sciences
+DC357,Data Engineer,75.5,"Houston, TX","Applied Information Sciences
 4.6"
-DC358,Senior Data Scientist,$105K-$173K (Glassdoor est.),"Armonk, NY","Swiss Re
+DC358,Senior Data Scientist,139,"Armonk, NY","Swiss Re
 3.7"
-DC362,"Data Engineer, Data Engineering and Artifical Intelligence",$71K-$134K (Glassdoor est.),"Cambridge, MA","Takeda Pharmaceuticals
+DC362,"Data Engineer, Data Engineering and Artifical Intelligence",102.5,"Cambridge, MA","Takeda Pharmaceuticals
 3.7"
-DC364,Staff Scientist,$39K-$82K (Glassdoor est.),"Columbia, SC","WK Dickson
+DC364,Staff Scientist,60.5,"Columbia, SC","WK Dickson
 4.4"
-DC366,PL Actuarial-Lead Data Scientist,$114K-$179K (Glassdoor est.),"Worcester, MA","The Hanover Insurance Group
+DC366,PL Actuarial-Lead Data Scientist,146.5,"Worcester, MA","The Hanover Insurance Group
 3.7"
-DC367,"Associate Scientist/Scientist, Process Analytical Technology - Small Molecule Analytical Chemistry",$88K-$162K (Glassdoor est.),"South San Francisco, CA","Genentech
+DC367,"Associate Scientist/Scientist, Process Analytical Technology - Small Molecule Analytical Chemistry",125,"South San Francisco, CA","Genentech
 3.9"
-DC368,Sr. Data Analyst,$60K-$102K (Glassdoor est.),"Springfield, MA","MassMutual
+DC368,Sr. Data Analyst,81,"Springfield, MA","MassMutual
 3.6"
-DC369,Senior Data & Machine Learning Scientist,$100K-$166K (Glassdoor est.),"Chicago, IL","Tempus Labs
+DC369,Senior Data & Machine Learning Scientist,133,"Chicago, IL","Tempus Labs
 3.0"
-DC370,Program/Data Analyst,$55K-$99K (Glassdoor est.),"Washington, DC","General Dynamics Information Technology
+DC370,Program/Data Analyst,77,"Washington, DC","General Dynamics Information Technology
 3.4"
-DC371,Data Engineer,$67K-$117K (Glassdoor est.),"Herndon, VA","ManTech
+DC371,Data Engineer,92,"Herndon, VA","ManTech
 4.1"
-DC372,Senior Data Scientist: Causal & Predictive analytics AI Innovation Lab,$92K-$150K (Glassdoor est.),"Cambridge, MA","Novartis
+DC372,Senior Data Scientist: Causal & Predictive analytics AI Innovation Lab,121,"Cambridge, MA","Novartis
 3.8"
-DC375,"Principal Data Engineer, Data Platform & Insights",$116K-$209K (Glassdoor est.),"San Francisco, CA","Autodesk
+DC375,"Principal Data Engineer, Data Platform & Insights",162.5,"San Francisco, CA","Autodesk
 4.0"
-DC379,Big Data Engineer,$62K-$119K (Glassdoor est.),"Indianapolis, IN","SpringML
+DC379,Big Data Engineer,90.5,"Indianapolis, IN","SpringML
 4.4"
-DC380,Data Scientist / Machine Learning Expert,$86K-$143K (Glassdoor est.),"Cambridge, MA","Novartis
+DC380,Data Scientist / Machine Learning Expert,114.5,"Cambridge, MA","Novartis
 3.8"
-DC381,Data Scientist,$93K-$149K (Glassdoor est.),"Sunnyvale, CA","Juniper Networks
+DC381,Data Scientist,121,"Sunnyvale, CA","Juniper Networks
 3.8"
-DC382,Senior Data Scientist,$84K-$136K (Glassdoor est.),"Dallas, TX","The Integer Group
+DC382,Senior Data Scientist,110,"Dallas, TX","The Integer Group
 2.2"
-DC383,PV Scientist,$60K-$123K (Glassdoor est.),"Newton, MA","Karyopharm Therapeutics Inc.
+DC383,PV Scientist,91.5,"Newton, MA","Karyopharm Therapeutics Inc.
 2.9"
-DC384,Clinical Data Analyst,$52K-$89K (Glassdoor est.),"Portsmouth, VA","ManTech
+DC384,Clinical Data Analyst,70.5,"Portsmouth, VA","ManTech
 4.1"
-DC386,Data Engineer,$48K-$93K (Glassdoor est.),"Lafayette, LA","P2 Energy Solutions
+DC386,Data Engineer,70.5,"Lafayette, LA","P2 Energy Solutions
 3.7"
-DC387,Computational Chemist/Data Scientist,$56K-$97K (Glassdoor est.),"Richland, WA","PNNL
+DC387,Computational Chemist/Data Scientist,76.5,"Richland, WA","PNNL
 3.8"
-DC388,Data Engineer,$65K-$119K (Glassdoor est.),"Springfield, MA","MassMutual
+DC388,Data Engineer,92,"Springfield, MA","MassMutual
 3.6"
-DC390,Principal Data Scientist (Computational Chemistry),$108K-$173K (Glassdoor est.),"Salt Lake City, UT","Recursion Pharmaceuticals
+DC390,Principal Data Scientist (Computational Chemistry),140.5,"Salt Lake City, UT","Recursion Pharmaceuticals
 4.7"
-DC391,Product Engineer – Data Science,$63K-$101K (Glassdoor est.),"Arlington, VA","Esri
+DC391,Product Engineer – Data Science,82,"Arlington, VA","Esri
 3.5"
-DC392,"Principal Scientist, Chemistry & Immunology",$54K-$115K (Glassdoor est.),"Rochester, NY","Rochester Regional Health
+DC392,"Principal Scientist, Chemistry & Immunology",84.5,"Rochester, NY","Rochester Regional Health
 3.3"
-DC394,"Scientist/Senior Scientist, Autoimmune",$90K-$179K (Glassdoor est.),"Cambridge, MA","Rubius Therapeutics
+DC394,"Scientist/Senior Scientist, Autoimmune",134.5,"Cambridge, MA","Rubius Therapeutics
 4.4"
-DC396,Data Scientist,$127K-$202K (Glassdoor est.),"San Francisco, CA","Samba TV
+DC396,Data Scientist,164.5,"San Francisco, CA","Samba TV
 3.3"
-DC397,Market Data Analyst,$31K-$57K (Glassdoor est.),"West Palm Beach, FL","SV Microwave
+DC397,Market Data Analyst,44,"West Palm Beach, FL","SV Microwave
 3.4"
-DC398,Software Engineer - Data Visualization,$60K-$127K (Glassdoor est.),"Annapolis Junction, MD","ClearEdge
+DC398,Software Engineer - Data Visualization,93.5,"Annapolis Junction, MD","ClearEdge
 4.0"
-DC399,Data Engineer,$75K-$143K (Glassdoor est.),"Herndon, VA","SpringML
+DC399,Data Engineer,109,"Herndon, VA","SpringML
 4.4"
-DC400,Staff Data Engineer,$105K-$194K (Glassdoor est.),"Austin, TX","Sumo Logic
+DC400,Staff Data Engineer,149.5,"Austin, TX","Sumo Logic
 3.8"
-DC401,Associate Data Engineer,$45K-$86K (Glassdoor est.),"Washington, DC","EAB
+DC401,Associate Data Engineer,65.5,"Washington, DC","EAB
 3.5"
-DC403,Senior Data Scientist,$95K-$154K (Glassdoor est.),"Charlotte, NC","Brighthouse Financial
+DC403,Senior Data Scientist,124.5,"Charlotte, NC","Brighthouse Financial
 3.5"
-DC406,Staff BI and Data Engineer,$80K-$148K (Glassdoor est.),"San Jose, CA","Affinity Solutions
+DC406,Staff BI and Data Engineer,114,"San Jose, CA","Affinity Solutions
 2.9"
-DC407,Marketing Data Analyst,$36K-$62K (Glassdoor est.),"Exton, PA","Citadel Federal Credit Union
+DC407,Marketing Data Analyst,49,"Exton, PA","Citadel Federal Credit Union
 3.9"
-DC409,"Principal Scientist, Hematology",$54K-$115K (Glassdoor est.),"Rochester, NY","Rochester Regional Health
+DC409,"Principal Scientist, Hematology",84.5,"Rochester, NY","Rochester Regional Health
 3.3"
-DC410,Data Analyst,$50K-$92K (Glassdoor est.),"Alexandria, VA","CALIBRE Systems
+DC410,Data Analyst,71,"Alexandria, VA","CALIBRE Systems
 3.7"
-DC411,"Director - Data, Privacy and AI Governance",$67K-$135K (Glassdoor est.),"Boston, MA","MassMutual
+DC411,"Director - Data, Privacy and AI Governance",101,"Boston, MA","MassMutual
 3.6"
-DC412,Data Scientist,$82K-$132K (Glassdoor est.),"Redlands, CA","Esri
+DC412,Data Scientist,107,"Redlands, CA","Esri
 3.5"
-DC413,Data Scientist,$85K-$140K (Glassdoor est.),"Ipswich, MA","New England Biolabs
+DC413,Data Scientist,112.5,"Ipswich, MA","New England Biolabs
 4.7"
-DC414,Staff Machine Learning Engineer,$138K-$224K (Glassdoor est.),"San Francisco, CA","Tapjoy
+DC414,Staff Machine Learning Engineer,181,"San Francisco, CA","Tapjoy
 3.9"
-DC415,Information Security Data Analyst,$42K-$80K (Glassdoor est.),"Chicago, IL","Motorola Solutions
+DC415,Information Security Data Analyst,61,"Chicago, IL","Motorola Solutions
 3.7"
-DC416,Lead Data Engineer,$190K-$220K(Employer est.),"Mountain View, CA","Credit Sesame
+DC416,Lead Data Engineer,205,"Mountain View, CA","Credit Sesame
 4.1"
-DC417,Scientist Manufacturing - Kentucky BioProcessing,$68K-$139K (Glassdoor est.),"Owensboro, KY","Reynolds American
+DC417,Scientist Manufacturing - Kentucky BioProcessing,103.5,"Owensboro, KY","Reynolds American
 3.1"
-DC419,Data Analytics Project Manager,$34K-$92K (Glassdoor est.),"Springfield, MA","MassMutual
+DC419,Data Analytics Project Manager,63,"Springfield, MA","MassMutual
 3.6"
-DC420,Consultant - Analytics Consulting,$54K-$71K (Glassdoor est.),"Hartford, CT","Infosys
+DC420,Consultant - Analytics Consulting,62.5,"Hartford, CT","Infosys
 3.0"
-DC421,Data Engineer,$65K-$124K (Glassdoor est.),"Orange, CA","Alignment Healthcare
+DC421,Data Engineer,94.5,"Orange, CA","Alignment Healthcare
 3.5"
-DC425,Marketing Data Analyst,$35K-$62K (Glassdoor est.),"Highland, CA","San Manuel Casino
+DC425,Marketing Data Analyst,48.5,"Highland, CA","San Manuel Casino
 3.6"
-DC426,Senior Scientist (Neuroscience),$109K-$200K (Glassdoor est.),"Marlborough, MA","Sunovion
+DC426,Senior Scientist (Neuroscience),154.5,"Marlborough, MA","Sunovion
 3.5"
-DC427,Medical Laboratory Scientist,$18-$25 Per Hour(Glassdoor est.),"Burleson, TX","Texas Health Huguley Hospital
+DC427,Medical Laboratory Scientist,44.5,"Burleson, TX","Texas Health Huguley Hospital
 4.0"
-DC428,Machine Learning Engineer - Regulatory,$61K-$113K (Glassdoor est.),"Lenexa, KS","Cboe Global Markets
+DC428,Machine Learning Engineer - Regulatory,87,"Lenexa, KS","Cboe Global Markets
 3.7"
-DC429,R&D Specialist/ Food Scientist,$39K-$66K (Glassdoor est.),"Hoopeston, IL","Teasdale Latin Foods
+DC429,R&D Specialist/ Food Scientist,52.5,"Hoopeston, IL","Teasdale Latin Foods
 2.4"
-DC430,Data Engineer,$43K-$86K (Glassdoor est.),"New York, NY","Guidepoint
+DC430,Data Engineer,64.5,"New York, NY","Guidepoint
 3.2"
-DC431,"Scientist, Bacteriology",$74K-$149K (Glassdoor est.),"Concord, CA","Cerus Corporation
+DC431,"Scientist, Bacteriology",111.5,"Concord, CA","Cerus Corporation
 2.1"
-DC433,"Associate Director, Platform and DevOps- Data Engineering and Aritifical Intelligence",$113K-$196K (Glassdoor est.),"Cambridge, MA","Takeda Pharmaceuticals
+DC433,"Associate Director, Platform and DevOps- Data Engineering and Aritifical Intelligence",154.5,"Cambridge, MA","Takeda Pharmaceuticals
 3.7"
-DC434,Senior Research Scientist-Machine Learning,$81K-$167K (Glassdoor est.),"Pittsburgh, PA","Software Engineering Institute
+DC434,Senior Research Scientist-Machine Learning,124,"Pittsburgh, PA","Software Engineering Institute
 2.6"
-DC435,Senior Data Scientist,$97K-$160K (Glassdoor est.),"Chicago, IL","Maven Wave Partners
+DC435,Senior Data Scientist,128.5,"Chicago, IL","Maven Wave Partners
 4.4"
-DC456,MED TECH/LAB SCIENTIST- SOUTH COASTAL LAB,$21-$34 Per Hour(Glassdoor est.),"Millville, DE","Beebe Healthcare
+DC456,MED TECH/LAB SCIENTIST- SOUTH COASTAL LAB,56.5,"Millville, DE","Beebe Healthcare
 3.6"
-DC437,Clinical Laboratory Scientist,$24-$39 Per Hour(Glassdoor est.),"Vail, CO","Vail Health
+DC437,Clinical Laboratory Scientist,65,"Vail, CO","Vail Health
 3.7"
-DC442,Analytics Manager - Data Mart,$42K-$86K (Glassdoor est.),"Scotts Valley, CA","Central California Alliance for Health
+DC442,Analytics Manager - Data Mart,64,"Scotts Valley, CA","Central California Alliance for Health
 3.5"
-DC443,Sr. Data Engineer - Contract-to-Hire (Java),$69K-$127K (Glassdoor est.),"Knoxville, TN","Pilot Flying J Travel Centers LLC
+DC443,Sr. Data Engineer - Contract-to-Hire (Java),98,"Knoxville, TN","Pilot Flying J Travel Centers LLC
 3.0"
-DC444,Data Scientist - Algorithms & Inference,$110K-$175K (Glassdoor est.),"San Francisco, CA","Nuna
+DC444,Data Scientist - Algorithms & Inference,142.5,"San Francisco, CA","Nuna
 4.2"
-DC446,Senior Data Scientist - R&D Oncology,$102K-$172K (Glassdoor est.),"New York, NY","AstraZeneca
+DC446,Senior Data Scientist - R&D Oncology,137,"New York, NY","AstraZeneca
 3.9"
-DC447,Data Engineer,$74K-$124K (Glassdoor est.),"Denver, CO","Pinnacol Assurance
+DC447,Data Engineer,99,"Denver, CO","Pinnacol Assurance
 4.0"
-DC448,Food Scientist - Developer,$40K-$68K (Glassdoor est.),"Milwaukee, WI","Palermo''s Pizza
+DC448,Food Scientist - Developer,54,"Milwaukee, WI","Palermo''s Pizza
 3.3"
-DC449,Senior Data Scientist,$108K-$171K (Glassdoor est.),"Natick, MA","MathWorks
+DC449,Senior Data Scientist,139.5,"Natick, MA","MathWorks
 4.4"
-DC450,Data Engineer,$76K-$142K (Glassdoor est.),"Rockville, MD","MetroStar Systems
+DC450,Data Engineer,109,"Rockville, MD","MetroStar Systems
 3.4"
-DC452,"Director II, Data Science - GRM Actuarial",$202K-$306K (Glassdoor est.),"Chicago, IL","Liberty Mutual Insurance
+DC452,"Director II, Data Science - GRM Actuarial",254,"Chicago, IL","Liberty Mutual Insurance
 3.3"
-DC454,"Scientist, Molecular/Cellular Biologist",$49K-$97K (Glassdoor est.),"South San Francisco, CA","Audentes Therapeutics
+DC454,"Scientist, Molecular/Cellular Biologist",73,"South San Francisco, CA","Audentes Therapeutics
 2.9"
-DC455,Staff Scientist-Downstream Process Development,$49K-$113K (Glassdoor est.),"Rockville, MD","Advanced BioScience Laboratories
+DC455,Staff Scientist-Downstream Process Development,81,"Rockville, MD","Advanced BioScience Laboratories
 2.7"
-DC458,Scientist - Analytical Services,$65K-$134K (Glassdoor est.),"Winston-Salem, NC","Reynolds American
+DC458,Scientist - Analytical Services,99.5,"Winston-Salem, NC","Reynolds American
 3.1"
-DC459,Associate Data Analyst- Graduate Development Program,$32K-$59K (Glassdoor est.),"Richfield, OH","National Interstate
+DC459,Associate Data Analyst- Graduate Development Program,45.5,"Richfield, OH","National Interstate
 3.3"
-DC461,Sr. Data Engineer,$87K-$158K (Glassdoor est.),"Indianapolis, IN","Moser Consulting
+DC461,Sr. Data Engineer,122.5,"Indianapolis, IN","Moser Consulting
 4.5"
-DC462,Senior Insurance Data Scientist,$107K-$173K (Glassdoor est.),"Chicago, IL","TransUnion
+DC462,Senior Insurance Data Scientist,140,"Chicago, IL","TransUnion
 3.9"
-DC463,Senior Data Science Systems Engineer,$56K-$99K (Glassdoor est.),"Hampton, VA","MITRE
+DC463,Senior Data Science Systems Engineer,77.5,"Hampton, VA","MITRE
 3.2"
-DC464,ENVIRONMENTAL ENGINEER/SCIENTIST,Employer Provided Salary:$25-$28 Per Hour,"Cambridge, MA","Mcphail Associates
+DC464,ENVIRONMENTAL ENGINEER/SCIENTIST,55,"Cambridge, MA","Mcphail Associates
 3.3"
-DC466,Senior Scientist - Regulatory Submissions,$80K-$155K (Glassdoor est.),"Winston-Salem, NC","Reynolds American
+DC466,Senior Scientist - Regulatory Submissions,117.5,"Winston-Salem, NC","Reynolds American
 3.1"
-DC467,Scientist - Biomarker and Flow Cytometry,$43K-$98K (Glassdoor est.),"San Diego, CA","Crown Bioscience
+DC467,Scientist - Biomarker and Flow Cytometry,70.5,"San Diego, CA","Crown Bioscience
 2.4"
-DC468,Revenue Analytics Manager,$45K-$78K (Glassdoor est.),"San Francisco, CA","HOVER
+DC468,Revenue Analytics Manager,61.5,"San Francisco, CA","HOVER
 4.8"
-DC469,"Associate Scientist, LC/MS Biologics",$44K-$96K (Glassdoor est.),"Ithaca, NY","Q2 Solutions
+DC469,"Associate Scientist, LC/MS Biologics",70,"Ithaca, NY","Q2 Solutions
 2.9"
-DC470,Sr. Scientist Method Development,$50K-$110K (Glassdoor est.),"Marietta, GA","Q2 Solutions
+DC470,Sr. Scientist Method Development,80,"Marietta, GA","Q2 Solutions
 2.9"
-DC471,IT - Data Engineer II,$61K-$119K (Glassdoor est.),"Quincy, MA","Arbella Insurance
+DC471,IT - Data Engineer II,90,"Quincy, MA","Arbella Insurance
 3.4"
-DC472,"Research Scientist, Immunology - Cancer Biology",Employer Provided Salary:$100K-$140K,"Cambridge, MA",Kronos Bio
-DC473,"Project Scientist - Auton Lab, Robotics Institute",$56K-$91K (Glassdoor est.),"Pittsburgh, PA","Software Engineering Institute
+DC472,"Research Scientist, Immunology - Cancer Biology",120,"Cambridge, MA",Kronos Bio
+DC473,"Project Scientist - Auton Lab, Robotics Institute",73.5,"Pittsburgh, PA","Software Engineering Institute
 2.6"
-DC476,Data Scientist,$68K-$114K (Glassdoor est.),"Fort Lauderdale, FL","Zimmerman Advertising
+DC476,Data Scientist,91,"Fort Lauderdale, FL","Zimmerman Advertising
 3.8"
-DC477,Data Scientist,Employer Provided Salary:$150K-$160K,"Washington, DC","BPA Services
+DC477,Data Scientist,155,"Washington, DC","BPA Services
 5.0"
-DC479,"Enterprise Architect, Data",$101K-$158K (Glassdoor est.),"Boston, MA","MassMutual
+DC479,"Enterprise Architect, Data",129.5,"Boston, MA","MassMutual
 3.6"
-DC482,"Senior Manager, Epidemiologic Data Scientist",$125K-$210K (Glassdoor est.),"New York, NY","Pfizer
+DC482,"Senior Manager, Epidemiologic Data Scientist",167.5,"New York, NY","Pfizer
 4.0"
-DC483,Corporate Risk Data Analyst (SQL Based) - Milwaukee or,$43K-$77K (Glassdoor est.),"Green Bay, WI","Associated Banc-Corp
+DC483,Corporate Risk Data Analyst (SQL Based) - Milwaukee or,60,"Green Bay, WI","Associated Banc-Corp
 3.8"
-DC485,Lead Data Scientist,$139K-$221K (Glassdoor est.),"Burbank, CA","Zest AI
+DC485,Lead Data Scientist,180,"Burbank, CA","Zest AI
 3.9"
-DC486,"Marketing Data Analyst, May 2020 Undergrad",$44K-$86K (Glassdoor est.),"New York, NY","Fareportal
+DC486,"Marketing Data Analyst, May 2020 Undergrad",65,"New York, NY","Fareportal
 3.8"
-DC487,Senior Data Engineer,$78K-$147K (Glassdoor est.),"Durham, NC","Genesys
+DC487,Senior Data Engineer,112.5,"Durham, NC","Genesys
 4.3"
-DC488,Senior Data Analyst,$65K-$110K (Glassdoor est.),"New York, NY","Moda Operandi
+DC488,Senior Data Analyst,87.5,"New York, NY","Moda Operandi
 1.9"
-DC489,Data Modeler - Data Solutions Engineer,$37K-$66K (Glassdoor est.),"Indianapolis, IN","Liberty Mutual Insurance
+DC489,Data Modeler - Data Solutions Engineer,51.5,"Indianapolis, IN","Liberty Mutual Insurance
 3.3"
-DC490,Associate Environmental Scientist - Wildlife Biologist,$38K-$64K (Glassdoor est.),"Clovis, CA","QK
+DC490,Associate Environmental Scientist - Wildlife Biologist,51,"Clovis, CA","QK
 4.7"
-DC491,"Associate, Data Science, Internal Audit",$43K-$82K (Glassdoor est.),"Boston, MA","Santander
+DC491,"Associate, Data Science, Internal Audit",62.5,"Boston, MA","Santander
 3.1"
-DC492,Sr Data Engineer (Sr BI Developer),$90K-$110K(Employer est.),"Chandler, AZ","Tivity Health
+DC492,Sr Data Engineer (Sr BI Developer),100,"Chandler, AZ","Tivity Health
 3.4"
-DC493,Data Engineer,$61K-$109K (Glassdoor est.),"Chantilly, VA","BRMi
+DC493,Data Engineer,85,"Chantilly, VA","BRMi
 4.4"
-DC494,Senior LiDAR Data Scientist,$93K-$151K (Glassdoor est.),"Orlando, FL","Luminar Technologies
+DC494,Senior LiDAR Data Scientist,122,"Orlando, FL","Luminar Technologies
 3.9"
-DC495,Salesforce Analytics Consultant,$52K-$81K (Glassdoor est.),"Chicago, IL","Emtec, Inc.
+DC495,Salesforce Analytics Consultant,66.5,"Chicago, IL","Emtec, Inc.
 3.9"
-DC496,"Technology-Minded, Data Professional Opportunities",$40K-$101K (Glassdoor est.),"Columbia, MO","Veterans United Home Loans
+DC496,"Technology-Minded, Data Professional Opportunities",70.5,"Columbia, MO","Veterans United Home Loans
 4.7"
-DC497,Senior Data Engineer,$97K-$180K (Glassdoor est.),"Austin, TX","Praetorian
+DC497,Senior Data Engineer,138.5,"Austin, TX","Praetorian
 4.7"
-DC498,Managing Data Scientist/ML Engineer,$81K-$134K (Glassdoor est.),"Boston, MA","PA Consulting
+DC498,Managing Data Scientist/ML Engineer,107.5,"Boston, MA","PA Consulting
 3.4"
-DC499,"Scientist, Pharmacometrics",$84K-$157K (Glassdoor est.),"Cambridge, MA","Agios Pharmaceuticals
+DC499,"Scientist, Pharmacometrics",120.5,"Cambridge, MA","Agios Pharmaceuticals
 3.8"
-DC500,Staff Scientist- Upstream PD,$49K-$113K (Glassdoor est.),"Rockville, MD","Advanced BioScience Laboratories
+DC500,Staff Scientist- Upstream PD,81,"Rockville, MD","Advanced BioScience Laboratories
 2.7"
-DC501,Scientist Manufacturing Pharma - Kentucky BioProcessing,$68K-$139K (Glassdoor est.),"Owensboro, KY","Reynolds American
+DC501,Scientist Manufacturing Pharma - Kentucky BioProcessing,103.5,"Owensboro, KY","Reynolds American
 3.1"
-DC502,Sr. Data Engineer,$75K-$140K (Glassdoor est.),"Chicago, IL","Echo Global Logistics
+DC502,Sr. Data Engineer,107.5,"Chicago, IL","Echo Global Logistics
 3.4"
-DC505,Lead Big Data Engineer,$121K-$203K (Glassdoor est.),"San Francisco, CA","Glassdoor
+DC505,Lead Big Data Engineer,162,"San Francisco, CA","Glassdoor
 4.0"
-DC506,Product Engineer – Spatial Data Science and Statistical Analysis,$52K-$85K (Glassdoor est.),"Redlands, CA","Esri
+DC506,Product Engineer – Spatial Data Science and Statistical Analysis,68.5,"Redlands, CA","Esri
 3.5"
-DC507,Sr Software Engineer (Data Scientist),$81K-$140K (Glassdoor est.),"Westlake, OH","Assurant
+DC507,Sr Software Engineer (Data Scientist),110.5,"Westlake, OH","Assurant
 3.4"
-DC508,College Hire - Data Scientist - Open to December 2019 Graduates,$63K-$99K (Glassdoor est.),"Peoria, IL","Caterpillar
+DC508,College Hire - Data Scientist - Open to December 2019 Graduates,81,"Peoria, IL","Caterpillar
 3.7"
-DC509,Senior Data Scientist,$110K-$150K(Employer est.),"Chicago, IL","Equity Residential
+DC509,Senior Data Scientist,130,"Chicago, IL","Equity Residential
 4.3"
-DC510,Sr. Data Engineer (ETL Developer),$83K-$148K (Glassdoor est.),"Des Moines, IA","F&G
+DC510,Sr. Data Engineer (ETL Developer),115.5,"Des Moines, IA","F&G
 3.7"
-DC512,Senior Data Scientist Artificial Intelligence,$60K-$101K (Glassdoor est.),"Richland, WA","PNNL
+DC512,Senior Data Scientist Artificial Intelligence,80.5,"Richland, WA","PNNL
 3.8"
-DC516,Analytics - Business Assurance Data Analyst,$31K-$55K (Glassdoor est.),"Cedar Rapids, IA","GreatAmerica Financial Services
+DC516,Analytics - Business Assurance Data Analyst,43,"Cedar Rapids, IA","GreatAmerica Financial Services
 4.6"
-DC517,"Associate Director/Director, Safety Scientist",$102K-$178K (Glassdoor est.),"Cambridge, MA","Acceleron Pharma
+DC517,"Associate Director/Director, Safety Scientist",140,"Cambridge, MA","Acceleron Pharma
 4.4"
-DC518,"Senior Scientist, Cell Pharmacology/Assay Development",Employer Provided Salary:$110K-$130K,"Cambridge, MA",Kronos Bio
-DC519,Data Analyst Senior,$48K-$85K (Glassdoor est.),"Philadelphia, PA","AmeriHealth Caritas
+DC518,"Senior Scientist, Cell Pharmacology/Assay Development",120,"Cambridge, MA",Kronos Bio
+DC519,Data Analyst Senior,66.5,"Philadelphia, PA","AmeriHealth Caritas
 3.0"
-DC520,Lead Data Engineer (Python),$66K-$123K (Glassdoor est.),"San Francisco, CA","Strategic Employment Partners
+DC520,Lead Data Engineer (Python),94.5,"San Francisco, CA","Strategic Employment Partners
 4.7"
-DC521,Senior Data Scientist 4 Artificial Intelligence,$92K-$146K (Glassdoor est.),"Seattle, WA","PNNL
+DC521,Senior Data Scientist 4 Artificial Intelligence,119,"Seattle, WA","PNNL
 3.8"
-DC522,Medical Lab Scientist - MLT,$21-$29 Per Hour(Glassdoor est.),"Omaha, NE","Catholic Health Initiatives
+DC522,Medical Lab Scientist - MLT,51.5,"Omaha, NE","Catholic Health Initiatives
 3.2"
-DC523,"Senior Operations Data Analyst, Call Center Operations",$10-$17 Per Hour(Glassdoor est.),"Nashville, TN","FLEETCOR
+DC523,"Senior Operations Data Analyst, Call Center Operations",27.5,"Nashville, TN","FLEETCOR
 2.7"
-DC524,"Director II, Data Science - GRS Predictive Analytics",$150K-$239K (Glassdoor est.),"Chicago, IL","Liberty Mutual Insurance
+DC524,"Director II, Data Science - GRS Predictive Analytics",194.5,"Chicago, IL","Liberty Mutual Insurance
 3.3"
-DC525,RESEARCH COMPUTER SCIENTIST - RESEARCH ENGINEER - SR. COMPUTER SCIENTIST - SOFTWARE DEVELOPMENT,$52K-$91K (Glassdoor est.),"San Antonio, TX","Southwest Research Institute
+DC525,RESEARCH COMPUTER SCIENTIST - RESEARCH ENGINEER - SR. COMPUTER SCIENTIST - SOFTWARE DEVELOPMENT,71.5,"San Antonio, TX","Southwest Research Institute
 3.9"
-DC526,Geospatial Software Developer and Data Scientist,$82K-$129K(Employer est.),"Austin, TX","Applied Research Laboratories
+DC526,Geospatial Software Developer and Data Scientist,105.5,"Austin, TX","Applied Research Laboratories
 3.7"
-DC528,Senior Scientist - Toxicologist - Product Integrity (Stewardship),$47K-$101K (Glassdoor est.),"Winston-Salem, NC","Reynolds American
+DC528,Senior Scientist - Toxicologist - Product Integrity (Stewardship),74,"Winston-Salem, NC","Reynolds American
 3.1"
-DC530,Systems Engineer II - Data Analyst,$49K-$76K (Glassdoor est.),"Huntsville, AL","Raytheon
+DC530,Systems Engineer II - Data Analyst,62.5,"Huntsville, AL","Raytheon
 3.7"
-DC532,Senior Research Analytical Scientist-Non-Targeted Analysis,$43K-$88K (Glassdoor est.),"Durham, NC","RTI International
+DC532,Senior Research Analytical Scientist-Non-Targeted Analysis,65.5,"Durham, NC","RTI International
 4.3"
-DC533,Director Data Science,$124K-$199K (Glassdoor est.),"Fort Lee, NJ","TRANZACT
+DC533,Director Data Science,161.5,"Fort Lee, NJ","TRANZACT
 3.6"
-DC534,Sr Data Analyst - IT,$52K-$93K (Glassdoor est.),"Blue Bell, PA","United BioSource
+DC534,Sr Data Analyst - IT,72.5,"Blue Bell, PA","United BioSource
 2.1"
-DC535,Senior Data Engineer,$97K-$181K (Glassdoor est.),"San Francisco, CA","Figure Eight
+DC535,Senior Data Engineer,139,"San Francisco, CA","Figure Eight
 3.9"
-DC537,Senior Data Engineer,$100K-$173K (Glassdoor est.),"San Francisco, CA","Tapjoy
+DC537,Senior Data Engineer,136.5,"San Francisco, CA","Tapjoy
 3.9"
-DC538,Associate Machine Learning Engineer / Data Scientist May 2020 Undergrad,$53K-$96K (Glassdoor est.),"New York, NY","Fareportal
+DC538,Associate Machine Learning Engineer / Data Scientist May 2020 Undergrad,74.5,"New York, NY","Fareportal
 3.8"
-DC539,Senior Scientist - Biostatistician,$65K-$96K (Glassdoor est.),"Winston-Salem, NC","Reynolds American
+DC539,Senior Scientist - Biostatistician,80.5,"Winston-Salem, NC","Reynolds American
 3.1"
-DC540,Data Scientist,$56K-$95K (Glassdoor est.),"Albuquerque, NM","Sartorius
+DC540,Data Scientist,75.5,"Albuquerque, NM","Sartorius
 3.5"
-DC541,Data Scientist,$111K-$176K (Glassdoor est.),"Saint Louis, MO","1904labs
+DC541,Data Scientist,143.5,"Saint Louis, MO","1904labs
 4.7"
-DC542,Data Scientist,$75K-$127K (Glassdoor est.),"Springfield, VA","Royce Geospatial
+DC542,Data Scientist,101,"Springfield, VA","Royce Geospatial
 5.0"
-DC543,Data Engineer,$65K-$119K (Glassdoor est.),"Springfield, MA","MassMutual
+DC543,Data Engineer,92,"Springfield, MA","MassMutual
 3.6"
-DC544,Computational Chemist/Data Scientist,$56K-$97K (Glassdoor est.),"Richland, WA","PNNL
+DC544,Computational Chemist/Data Scientist,76.5,"Richland, WA","PNNL
 3.8"
-DC545,Principal Data Scientist (Computational Chemistry),$108K-$173K (Glassdoor est.),"Salt Lake City, UT","Recursion Pharmaceuticals
+DC545,Principal Data Scientist (Computational Chemistry),140.5,"Salt Lake City, UT","Recursion Pharmaceuticals
 4.7"
-DC546,Data Scientist,$94K-$139K (Glassdoor est.),"Jersey City, NJ","Citi
+DC546,Data Scientist,116.5,"Jersey City, NJ","Citi
 3.6"
-DC548,Principal Machine Learning Scientist,$176K-$289K (Glassdoor est.),"San Francisco, CA","Sage Intacct
+DC548,Principal Machine Learning Scientist,232.5,"San Francisco, CA","Sage Intacct
 4.7"
-DC549,Data Scientist,$92K-$149K (Glassdoor est.),"San Francisco, CA","Scale AI
+DC549,Data Scientist,120.5,"San Francisco, CA","Scale AI
 3.5"
-DC550,Product Engineer – Data Science,$63K-$101K (Glassdoor est.),"Arlington, VA","Esri
+DC550,Product Engineer – Data Science,82,"Arlington, VA","Esri
 3.5"
-DC552,"Principal Scientist, Chemistry & Immunology",$54K-$115K (Glassdoor est.),"Rochester, NY","Rochester Regional Health
+DC552,"Principal Scientist, Chemistry & Immunology",84.5,"Rochester, NY","Rochester Regional Health
 3.3"
-DC554,Data Scientist,$118K-$188K (Glassdoor est.),"Emeryville, CA","Change Healthcare
+DC554,Data Scientist,153,"Emeryville, CA","Change Healthcare
 2.7"
-DC555,Data Scientist,$108K-$146K (Glassdoor est.),"Palo Alto, CA","MZ
+DC555,Data Scientist,127,"Palo Alto, CA","MZ
 3.4"
-DC556,Data Scientist,$65K-$106K (Glassdoor est.),"Santa Barbara, CA","HG Insights
+DC556,Data Scientist,85.5,"Santa Barbara, CA","HG Insights
 4.7"
-DC557,Data Scientist,$55K-$98K (Glassdoor est.),"Carle Place, NY","1-800-FLOWERS.COM, Inc.
+DC557,Data Scientist,76.5,"Carle Place, NY","1-800-FLOWERS.COM, Inc.
 2.8"
-DC558,Data Scientist,$94K-$162K (Glassdoor est.),"New York, NY","CBS Interactive
+DC558,Data Scientist,128,"New York, NY","CBS Interactive
 3.5"
-DC560,Data Engineer,$63K-$120K (Glassdoor est.),"King of Prussia, PA","Numeric, LLC
+DC560,Data Engineer,91.5,"King of Prussia, PA","Numeric, LLC
 3.2"
-DC561,"Scientist/Senior Scientist, Autoimmune",$90K-$179K (Glassdoor est.),"Cambridge, MA","Rubius Therapeutics
+DC561,"Scientist/Senior Scientist, Autoimmune",134.5,"Cambridge, MA","Rubius Therapeutics
 4.4"
-DC562,Data Scientist,$127K-$202K (Glassdoor est.),"San Francisco, CA","Samba TV
+DC562,Data Scientist,164.5,"San Francisco, CA","Samba TV
 3.3"
-DC563,Software Engineer - Data Visualization,$60K-$127K (Glassdoor est.),"Annapolis Junction, MD","ClearEdge
+DC563,Software Engineer - Data Visualization,93.5,"Annapolis Junction, MD","ClearEdge
 4.0"
-DC565,Market Data Analyst,$31K-$57K (Glassdoor est.),"West Palm Beach, FL","SV Microwave
+DC565,Market Data Analyst,44,"West Palm Beach, FL","SV Microwave
 3.4"
-DC566,Staff Data Engineer,$105K-$194K (Glassdoor est.),"Austin, TX","Sumo Logic
+DC566,Staff Data Engineer,149.5,"Austin, TX","Sumo Logic
 3.8"
-DC567,Associate Data Engineer,$45K-$86K (Glassdoor est.),"Washington, DC","EAB
+DC567,Associate Data Engineer,65.5,"Washington, DC","EAB
 3.5"
-DC568,Data Engineer,$75K-$143K (Glassdoor est.),"Herndon, VA","SpringML
+DC568,Data Engineer,109,"Herndon, VA","SpringML
 4.4"
-DC570,Staff Data Engineer,$126K-$228K (Glassdoor est.),"Mountain View, CA","Samsung Research America
+DC570,Staff Data Engineer,177,"Mountain View, CA","Samsung Research America
 3.7"
-DC572,Data Scientist,$80K-$134K (Glassdoor est.),"Arlington, VA","Systems & Technology Research
+DC572,Data Scientist,107,"Arlington, VA","Systems & Technology Research
 4.7"
-DC573,Data Scientist,$120K-$189K (Glassdoor est.),"Santa Clara, CA","Netskope
+DC573,Data Scientist,154.5,"Santa Clara, CA","Netskope
 4.1"
-DC575,Data Scientist,$85K-$142K (Glassdoor est.),"Santa Clara, CA","Lorven Technologies Inc
+DC575,Data Scientist,113.5,"Santa Clara, CA","Lorven Technologies Inc
 4.0"
-DC576,Senior Data Scientist,$95K-$154K (Glassdoor est.),"Charlotte, NC","Brighthouse Financial
+DC576,Senior Data Scientist,124.5,"Charlotte, NC","Brighthouse Financial
 3.5"
-DC577,Data Scientist,$111K-$176K (Glassdoor est.),"Brisbane, CA","CareDx
+DC577,Data Scientist,143.5,"Brisbane, CA","CareDx
 2.5"
-DC578,Data Scientist,$87K-$140K (Glassdoor est.),"San Francisco, CA","Serigor Inc.
+DC578,Data Scientist,113.5,"San Francisco, CA","Serigor Inc.
 3.9"
-DC579,Data Scientist,$76K-$127K (Glassdoor est.),"Springfield, VA","Leidos
+DC579,Data Scientist,101.5,"Springfield, VA","Leidos
 3.4"
-DC580,"Data Analyst, Performance Partnership",$54K-$92K (Glassdoor est.),"New York, NY","Beckman Coulter Diagnostics
+DC580,"Data Analyst, Performance Partnership",73,"New York, NY","Beckman Coulter Diagnostics
 3.6"
-DC582,Data Scientist,$61K-$100K (Glassdoor est.),"New York, NY","IHS Markit
+DC582,Data Scientist,80.5,"New York, NY","IHS Markit
 3.5"
-DC583,Data Scientist,$81K-$140K (Glassdoor est.),"New York, NY",ALIN
-DC585,Staff BI and Data Engineer,$80K-$148K (Glassdoor est.),"San Jose, CA","Affinity Solutions
+DC583,Data Scientist,110.5,"New York, NY",ALIN
+DC585,Staff BI and Data Engineer,114,"San Jose, CA","Affinity Solutions
 2.9"
-DC595,Data Scientist,$70K-$118K (Glassdoor est.),"Waltham, MA","Conch Technologies, Inc
+DC595,Data Scientist,94,"Waltham, MA","Conch Technologies, Inc
 4.6"
-DC597,Senior Data Scientist,$94K-$153K (Glassdoor est.),"New York, NY","Medidata Solutions
+DC597,Senior Data Scientist,123.5,"New York, NY","Medidata Solutions
 4.3"
-DC586,Data Scientist,$108K-$171K (Glassdoor est.),"Foster City, CA","e-IT Professionals Corp.
+DC586,Data Scientist,139.5,"Foster City, CA","e-IT Professionals Corp.
 3.5"
-DC587,Data Scientist,$112K-$179K (Glassdoor est.),"New York, NY","TechProjects
+DC587,Data Scientist,145.5,"New York, NY","TechProjects
 4.8"
-DC588,Data Scientist,$63K-$111K (Glassdoor est.),"New York, NY","Biz2Credit Inc
+DC588,Data Scientist,87,"New York, NY","Biz2Credit Inc
 4.0"
-DC589,Data Scientist,$75K-$126K (Glassdoor est.),"Holyoke, MA","PeoplesBank
+DC589,Data Scientist,100.5,"Holyoke, MA","PeoplesBank
 4.2"
-DC590,Data Scientist Manager,$110K-$184K (Glassdoor est.),"New York, NY","Capgemini
+DC590,Data Scientist Manager,147,"New York, NY","Capgemini
 3.8"
-DC591,Data Engineer,$76K-$145K (Glassdoor est.),"New York, NY","GNY Insurance Companies
+DC591,Data Engineer,110.5,"New York, NY","GNY Insurance Companies
 3.7"
-DC594,Marketing Data Analyst,$36K-$62K (Glassdoor est.),"Exton, PA","Citadel Federal Credit Union
+DC594,Marketing Data Analyst,49,"Exton, PA","Citadel Federal Credit Union
 3.9"
-DC599,"Principal Scientist, Hematology",$54K-$115K (Glassdoor est.),"Rochester, NY","Rochester Regional Health
+DC599,"Principal Scientist, Hematology",84.5,"Rochester, NY","Rochester Regional Health
 3.3"
-DC600,Data Analyst,$50K-$92K (Glassdoor est.),"Alexandria, VA","CALIBRE Systems
+DC600,Data Analyst,71,"Alexandria, VA","CALIBRE Systems
 3.7"
-DC601,Software Data Engineer - College,$49K-$97K (Glassdoor est.),"Corvallis, OR","HP Inc.
+DC601,Software Data Engineer - College,73,"Corvallis, OR","HP Inc.
 4.0"
-DC602,"Director - Data, Privacy and AI Governance",$67K-$135K (Glassdoor est.),"Boston, MA","MassMutual
+DC602,"Director - Data, Privacy and AI Governance",101,"Boston, MA","MassMutual
 3.6"
-DC603,Staff Machine Learning Engineer,$138K-$224K (Glassdoor est.),"San Francisco, CA","Tapjoy
+DC603,Staff Machine Learning Engineer,181,"San Francisco, CA","Tapjoy
 3.9"
-DC604,Data Scientist,$80K-$139K (Glassdoor est.),"San Diego, CA","Northrop Grumman
+DC604,Data Scientist,109.5,"San Diego, CA","Northrop Grumman
 3.7"
-DC605,Lead Data Scientist,$158K-$211K (Glassdoor est.),"Bellevue, WA","Visa Inc.
+DC605,Lead Data Scientist,184.5,"Bellevue, WA","Visa Inc.
 3.7"
-DC606,Senior Data Scientist - Algorithms,$150K-$180K (Glassdoor est.),"New York, NY","Quartet Health
+DC606,Senior Data Scientist - Algorithms,165,"New York, NY","Quartet Health
 3.9"
-DC607,Information Security Data Analyst,$42K-$80K (Glassdoor est.),"Chicago, IL","Motorola Solutions
+DC607,Information Security Data Analyst,61,"Chicago, IL","Motorola Solutions
 3.7"
-DC608,Lead Data Engineer,$190K-$220K(Employer est.),"Mountain View, CA","Credit Sesame
+DC608,Lead Data Engineer,205,"Mountain View, CA","Credit Sesame
 4.1"
-DC609,Data Analyst,$42K-$77K (Glassdoor est.),"New York, NY","Success Academy Charter Schools
+DC609,Data Analyst,59.5,"New York, NY","Success Academy Charter Schools
 3.1"
-DC610,Scientist Manufacturing - Kentucky BioProcessing,$68K-$139K (Glassdoor est.),"Owensboro, KY","Reynolds American
+DC610,Scientist Manufacturing - Kentucky BioProcessing,103.5,"Owensboro, KY","Reynolds American
 3.1"
-DC613,Consultant - Analytics Consulting,$54K-$71K (Glassdoor est.),"Hartford, CT","Infosys
+DC613,Consultant - Analytics Consulting,62.5,"Hartford, CT","Infosys
 3.0"
-DC614,Data Analytics Project Manager,$34K-$92K (Glassdoor est.),"Springfield, MA","MassMutual
+DC614,Data Analytics Project Manager,63,"Springfield, MA","MassMutual
 3.6"
-DC616,Data Analyst,$47K-$85K (Glassdoor est.),"New York, NY","AXION Healthcare Solutions
+DC616,Data Analyst,66,"New York, NY","AXION Healthcare Solutions
 3.6"
-DC617,Data Engineer,$65K-$124K (Glassdoor est.),"Orange, CA","Alignment Healthcare
+DC617,Data Engineer,94.5,"Orange, CA","Alignment Healthcare
 3.5"
-DC619,Data Scientist,$56K-$95K (Glassdoor est.),"New York, NY","ExecOnline
+DC619,Data Scientist,75.5,"New York, NY","ExecOnline
 4.2"
-DC622,Machine Learning Engineer,$62K-$112K (Glassdoor est.),"Fort Belvoir, VA","Mteq
+DC622,Machine Learning Engineer,87,"Fort Belvoir, VA","Mteq
 4.0"
-DC623,Senior Data Scientist Oncology,$107K-$173K (Glassdoor est.),"Gaithersburg, MD","AstraZeneca
+DC623,Senior Data Scientist Oncology,140,"Gaithersburg, MD","AstraZeneca
 3.9"
-DC624,Data Scientist,$64K-$108K (Glassdoor est.),"Silver Spring, MD","Brillient
+DC624,Data Scientist,86,"Silver Spring, MD","Brillient
 3.7"
-DC625,Senior Data Scientist,$89K-$144K (Glassdoor est.),"Palo Alto, CA","Entefy
+DC625,Senior Data Scientist,116.5,"Palo Alto, CA","Entefy
 4.4"
-DC627,Senior Scientist (Neuroscience),$109K-$200K (Glassdoor est.),"Marlborough, MA","Sunovion
+DC627,Senior Scientist (Neuroscience),154.5,"Marlborough, MA","Sunovion
 3.5"
-DC629,Machine Learning Engineer - Regulatory,$61K-$113K (Glassdoor est.),"Lenexa, KS","Cboe Global Markets
+DC629,Machine Learning Engineer - Regulatory,87,"Lenexa, KS","Cboe Global Markets
 3.7"
-DC630,Marketing Data Analyst,$35K-$62K (Glassdoor est.),"Highland, CA","San Manuel Casino
+DC630,Marketing Data Analyst,48.5,"Highland, CA","San Manuel Casino
 3.6"
-DC631,Data Engineer,$55K-$105K (Glassdoor est.),"Houston, TX","Trace3
+DC631,Data Engineer,80,"Houston, TX","Trace3
 3.4"
-DC632,Medical Laboratory Scientist,$18-$25 Per Hour(Glassdoor est.),"Burleson, TX","Texas Health Huguley Hospital
+DC632,Medical Laboratory Scientist,44.5,"Burleson, TX","Texas Health Huguley Hospital
 4.0"
-DC633,R&D Specialist/ Food Scientist,$39K-$66K (Glassdoor est.),"Hoopeston, IL","Teasdale Latin Foods
+DC633,R&D Specialist/ Food Scientist,52.5,"Hoopeston, IL","Teasdale Latin Foods
 2.4"
-DC634,Principal Data Scientist,$135K-$211K (Glassdoor est.),"San Jose, CA","Northrop Grumman
+DC634,Principal Data Scientist,173,"San Jose, CA","Northrop Grumman
 3.7"
-DC635,Data Engineer,$57K-$80K (Glassdoor est.),"Phoenix, AZ","Saama Technologies Inc
+DC635,Data Engineer,68.5,"Phoenix, AZ","Saama Technologies Inc
 3.5"
-DC636,Data Scientist - Alpha Insights,$129K-$215K (Glassdoor est.),"New York, NY","Two Sigma
+DC636,Data Scientist - Alpha Insights,172,"New York, NY","Two Sigma
 4.4"
-DC637,"Data Scientist, Office of Data Science",$86K-$143K (Glassdoor est.),"Boston, MA","Liberty Mutual Insurance
+DC637,"Data Scientist, Office of Data Science",114.5,"Boston, MA","Liberty Mutual Insurance
 3.3"
-DC638,"Associate Principal Scientist, Pharmacogenomics",$63K-$127K (Glassdoor est.),"Gaithersburg, MD","AstraZeneca
+DC638,"Associate Principal Scientist, Pharmacogenomics",95,"Gaithersburg, MD","AstraZeneca
 3.9"
-DC639,Data Scientist - Systems Engineering,$50K-$89K (Glassdoor est.),"Bedford, MA","MITRE
+DC639,Data Scientist - Systems Engineering,69.5,"Bedford, MA","MITRE
 3.2"
-DC640,Data Engineer,$43K-$86K (Glassdoor est.),"New York, NY","Guidepoint
+DC640,Data Engineer,64.5,"New York, NY","Guidepoint
 3.2"
-DC642,"Scientist, Bacteriology",$74K-$149K (Glassdoor est.),"Concord, CA","Cerus Corporation
+DC642,"Scientist, Bacteriology",111.5,"Concord, CA","Cerus Corporation
 2.1"
-DC643,Data Scientist,$71K-$124K (Glassdoor est.),"New York, NY","Strategic Financial Solutions
+DC643,Data Scientist,97.5,"New York, NY","Strategic Financial Solutions
 4.0"
-DC644,"Associate Director, Platform and DevOps- Data Engineering and Aritifical Intelligence",$113K-$196K (Glassdoor est.),"Cambridge, MA","Takeda Pharmaceuticals
+DC644,"Associate Director, Platform and DevOps- Data Engineering and Aritifical Intelligence",154.5,"Cambridge, MA","Takeda Pharmaceuticals
 3.7"
-DC645,Senior Research Scientist-Machine Learning,$81K-$167K (Glassdoor est.),"Pittsburgh, PA","Software Engineering Institute
+DC645,Senior Research Scientist-Machine Learning,124,"Pittsburgh, PA","Software Engineering Institute
 2.6"
-DC646,Data Scientist,$69K-$121K (Glassdoor est.),"New York, NY","Remedy BPCI Partners, LLC.
+DC646,Data Scientist,95,"New York, NY","Remedy BPCI Partners, LLC.
 3.4"
-DC647,Senior Data Scientist,$97K-$160K (Glassdoor est.),"Chicago, IL","Maven Wave Partners
+DC647,Senior Data Scientist,128.5,"Chicago, IL","Maven Wave Partners
 4.4"
-DC648,Principal Data Scientist,$150K-$238K (Glassdoor est.),"San Francisco, CA","The Climate Corporation
+DC648,Principal Data Scientist,194,"San Francisco, CA","The Climate Corporation
 3.2"
-DC651,Data Scientist,$77K-$132K (Glassdoor est.),"New York, NY","Crossix Solutions
+DC651,Data Scientist,104.5,"New York, NY","Crossix Solutions
 3.5"
-DC652,Clinical Laboratory Scientist,$24-$39 Per Hour(Glassdoor est.),"Vail, CO","Vail Health
+DC652,Clinical Laboratory Scientist,65,"Vail, CO","Vail Health
 3.7"
-DC653,Data Engineer - Consultant (Charlotte Based),$59K-$112K (Glassdoor est.),"Charlotte, NC","Clarity Insights
+DC653,Data Engineer - Consultant (Charlotte Based),85.5,"Charlotte, NC","Clarity Insights
 4.2"
-DC654,"Data Analyst 1, full-time contract worker for up to 12 months",$35K-$65K (Glassdoor est.),"Salt Lake City, UT","The Church of Jesus Christ of Latter-day Saints
+DC654,"Data Analyst 1, full-time contract worker for up to 12 months",50,"Salt Lake City, UT","The Church of Jesus Christ of Latter-day Saints
 4.2"
-DC655,Data Engineer,$79K-$147K (Glassdoor est.),"Aliso Viejo, CA","NCSOFT
+DC655,Data Engineer,113,"Aliso Viejo, CA","NCSOFT
 3.1"
-DC658,"Scientist, Immuno-Oncology",$62K-$119K (Glassdoor est.),"Cambridge, MA","GSK
+DC658,"Scientist, Immuno-Oncology",90.5,"Cambridge, MA","GSK
 3.9"
-DC660,Senior Data Scientist,$119K-$187K (Glassdoor est.),"Los Angeles, CA","Factual
+DC660,Senior Data Scientist,153,"Los Angeles, CA","Factual
 4.3"
-DC661,Products Data Analyst II,$90K-$157K (Glassdoor est.),"Dublin, CA","TriNet
+DC661,Products Data Analyst II,123.5,"Dublin, CA","TriNet
 3.3"
-DC662,Lead Data Analyst,$32K-$62K (Glassdoor est.),"New York, NY","Signpost
+DC662,Lead Data Analyst,47,"New York, NY","Signpost
 3.9"
-DC663,Analytics Manager - Data Mart,$42K-$86K (Glassdoor est.),"Scotts Valley, CA","Central California Alliance for Health
+DC663,Analytics Manager - Data Mart,64,"Scotts Valley, CA","Central California Alliance for Health
 3.5"
-DC664,Data Science Engineer - Mobile,$116K-$208K (Glassdoor est.),"San Jose, CA","Adobe
+DC664,Data Science Engineer - Mobile,162,"San Jose, CA","Adobe
 4.0"
-DC665,Senior Data Scientist - R&D Oncology,$102K-$172K (Glassdoor est.),"New York, NY","AstraZeneca
+DC665,Senior Data Scientist - R&D Oncology,137,"New York, NY","AstraZeneca
 3.9"
-DC666,Sr. Data Engineer - Contract-to-Hire (Java),$69K-$127K (Glassdoor est.),"Knoxville, TN","Pilot Flying J Travel Centers LLC
+DC666,Sr. Data Engineer - Contract-to-Hire (Java),98,"Knoxville, TN","Pilot Flying J Travel Centers LLC
 3.0"
-DC668,Data Scientist,$86K-$144K (Glassdoor est.),"Armonk, NY","Swiss Re
+DC668,Data Scientist,115,"Armonk, NY","Swiss Re
 3.7"
-DC669,Senior Data Scientist,$102K-$165K (Glassdoor est.),"Arvada, CO","Sartorius
+DC669,Senior Data Scientist,133.5,"Arvada, CO","Sartorius
 3.5"
-DC670,Data Engineer,$74K-$124K (Glassdoor est.),"Denver, CO","Pinnacol Assurance
+DC670,Data Engineer,99,"Denver, CO","Pinnacol Assurance
 4.0"
-DC671,Food Scientist - Developer,$40K-$68K (Glassdoor est.),"Milwaukee, WI","Palermo''s Pizza
+DC671,Food Scientist - Developer,54,"Milwaukee, WI","Palermo''s Pizza
 3.3"
-DC672,Senior Data Engineer,$76K-$142K (Glassdoor est.),"Franklin, TN","Equian LLC
+DC672,Senior Data Engineer,109,"Franklin, TN","Equian LLC
 3.2"
-DC673,Data Engineer,$76K-$142K (Glassdoor est.),"Rockville, MD","MetroStar Systems
+DC673,Data Engineer,109,"Rockville, MD","MetroStar Systems
 3.4"
-DC674,Senior Data Scientist,$108K-$171K (Glassdoor est.),"Natick, MA","MathWorks
+DC674,Senior Data Scientist,139.5,"Natick, MA","MathWorks
 4.4"
-DC675,"Director II, Data Science - GRM Actuarial",$202K-$306K (Glassdoor est.),"Chicago, IL","Liberty Mutual Insurance
+DC675,"Director II, Data Science - GRM Actuarial",254,"Chicago, IL","Liberty Mutual Insurance
 3.3"
-DC676,Machine Learning Engineer,$91K-$159K (Glassdoor est.),"New York, NY","Information Builders
+DC676,Machine Learning Engineer,125,"New York, NY","Information Builders
 3.2"
-DC678,"Sr Expert Data Science, Advanced Visual Analytics (Associate level)",$80K-$133K (Glassdoor est.),"Cambridge, MA","Novartis
+DC678,"Sr Expert Data Science, Advanced Visual Analytics (Associate level)",106.5,"Cambridge, MA","Novartis
 3.8"
-DC679,"Scientist, Molecular/Cellular Biologist",$49K-$97K (Glassdoor est.),"South San Francisco, CA","Audentes Therapeutics
+DC679,"Scientist, Molecular/Cellular Biologist",73,"South San Francisco, CA","Audentes Therapeutics
 2.9"
-DC681,Staff Scientist-Downstream Process Development,$49K-$113K (Glassdoor est.),"Rockville, MD","Advanced BioScience Laboratories
+DC681,Staff Scientist-Downstream Process Development,81,"Rockville, MD","Advanced BioScience Laboratories
 2.7"
-DC682,MED TECH/LAB SCIENTIST- SOUTH COASTAL LAB,$21-$34 Per Hour(Glassdoor est.),"Millville, DE","Beebe Healthcare
+DC682,MED TECH/LAB SCIENTIST- SOUTH COASTAL LAB,56.5,"Millville, DE","Beebe Healthcare
 3.6"
-DC683,Scientist - Analytical Services,$65K-$134K (Glassdoor est.),"Winston-Salem, NC","Reynolds American
+DC683,Scientist - Analytical Services,99.5,"Winston-Salem, NC","Reynolds American
 3.1"
-DC685,Associate Data Analyst- Graduate Development Program,$32K-$59K (Glassdoor est.),"Richfield, OH","National Interstate
+DC685,Associate Data Analyst- Graduate Development Program,45.5,"Richfield, OH","National Interstate
 3.3"
-DC687,IT Associate Data Analyst,$39K-$69K (Glassdoor est.),"Worcester, MA","The Hanover Insurance Group
+DC687,IT Associate Data Analyst,54,"Worcester, MA","The Hanover Insurance Group
 3.7"
-DC688,Sr. Data Engineer,$87K-$158K (Glassdoor est.),"Indianapolis, IN","Moser Consulting
+DC688,Sr. Data Engineer,122.5,"Indianapolis, IN","Moser Consulting
 4.5"
-DC689,Clinical Data Analyst,$27K-$48K (Glassdoor est.),"Tampa, FL","Greenway Health
+DC689,Clinical Data Analyst,37.5,"Tampa, FL","Greenway Health
 3.0"
-DC690,Business Data Analyst,$36K-$71K (Glassdoor est.),"New York, NY","Fareportal
+DC690,Business Data Analyst,53.5,"New York, NY","Fareportal
 3.8"
-DC691,Senior Insurance Data Scientist,$107K-$173K (Glassdoor est.),"Chicago, IL","TransUnion
+DC691,Senior Insurance Data Scientist,140,"Chicago, IL","TransUnion
 3.9"
-DC692,Senior Data Science Systems Engineer,$56K-$99K (Glassdoor est.),"Hampton, VA","MITRE
+DC692,Senior Data Science Systems Engineer,77.5,"Hampton, VA","MITRE
 3.2"
-DC707,"Sr Scientist, Immuno-Oncology - Oncology",$58K-$111K (Glassdoor est.),"Cambridge, MA","GSK
+DC707,"Sr Scientist, Immuno-Oncology - Oncology",84.5,"Cambridge, MA","GSK
 3.9"
-DC708,Senior Data Engineer,$72K-$133K (Glassdoor est.),"Nashville, TN","Eventbrite
+DC708,Senior Data Engineer,102.5,"Nashville, TN","Eventbrite
 4.4"
-DC694,ENVIRONMENTAL ENGINEER/SCIENTIST,Employer Provided Salary:$25-$28 Per Hour,"Cambridge, MA","Mcphail Associates
+DC694,ENVIRONMENTAL ENGINEER/SCIENTIST,55,"Cambridge, MA","Mcphail Associates
 3.3"
-DC695,Senior Scientist - Regulatory Submissions,$80K-$155K (Glassdoor est.),"Winston-Salem, NC","Reynolds American
+DC695,Senior Scientist - Regulatory Submissions,117.5,"Winston-Salem, NC","Reynolds American
 3.1"
-DC696,Scientist - Biomarker and Flow Cytometry,$43K-$98K (Glassdoor est.),"San Diego, CA","Crown Bioscience
+DC696,Scientist - Biomarker and Flow Cytometry,70.5,"San Diego, CA","Crown Bioscience
 2.4"
-DC697,"Associate Scientist, LC/MS Biologics",$44K-$96K (Glassdoor est.),"Ithaca, NY","Q2 Solutions
+DC697,"Associate Scientist, LC/MS Biologics",70,"Ithaca, NY","Q2 Solutions
 2.9"
-DC698,Revenue Analytics Manager,$45K-$78K (Glassdoor est.),"San Francisco, CA","HOVER
+DC698,Revenue Analytics Manager,61.5,"San Francisco, CA","HOVER
 4.8"
-DC699,Sr. Scientist Method Development,$50K-$110K (Glassdoor est.),"Marietta, GA","Q2 Solutions
+DC699,Sr. Scientist Method Development,80,"Marietta, GA","Q2 Solutions
 2.9"
-DC700,Data Scientist,$60K-$99K (Glassdoor est.),"Atlanta, GA","Oversight Systems
+DC700,Data Scientist,79.5,"Atlanta, GA","Oversight Systems
 4.7"
-DC701,Data Scientist - Sales,$130K-$206K (Glassdoor est.),"Mountain View, CA","Confluent
+DC701,Data Scientist - Sales,168,"Mountain View, CA","Confluent
 4.7"
-DC702,IT - Data Engineer II,$61K-$119K (Glassdoor est.),"Quincy, MA","Arbella Insurance
+DC702,IT - Data Engineer II,90,"Quincy, MA","Arbella Insurance
 3.4"
-DC703,"Research Scientist, Immunology - Cancer Biology",Employer Provided Salary:$100K-$140K,"Cambridge, MA",Kronos Bio
-DC704,Senior Data Analyst,$99K-$178K (Glassdoor est.),"San Francisco, CA","Life360
+DC703,"Research Scientist, Immunology - Cancer Biology",120,"Cambridge, MA",Kronos Bio
+DC704,Senior Data Analyst,138.5,"San Francisco, CA","Life360
 3.9"
-DC705,"Principal, Data Science - Advanced Analytics",$86K-$137K (Glassdoor est.),"Plymouth Meeting, PA","IQVIA
+DC705,"Principal, Data Science - Advanced Analytics",111.5,"Plymouth Meeting, PA","IQVIA
 3.6"
-DC706,Data Science Project Manager,$37K-$100K (Glassdoor est.),"Boston, MA","MassMutual
+DC706,Data Science Project Manager,68.5,"Boston, MA","MassMutual
 3.6"
-DC709,"Project Scientist - Auton Lab, Robotics Institute",$56K-$91K (Glassdoor est.),"Pittsburgh, PA","Software Engineering Institute
+DC709,"Project Scientist - Auton Lab, Robotics Institute",73.5,"Pittsburgh, PA","Software Engineering Institute
 2.6"
-DC711,Research Scientist – Security and Privacy,$61K-$126K (Glassdoor est.),"Beavercreek, OH","Riverside Research Institute
+DC711,Research Scientist – Security and Privacy,93.5,"Beavercreek, OH","Riverside Research Institute
 3.6"
-DC712,Data Science Manager,$95K-$160K (Glassdoor est.),"Allentown, PA","Numeric, LLC
+DC712,Data Science Manager,127.5,"Allentown, PA","Numeric, LLC
 3.2"
-DC714,Data Analyst 2 (Missionary Department),$53K-$91K (Glassdoor est.),"Salt Lake City, UT","The Church of Jesus Christ of Latter-day Saints
+DC714,Data Analyst 2 (Missionary Department),72,"Salt Lake City, UT","The Church of Jesus Christ of Latter-day Saints
 4.2"
-DC715,"Enterprise Architect, Data",$101K-$158K (Glassdoor est.),"Boston, MA","MassMutual
+DC715,"Enterprise Architect, Data",129.5,"Boston, MA","MassMutual
 3.6"
-DC718,Supply Chain Data Analyst,$33K-$61K (Glassdoor est.),"Logan, UT","Icon Health and Fitness
+DC718,Supply Chain Data Analyst,47,"Logan, UT","Icon Health and Fitness
 3.1"
-DC719,Data Engineer - ETL,$44K-$86K (Glassdoor est.),"Birmingham, AL","Shipt
+DC719,Data Engineer - ETL,65,"Birmingham, AL","Shipt
 3.8"
-DC721,Corporate Risk Data Analyst (SQL Based) - Milwaukee or,$43K-$77K (Glassdoor est.),"Green Bay, WI","Associated Banc-Corp
+DC721,Corporate Risk Data Analyst (SQL Based) - Milwaukee or,60,"Green Bay, WI","Associated Banc-Corp
 3.8"
-DC722,"Senior Manager, Epidemiologic Data Scientist",$125K-$210K (Glassdoor est.),"New York, NY","Pfizer
+DC722,"Senior Manager, Epidemiologic Data Scientist",167.5,"New York, NY","Pfizer
 4.0"
-DC723,"Marketing Data Analyst, May 2020 Undergrad",$44K-$86K (Glassdoor est.),"New York, NY","Fareportal
+DC723,"Marketing Data Analyst, May 2020 Undergrad",65,"New York, NY","Fareportal
 3.8"
-DC725,Senior Data Analyst,$69K-$119K (Glassdoor est.),"Herndon, VA","Novetta
+DC725,Senior Data Analyst,94,"Herndon, VA","Novetta
 4.0"
-DC726,Senior Data Analyst,$65K-$110K (Glassdoor est.),"New York, NY","Moda Operandi
+DC726,Senior Data Analyst,87.5,"New York, NY","Moda Operandi
 1.9"
-DC736,Sr Data Engineer (Sr BI Developer),$90K-$110K(Employer est.),"Chandler, AZ","Tivity Health
+DC736,Sr Data Engineer (Sr BI Developer),100,"Chandler, AZ","Tivity Health
 3.4"
-DC727,Senior Data Engineer,$67K-$127K (Glassdoor est.),"Reston, VA","Novetta
+DC727,Senior Data Engineer,97,"Reston, VA","Novetta
 4.0"
-DC728,Senior Data Engineer,$78K-$147K (Glassdoor est.),"Durham, NC","Genesys
+DC728,Senior Data Engineer,112.5,"Durham, NC","Genesys
 4.3"
-DC730,Data Modeler (Analytical Systems),$66K-$117K (Glassdoor est.),"Boston, MA","MassMutual
+DC730,Data Modeler (Analytical Systems),91.5,"Boston, MA","MassMutual
 3.6"
-DC731,Data Modeler - Data Solutions Engineer,$37K-$66K (Glassdoor est.),"Indianapolis, IN","Liberty Mutual Insurance
+DC731,Data Modeler - Data Solutions Engineer,51.5,"Indianapolis, IN","Liberty Mutual Insurance
 3.3"
-DC732,Data Scientist in Translational Medicine,$86K-$143K (Glassdoor est.),"Cambridge, MA","Novartis
+DC732,Data Scientist in Translational Medicine,114.5,"Cambridge, MA","Novartis
 3.8"
-DC733,Data Scientist,$84K-$146K (Glassdoor est.),"New York, NY","USEReady
+DC733,Data Scientist,115,"New York, NY","USEReady
 4.3"
-DC734,Product Manager/Data Evangelist,$50K-$98K (Glassdoor est.),"Phila, PA","Numeric, LLC
+DC734,Product Manager/Data Evangelist,74,"Phila, PA","Numeric, LLC
 3.2"
-DC735,Associate Environmental Scientist - Wildlife Biologist,$38K-$64K (Glassdoor est.),"Clovis, CA","QK
+DC735,Associate Environmental Scientist - Wildlife Biologist,51,"Clovis, CA","QK
 4.7"
-DC737,"Senior Data Scientist – Visualization, Novartis AI Innovation Lab",$92K-$150K (Glassdoor est.),"Cambridge, MA","Novartis
+DC737,"Senior Data Scientist – Visualization, Novartis AI Innovation Lab",121,"Cambridge, MA","Novartis
 3.8"
-DC738,Senior Data Analyst/Scientist,$90K-$153K (Glassdoor est.),"San Francisco, CA","Demandbase
+DC738,Senior Data Analyst/Scientist,121.5,"San Francisco, CA","Demandbase
 4.5"
-DC740,"Associate, Data Science, Internal Audit",$43K-$82K (Glassdoor est.),"Boston, MA","Santander
+DC740,"Associate, Data Science, Internal Audit",62.5,"Boston, MA","Santander
 3.1"
-DC741,"Scientist – Cancer Discovery, Molecular Assay",Employer Provided Salary:$100K-$135K,"Cambridge, MA",Monte Rosa Therapeutics
-DC742,Senior LiDAR Data Scientist,$93K-$151K (Glassdoor est.),"Orlando, FL","Luminar Technologies
+DC741,"Scientist – Cancer Discovery, Molecular Assay",117.5,"Cambridge, MA",Monte Rosa Therapeutics
+DC742,Senior LiDAR Data Scientist,122,"Orlando, FL","Luminar Technologies
 3.9"
-DC743,Data Engineer,$61K-$109K (Glassdoor est.),"Chantilly, VA","BRMi
+DC743,Data Engineer,85,"Chantilly, VA","BRMi
 4.4"
-DC744,Data Engineer,$42K-$79K (Glassdoor est.),"Scottsdale, AZ","IntraEdge
+DC744,Data Engineer,60.5,"Scottsdale, AZ","IntraEdge
 3.4"
-DC745,Lead Data Scientist,$139K-$221K (Glassdoor est.),"Burbank, CA","Zest AI
+DC745,Lead Data Scientist,180,"Burbank, CA","Zest AI
 3.9"
-DC746,"Technology-Minded, Data Professional Opportunities",$40K-$101K (Glassdoor est.),"Columbia, MO","Veterans United Home Loans
+DC746,"Technology-Minded, Data Professional Opportunities",70.5,"Columbia, MO","Veterans United Home Loans
 4.7"
-DC747,Big Data Engineer,$84K-$153K (Glassdoor est.),"Chantilly, VA","Peraton
+DC747,Big Data Engineer,118.5,"Chantilly, VA","Peraton
 3.3"
-DC748,Salesforce Analytics Consultant,$52K-$81K (Glassdoor est.),"Chicago, IL","Emtec, Inc.
+DC748,Salesforce Analytics Consultant,66.5,"Chicago, IL","Emtec, Inc.
 3.9"
-DC749,Managing Data Scientist/ML Engineer,$81K-$134K (Glassdoor est.),"Boston, MA","PA Consulting
+DC749,Managing Data Scientist/ML Engineer,107.5,"Boston, MA","PA Consulting
 3.4"
-DC750,Senior Data Engineer,$97K-$180K (Glassdoor est.),"Austin, TX","Praetorian
+DC750,Senior Data Engineer,138.5,"Austin, TX","Praetorian
 4.7"
-DC751,Staff Scientist- Upstream PD,$49K-$113K (Glassdoor est.),"Rockville, MD","Advanced BioScience Laboratories
+DC751,Staff Scientist- Upstream PD,81,"Rockville, MD","Advanced BioScience Laboratories
 2.7"
-DC752,Data Engineering Analyst,$44K-$73K (Glassdoor est.),"Bloomington, IL","COUNTRY Financial
+DC752,Data Engineering Analyst,58.5,"Bloomington, IL","COUNTRY Financial
 3.8"
-DC753,Sr. Data Engineer,$75K-$140K (Glassdoor est.),"Chicago, IL","Echo Global Logistics
+DC753,Sr. Data Engineer,107.5,"Chicago, IL","Echo Global Logistics
 3.4"
-DC754,"Scientist, Pharmacometrics",$84K-$157K (Glassdoor est.),"Cambridge, MA","Agios Pharmaceuticals
+DC754,"Scientist, Pharmacometrics",120.5,"Cambridge, MA","Agios Pharmaceuticals
 3.8"
-DC755,Manager of Data Science,$40K-$87K (Glassdoor est.),"San Francisco, CA","Tapjoy
+DC755,Manager of Data Science,63.5,"San Francisco, CA","Tapjoy
 3.9"
-DC756,Scientist Manufacturing Pharma - Kentucky BioProcessing,$68K-$139K (Glassdoor est.),"Owensboro, KY","Reynolds American
+DC756,Scientist Manufacturing Pharma - Kentucky BioProcessing,103.5,"Owensboro, KY","Reynolds American
 3.1"
-DC757,Software Engineer (Data Scientist/Software Engineer) - SISW - MG,$72K-$142K (Glassdoor est.),"Fremont, CA","Mentor Graphics
+DC757,Software Engineer (Data Scientist/Software Engineer) - SISW - MG,107,"Fremont, CA","Mentor Graphics
 4.1"
-DC758,Data Engineer,$74K-$137K (Glassdoor est.),"Springfield, VA","Maxar Technologies
+DC758,Data Engineer,105.5,"Springfield, VA","Maxar Technologies
 3.7"
-DC759,Data Engineer,$57K-$109K (Glassdoor est.),"San Diego, CA","ICW Group
+DC759,Data Engineer,83,"San Diego, CA","ICW Group
 2.8"
-DC761,Lead Big Data Engineer,$121K-$203K (Glassdoor est.),"San Francisco, CA","Glassdoor
+DC761,Lead Big Data Engineer,162,"San Francisco, CA","Glassdoor
 4.0"
-DC763,Product Engineer – Spatial Data Science and Statistical Analysis,$52K-$85K (Glassdoor est.),"Redlands, CA","Esri
+DC763,Product Engineer – Spatial Data Science and Statistical Analysis,68.5,"Redlands, CA","Esri
 3.5"
-DC766,Sr Software Engineer (Data Scientist),$81K-$140K (Glassdoor est.),"Westlake, OH","Assurant
+DC766,Sr Software Engineer (Data Scientist),110.5,"Westlake, OH","Assurant
 3.4"
-DC767,Sr. Data Engineer (ETL Developer),$83K-$148K (Glassdoor est.),"Des Moines, IA","F&G
+DC767,Sr. Data Engineer (ETL Developer),115.5,"Des Moines, IA","F&G
 3.7"
-DC768,Associate Research Scientist I (Protein Expression and Production),$59K-$116K (Glassdoor est.),"Alameda, CA","Exelixis
+DC768,Associate Research Scientist I (Protein Expression and Production),87.5,"Alameda, CA","Exelixis
 3.0"
-DC769,Senior Data Scientist Artificial Intelligence,$60K-$101K (Glassdoor est.),"Richland, WA","PNNL
+DC769,Senior Data Scientist Artificial Intelligence,80.5,"Richland, WA","PNNL
 3.8"
-DC773,Analytics - Business Assurance Data Analyst,$31K-$55K (Glassdoor est.),"Cedar Rapids, IA","GreatAmerica Financial Services
+DC773,Analytics - Business Assurance Data Analyst,43,"Cedar Rapids, IA","GreatAmerica Financial Services
 4.6"
-DC776,"Associate Director/Director, Safety Scientist",$102K-$178K (Glassdoor est.),"Cambridge, MA","Acceleron Pharma
+DC776,"Associate Director/Director, Safety Scientist",140,"Cambridge, MA","Acceleron Pharma
 4.4"
-DC777,"Director, Precision Medicine Clinical Biomarker Scientist",$136K-$208K (Glassdoor est.),"Cambridge, MA","Pfizer
+DC777,"Director, Precision Medicine Clinical Biomarker Scientist",172,"Cambridge, MA","Pfizer
 4.0"
-DC778,"Senior Scientist, Cell Pharmacology/Assay Development",Employer Provided Salary:$110K-$130K,"Cambridge, MA",Kronos Bio
-DC779,Data Analyst Senior,$48K-$85K (Glassdoor est.),"Philadelphia, PA","AmeriHealth Caritas
+DC778,"Senior Scientist, Cell Pharmacology/Assay Development",120,"Cambridge, MA",Kronos Bio
+DC779,Data Analyst Senior,66.5,"Philadelphia, PA","AmeriHealth Caritas
 3.0"
-DC780,Senior Formulations Scientist II,$71K-$129K (Glassdoor est.),"Alameda, CA","Exelixis
+DC780,Senior Formulations Scientist II,100,"Alameda, CA","Exelixis
 3.0"
-DC781,Lead Data Engineer (Python),$66K-$123K (Glassdoor est.),"San Francisco, CA","Strategic Employment Partners
+DC781,Lead Data Engineer (Python),94.5,"San Francisco, CA","Strategic Employment Partners
 4.7"
-DC782,Data Science Manager,$171K-$272K (Glassdoor est.),"San Francisco, CA","Grand Rounds
+DC782,Data Science Manager,221.5,"San Francisco, CA","Grand Rounds
 4.2"
-DC783,Senior Data Scientist 4 Artificial Intelligence,$92K-$146K (Glassdoor est.),"Seattle, WA","PNNL
+DC783,Senior Data Scientist 4 Artificial Intelligence,119,"Seattle, WA","PNNL
 3.8"
-DC784,Data Engineer,$65K-$126K (Glassdoor est.),"Chicago, IL","SPINS, LLC
+DC784,Data Engineer,95.5,"Chicago, IL","SPINS, LLC
 3.5"
-DC785,"Director II, Data Science - GRS Predictive Analytics",$150K-$239K (Glassdoor est.),"Chicago, IL","Liberty Mutual Insurance
+DC785,"Director II, Data Science - GRS Predictive Analytics",194.5,"Chicago, IL","Liberty Mutual Insurance
 3.3"
-DC786,Medical Lab Scientist - MLT,$21-$29 Per Hour(Glassdoor est.),"Omaha, NE","Catholic Health Initiatives
+DC786,Medical Lab Scientist - MLT,51.5,"Omaha, NE","Catholic Health Initiatives
 3.2"
-DC787,"Senior Operations Data Analyst, Call Center Operations",$10-$17 Per Hour(Glassdoor est.),"Nashville, TN","FLEETCOR
+DC787,"Senior Operations Data Analyst, Call Center Operations",27.5,"Nashville, TN","FLEETCOR
 2.7"
-DC788,Senior Quantitative Analyst,$118K-$228K (Glassdoor est.),"Jersey City, NJ","DTCC
+DC788,Senior Quantitative Analyst,173,"Jersey City, NJ","DTCC
 3.3"
-DC789,Geospatial Software Developer and Data Scientist,$82K-$129K(Employer est.),"Austin, TX","Applied Research Laboratories
+DC789,Geospatial Software Developer and Data Scientist,105.5,"Austin, TX","Applied Research Laboratories
 3.7"
-DC790,RESEARCH COMPUTER SCIENTIST - RESEARCH ENGINEER - SR. COMPUTER SCIENTIST - SOFTWARE DEVELOPMENT,$52K-$91K (Glassdoor est.),"San Antonio, TX","Southwest Research Institute
+DC790,RESEARCH COMPUTER SCIENTIST - RESEARCH ENGINEER - SR. COMPUTER SCIENTIST - SOFTWARE DEVELOPMENT,71.5,"San Antonio, TX","Southwest Research Institute
 3.9"
-DC791,Senior Scientist - Toxicologist - Product Integrity (Stewardship),$47K-$101K (Glassdoor est.),"Winston-Salem, NC","Reynolds American
+DC791,Senior Scientist - Toxicologist - Product Integrity (Stewardship),74,"Winston-Salem, NC","Reynolds American
 3.1"
-DC794,Systems Engineer II - Data Analyst,$49K-$76K (Glassdoor est.),"Huntsville, AL","Raytheon
+DC794,Systems Engineer II - Data Analyst,62.5,"Huntsville, AL","Raytheon
 3.7"
-DC795,Senior Research Analytical Scientist-Non-Targeted Analysis,$43K-$88K (Glassdoor est.),"Durham, NC","RTI International
+DC795,Senior Research Analytical Scientist-Non-Targeted Analysis,65.5,"Durham, NC","RTI International
 4.3"
-DC797,Data Scientist,$61K-$109K (Glassdoor est.),"Coraopolis, PA","DICK''S Sporting Goods - Corporate
+DC797,Data Scientist,85,"Coraopolis, PA","DICK''S Sporting Goods - Corporate
 3.8"
-DC799,Principal Data Scientist,$113K-$182K (Glassdoor est.),"Gaithersburg, MD","AstraZeneca
+DC799,Principal Data Scientist,147.5,"Gaithersburg, MD","AstraZeneca
 3.9"
-DC802,Director Data Science,$124K-$199K (Glassdoor est.),"Fort Lee, NJ","TRANZACT
+DC802,Director Data Science,161.5,"Fort Lee, NJ","TRANZACT
 3.6"
-DC803,Data Engineer,$58K-$104K (Glassdoor est.),"Roanoke, VA","Carilion Clinic
+DC803,Data Engineer,81,"Roanoke, VA","Carilion Clinic
 3.7"
-DC852,Machine Learning Engineer - Regulatory,$61K-$113K (Glassdoor est.),"Lenexa, KS","Cboe Global Markets
+DC852,Machine Learning Engineer - Regulatory,87,"Lenexa, KS","Cboe Global Markets
 3.7"
-DC804,Sr Data Analyst - IT,$52K-$93K (Glassdoor est.),"Blue Bell, PA","United BioSource
+DC804,Sr Data Analyst - IT,72.5,"Blue Bell, PA","United BioSource
 2.1"
-DC806,Senior Data Engineer,$97K-$181K (Glassdoor est.),"San Francisco, CA","Figure Eight
+DC806,Senior Data Engineer,139,"San Francisco, CA","Figure Eight
 3.9"
-DC807,Senior Data Engineer,$100K-$173K (Glassdoor est.),"San Francisco, CA","Tapjoy
+DC807,Senior Data Engineer,136.5,"San Francisco, CA","Tapjoy
 3.9"
-DC808,Sr. Data Analyst,$58K-$108K (Glassdoor est.),"New York, NY","DoubleVerify
+DC808,Sr. Data Analyst,83,"New York, NY","DoubleVerify
 3.2"
-DC809,Research Scientist or Senior Research Scientist - Computer Vision,$81K-$161K (Glassdoor est.),"Cambridge, MA","Mitsubishi Electric Research Labs
+DC809,Research Scientist or Senior Research Scientist - Computer Vision,121,"Cambridge, MA","Mitsubishi Electric Research Labs
 4.6"
-DC810,Associate Machine Learning Engineer / Data Scientist May 2020 Undergrad,$53K-$96K (Glassdoor est.),"New York, NY","Fareportal
+DC810,Associate Machine Learning Engineer / Data Scientist May 2020 Undergrad,74.5,"New York, NY","Fareportal
 3.8"
-DC811,Data Analyst Chemist - Quality System Contractor,$61K-$110K (Glassdoor est.),"San Francisco, CA","Rodan and Fields, LLC
+DC811,Data Analyst Chemist - Quality System Contractor,85.5,"San Francisco, CA","Rodan and Fields, LLC
 2.2"
-DC812,Senior Scientist - Biostatistician,$65K-$96K (Glassdoor est.),"Winston-Salem, NC","Reynolds American
+DC812,Senior Scientist - Biostatistician,80.5,"Winston-Salem, NC","Reynolds American
 3.1"
-DC815,Research Scientist / Principal Research Scientist - Multiphysical Systems,$115K-$220K (Glassdoor est.),"Cambridge, MA","Mitsubishi Electric Research Labs
+DC815,Research Scientist / Principal Research Scientist - Multiphysical Systems,167.5,"Cambridge, MA","Mitsubishi Electric Research Labs
 4.6"
-DC825,"Manager, Safety Scientist, Medical Safety & Risk Management",$68K-$125K (Glassdoor est.),"Cambridge, MA","Agios Pharmaceuticals
+DC825,"Manager, Safety Scientist, Medical Safety & Risk Management",96.5,"Cambridge, MA","Agios Pharmaceuticals
 3.8"
-DC826,"Assistant Director/Director, Office of Data Science",$39K-$67K (Glassdoor est.),"Boston, MA","Liberty Mutual Insurance
+DC826,"Assistant Director/Director, Office of Data Science",53,"Boston, MA","Liberty Mutual Insurance
 3.3"
-DC827,Sr. Data Engineer | Big Data SaaS Pipeline,$71K-$135K (Glassdoor est.),"Los Angeles, CA","Bridg
+DC827,Sr. Data Engineer | Big Data SaaS Pipeline,103,"Los Angeles, CA","Bridg
 2.7"
-DC816,"Research Scientist, Machine Learning Department",$71K-$144K (Glassdoor est.),"Pittsburgh, PA","Software Engineering Institute
+DC816,"Research Scientist, Machine Learning Department",107.5,"Pittsburgh, PA","Software Engineering Institute
 2.6"
-DC817,Foundational Community Supports Data Analyst,$32K-$57K (Glassdoor est.),"Seattle, WA","DESC
+DC817,Foundational Community Supports Data Analyst,44.5,"Seattle, WA","DESC
 3.4"
-DC818,"Senior Health Data Analyst, Star Ratings",$79K-$136K (Glassdoor est.),"Glen Burnie, MD","Johns Hopkins Health Care
+DC818,"Senior Health Data Analyst, Star Ratings",107.5,"Glen Burnie, MD","Johns Hopkins Health Care
 3.3"
-DC819,"Principal Research Scientist/Team Lead, Medicinal Chemistry - Oncology",Employer Provided Salary:$120K-$145K,"Cambridge, MA",Kronos Bio
-DC820,Sr. Data Analyst,$50K-$89K (Glassdoor est.),"Philadelphia, PA","Community Behavioral Health
+DC819,"Principal Research Scientist/Team Lead, Medicinal Chemistry - Oncology",132.5,"Cambridge, MA",Kronos Bio
+DC820,Sr. Data Analyst,69.5,"Philadelphia, PA","Community Behavioral Health
 3.7"
-DC821,"Senior Engineer, Data Management Engineering",$68K-$129K (Glassdoor est.),"Milpitas, CA","Western Digital
+DC821,"Senior Engineer, Data Management Engineering",98.5,"Milpitas, CA","Western Digital
 3.5"
-DC822,Quality Control Scientist III- Analytical Development,$48K-$113K (Glassdoor est.),"Rockville, MD","Advanced BioScience Laboratories
+DC822,Quality Control Scientist III- Analytical Development,80.5,"Rockville, MD","Advanced BioScience Laboratories
 2.7"
-DC823,"Clinical Scientist, Clinical Development",$27-$47 Per Hour(Glassdoor est.),"Watertown, MA","FORMA THERAPEUTICS
+DC823,"Clinical Scientist, Clinical Development",76.5,"Watertown, MA","FORMA THERAPEUTICS
 3.8"
-DC824,Software Engineer Staff Scientist: Human Language Technologies,$74K-$124K (Glassdoor est.),"Cambridge, MD","Raytheon
+DC824,Software Engineer Staff Scientist: Human Language Technologies,99,"Cambridge, MD","Raytheon
 3.7"
-DC828,Senior Risk Data Scientist,$107K-$172K (Glassdoor est.),"Palo Alto, CA","Bill.com
+DC828,Senior Risk Data Scientist,139.5,"Palo Alto, CA","Bill.com
 3.8"
-DC829,Data Scientist in Artificial Intelligence Early Career,$49K-$85K (Glassdoor est.),"Richland, WA","Pacific Northwest National Laboratory
+DC829,Data Scientist in Artificial Intelligence Early Career,67,"Richland, WA","Pacific Northwest National Laboratory
 3.8"
-DC830,Consultant - Analytics Consulting,$54K-$71K (Glassdoor est.),"Hartford, CT","Infosys
+DC830,Consultant - Analytics Consulting,62.5,"Hartford, CT","Infosys
 3.0"
-DC831,Scientist - CVRM Metabolism - in vivo pharmacology,$61K-$123K (Glassdoor est.),"Gaithersburg, MD","AstraZeneca
+DC831,Scientist - CVRM Metabolism - in vivo pharmacology,92,"Gaithersburg, MD","AstraZeneca
 3.9"
-DC832,Data Analyst,$47K-$85K (Glassdoor est.),"New York, NY","AXION Healthcare Solutions
+DC832,Data Analyst,66,"New York, NY","AXION Healthcare Solutions
 3.6"
-DC836,Data Engineer,$65K-$124K (Glassdoor est.),"Orange, CA","Alignment Healthcare
+DC836,Data Engineer,94.5,"Orange, CA","Alignment Healthcare
 3.5"
-DC837,Data Scientist,$87K-$141K (Glassdoor est.),"Fort Lee, NJ","TRANZACT
+DC837,Data Scientist,114,"Fort Lee, NJ","TRANZACT
 3.6"
-DC838,Data Scientist,$56K-$95K (Glassdoor est.),"New York, NY","ExecOnline
+DC838,Data Scientist,75.5,"New York, NY","ExecOnline
 4.2"
-DC839,Data Scientist,$71K-$121K (Glassdoor est.),"Maryland Heights, MO","Charter Spectrum
+DC839,Data Scientist,96,"Maryland Heights, MO","Charter Spectrum
 3.5"
-DC840,Machine Learning Engineer,$62K-$112K (Glassdoor est.),"Fort Belvoir, VA","Mteq
+DC840,Machine Learning Engineer,87,"Fort Belvoir, VA","Mteq
 4.0"
-DC841,Data Scientist,$64K-$108K (Glassdoor est.),"Silver Spring, MD","Brillient
+DC841,Data Scientist,86,"Silver Spring, MD","Brillient
 3.7"
-DC845,Senior Data Scientist,$89K-$144K (Glassdoor est.),"Palo Alto, CA","Entefy
+DC845,Senior Data Scientist,116.5,"Palo Alto, CA","Entefy
 4.4"
-DC848,Senior Scientist (Neuroscience),$109K-$200K (Glassdoor est.),"Marlborough, MA","Sunovion
+DC848,Senior Scientist (Neuroscience),154.5,"Marlborough, MA","Sunovion
 3.5"
-DC851,Marketing Data Analyst,$35K-$62K (Glassdoor est.),"Highland, CA","San Manuel Casino
+DC851,Marketing Data Analyst,48.5,"Highland, CA","San Manuel Casino
 3.6"
-DC853,Data Engineer,$55K-$105K (Glassdoor est.),"Houston, TX","Trace3
+DC853,Data Engineer,80,"Houston, TX","Trace3
 3.4"
-DC854,Medical Laboratory Scientist,$18-$25 Per Hour(Glassdoor est.),"Burleson, TX","Texas Health Huguley Hospital
+DC854,Medical Laboratory Scientist,44.5,"Burleson, TX","Texas Health Huguley Hospital
 4.0"
-DC855,Principal Data Scientist,$135K-$211K (Glassdoor est.),"San Jose, CA","Northrop Grumman
+DC855,Principal Data Scientist,173,"San Jose, CA","Northrop Grumman
 3.7"
-DC856,R&D Specialist/ Food Scientist,$39K-$66K (Glassdoor est.),"Hoopeston, IL","Teasdale Latin Foods
+DC856,R&D Specialist/ Food Scientist,52.5,"Hoopeston, IL","Teasdale Latin Foods
 2.4"
-DC857,Data Engineer,$57K-$80K (Glassdoor est.),"Phoenix, AZ","Saama Technologies Inc
+DC857,Data Engineer,68.5,"Phoenix, AZ","Saama Technologies Inc
 3.5"
-DC858,"Associate Principal Scientist, Pharmacogenomics",$63K-$127K (Glassdoor est.),"Gaithersburg, MD","AstraZeneca
+DC858,"Associate Principal Scientist, Pharmacogenomics",95,"Gaithersburg, MD","AstraZeneca
 3.9"
-DC859,Data Scientist - Systems Engineering,$50K-$89K (Glassdoor est.),"Bedford, MA","MITRE
+DC859,Data Scientist - Systems Engineering,69.5,"Bedford, MA","MITRE
 3.2"
-DC860,Senior Data Scientist,$82K-$132K (Glassdoor est.),"Cincinnati, OH","The David J. Joseph Company
+DC860,Senior Data Scientist,107,"Cincinnati, OH","The David J. Joseph Company
 4.4"
-DC861,Data Scientist SR,$85K-$139K (Glassdoor est.),"Charlottesville, VA","The Buffalo Group
+DC861,Data Scientist SR,112,"Charlottesville, VA","The Buffalo Group
 3.9"
-DC863,Data Scientist,$72K-$121K (Glassdoor est.),"Washington, DC","CompQsoft
+DC863,Data Scientist,96.5,"Washington, DC","CompQsoft
 3.4"
-DC864,"Scientist, Bacteriology",$74K-$149K (Glassdoor est.),"Concord, CA","Cerus Corporation
+DC864,"Scientist, Bacteriology",111.5,"Concord, CA","Cerus Corporation
 2.1"
-DC866,"Associate Director, Platform and DevOps- Data Engineering and Aritifical Intelligence",$113K-$196K (Glassdoor est.),"Cambridge, MA","Takeda Pharmaceuticals
+DC866,"Associate Director, Platform and DevOps- Data Engineering and Aritifical Intelligence",154.5,"Cambridge, MA","Takeda Pharmaceuticals
 3.7"
-DC907,Data Engineer,$74K-$124K (Glassdoor est.),"Denver, CO","Pinnacol Assurance
+DC907,Data Engineer,99,"Denver, CO","Pinnacol Assurance
 4.0"
-DC867,Data Scientist,$69K-$121K (Glassdoor est.),"New York, NY","Remedy BPCI Partners, LLC.
+DC867,Data Scientist,95,"New York, NY","Remedy BPCI Partners, LLC.
 3.4"
-DC868,Data Scientist,$71K-$124K (Glassdoor est.),"New York, NY","Strategic Financial Solutions
+DC868,Data Scientist,97.5,"New York, NY","Strategic Financial Solutions
 4.0"
-DC869,Senior Data Scientist,$97K-$160K (Glassdoor est.),"Chicago, IL","Maven Wave Partners
+DC869,Senior Data Scientist,128.5,"Chicago, IL","Maven Wave Partners
 4.4"
-DC870,Senior Research Scientist-Machine Learning,$81K-$167K (Glassdoor est.),"Pittsburgh, PA","Software Engineering Institute
+DC870,Senior Research Scientist-Machine Learning,124,"Pittsburgh, PA","Software Engineering Institute
 2.6"
-DC871,Principal Data Scientist,$150K-$238K (Glassdoor est.),"San Francisco, CA","The Climate Corporation
+DC871,Principal Data Scientist,194,"San Francisco, CA","The Climate Corporation
 3.2"
-DC875,Clinical Laboratory Scientist,$24-$39 Per Hour(Glassdoor est.),"Vail, CO","Vail Health
+DC875,Clinical Laboratory Scientist,65,"Vail, CO","Vail Health
 3.7"
-DC877,"Data Analyst 1, full-time contract worker for up to 12 months",$35K-$65K (Glassdoor est.),"Salt Lake City, UT","The Church of Jesus Christ of Latter-day Saints
+DC877,"Data Analyst 1, full-time contract worker for up to 12 months",50,"Salt Lake City, UT","The Church of Jesus Christ of Latter-day Saints
 4.2"
-DC878,Data Scientist,$77K-$132K (Glassdoor est.),"New York, NY","Crossix Solutions
+DC878,Data Scientist,104.5,"New York, NY","Crossix Solutions
 3.5"
-DC879,Data Scientist,$51K-$88K (Glassdoor est.),"Phoenix, AZ","Solugenix Corporation
+DC879,Data Scientist,69.5,"Phoenix, AZ","Solugenix Corporation
 4.3"
-DC880,Data Scientist,$101K-$141K (Glassdoor est.),"Irvine, CA","West Coast University
+DC880,Data Scientist,121,"Irvine, CA","West Coast University
 2.6"
-DC881,Data Engineer - Consultant (Charlotte Based),$59K-$112K (Glassdoor est.),"Charlotte, NC","Clarity Insights
+DC881,Data Engineer - Consultant (Charlotte Based),85.5,"Charlotte, NC","Clarity Insights
 4.2"
-DC883,Data Engineer,$79K-$147K (Glassdoor est.),"Aliso Viejo, CA","NCSOFT
+DC883,Data Engineer,113,"Aliso Viejo, CA","NCSOFT
 3.1"
-DC884,Data Scientist (Warehouse Automation),$79K-$127K (Glassdoor est.),"San Francisco, CA","SoftBank Robotics
+DC884,Data Scientist (Warehouse Automation),103,"San Francisco, CA","SoftBank Robotics
 3.8"
-DC886,"Scientist, Immuno-Oncology",$62K-$119K (Glassdoor est.),"Cambridge, MA","GSK
+DC886,"Scientist, Immuno-Oncology",90.5,"Cambridge, MA","GSK
 3.9"
-DC887,Senior Data Scientist,$119K-$187K (Glassdoor est.),"Los Angeles, CA","Factual
+DC887,Senior Data Scientist,153,"Los Angeles, CA","Factual
 4.3"
-DC892,Jr. Data Scientist,$81K-$132K (Glassdoor est.),"McLean, VA","MITRE
+DC892,Jr. Data Scientist,106.5,"McLean, VA","MITRE
 3.2"
-DC893,Senior Data Scientist,Employer Provided Salary:$120K-$140K,"Ann Arbor, MI","SkySync
+DC893,Senior Data Scientist,130,"Ann Arbor, MI","SkySync
 5.0"
-DC895,Products Data Analyst II,$90K-$157K (Glassdoor est.),"Dublin, CA","TriNet
+DC895,Products Data Analyst II,123.5,"Dublin, CA","TriNet
 3.3"
-DC896,Data Architect / Data Modeler,$63K-$110K (Glassdoor est.),"New York, NY","Medidata Solutions
+DC896,Data Architect / Data Modeler,86.5,"New York, NY","Medidata Solutions
 4.3"
-DC897,Analytics Manager - Data Mart,$42K-$86K (Glassdoor est.),"Scotts Valley, CA","Central California Alliance for Health
+DC897,Analytics Manager - Data Mart,64,"Scotts Valley, CA","Central California Alliance for Health
 3.5"
-DC898,Lead Data Analyst,$32K-$62K (Glassdoor est.),"New York, NY","Signpost
+DC898,Lead Data Analyst,47,"New York, NY","Signpost
 3.9"
-DC899,Data Science Engineer - Mobile,$116K-$208K (Glassdoor est.),"San Jose, CA","Adobe
+DC899,Data Science Engineer - Mobile,162,"San Jose, CA","Adobe
 4.0"
-DC900,Senior Data Scientist Oncology,$107K-$173K (Glassdoor est.),"Gaithersburg, MD","AstraZeneca
+DC900,Senior Data Scientist Oncology,140,"Gaithersburg, MD","AstraZeneca
 3.9"
-DC901,Data Scientist,$65K-$113K (Glassdoor est.),"Olympia, WA","DatamanUSA, LLC
+DC901,Data Scientist,89,"Olympia, WA","DatamanUSA, LLC
 3.4"
-DC902,Sr. Data Engineer - Contract-to-Hire (Java),$69K-$127K (Glassdoor est.),"Knoxville, TN","Pilot Flying J Travel Centers LLC
+DC902,Sr. Data Engineer - Contract-to-Hire (Java),98,"Knoxville, TN","Pilot Flying J Travel Centers LLC
 3.0"
-DC904,Senior Data Scientist - R&D Oncology,$102K-$172K (Glassdoor est.),"New York, NY","AstraZeneca
+DC904,Senior Data Scientist - R&D Oncology,137,"New York, NY","AstraZeneca
 3.9"
-DC909,Food Scientist - Developer,$40K-$68K (Glassdoor est.),"Milwaukee, WI","Palermo''s Pizza
+DC909,Food Scientist - Developer,54,"Milwaukee, WI","Palermo''s Pizza
 3.3"
-DC910,Senior Data Engineer,$76K-$142K (Glassdoor est.),"Franklin, TN","Equian LLC
+DC910,Senior Data Engineer,109,"Franklin, TN","Equian LLC
 3.2"
-DC911,Data Engineer,$76K-$142K (Glassdoor est.),"Rockville, MD","MetroStar Systems
+DC911,Data Engineer,109,"Rockville, MD","MetroStar Systems
 3.4"
-DC912,Senior Data Scientist,$108K-$171K (Glassdoor est.),"Natick, MA","MathWorks
+DC912,Senior Data Scientist,139.5,"Natick, MA","MathWorks
 4.4"
-DC913,"Director II, Data Science - GRM Actuarial",$202K-$306K (Glassdoor est.),"Chicago, IL","Liberty Mutual Insurance
+DC913,"Director II, Data Science - GRM Actuarial",254,"Chicago, IL","Liberty Mutual Insurance
 3.3"
-DC914,Machine Learning Engineer,$91K-$159K (Glassdoor est.),"New York, NY","Information Builders
+DC914,Machine Learning Engineer,125,"New York, NY","Information Builders
 3.2"
-DC916,"Sr Expert Data Science, Advanced Visual Analytics (Associate level)",$80K-$133K (Glassdoor est.),"Cambridge, MA","Novartis
+DC916,"Sr Expert Data Science, Advanced Visual Analytics (Associate level)",106.5,"Cambridge, MA","Novartis
 3.8"
-DC919,MED TECH/LAB SCIENTIST- SOUTH COASTAL LAB,$21-$34 Per Hour(Glassdoor est.),"Millville, DE","Beebe Healthcare
+DC919,MED TECH/LAB SCIENTIST- SOUTH COASTAL LAB,56.5,"Millville, DE","Beebe Healthcare
 3.6"
-DC920,"Scientist, Molecular/Cellular Biologist",$49K-$97K (Glassdoor est.),"South San Francisco, CA","Audentes Therapeutics
+DC920,"Scientist, Molecular/Cellular Biologist",73,"South San Francisco, CA","Audentes Therapeutics
 2.9"
-DC921,Staff Scientist-Downstream Process Development,$49K-$113K (Glassdoor est.),"Rockville, MD","Advanced BioScience Laboratories
+DC921,Staff Scientist-Downstream Process Development,81,"Rockville, MD","Advanced BioScience Laboratories
 2.7"
-DC950,"Sr Scientist, Immuno-Oncology - Oncology",$58K-$111K (Glassdoor est.),"Cambridge, MA","GSK
+DC950,"Sr Scientist, Immuno-Oncology - Oncology",84.5,"Cambridge, MA","GSK
 3.9"
-DC951,Senior Data Engineer,$72K-$133K (Glassdoor est.),"Nashville, TN","Eventbrite
+DC951,Senior Data Engineer,102.5,"Nashville, TN","Eventbrite
 4.4"
-DC924,Data Scientist,$96K-$161K (Glassdoor est.),"Philadelphia, PA","Numeric, LLC
+DC924,Data Scientist,128.5,"Philadelphia, PA","Numeric, LLC
 3.2"
-DC926,Scientist - Analytical Services,$65K-$134K (Glassdoor est.),"Winston-Salem, NC","Reynolds American
+DC926,Scientist - Analytical Services,99.5,"Winston-Salem, NC","Reynolds American
 3.1"
-DC928,"Associate Scientist / Sr. Associate Scientist, Antibody Discovery",$59K-$125K (Glassdoor est.),"South San Francisco, CA","23andMe
+DC928,"Associate Scientist / Sr. Associate Scientist, Antibody Discovery",92,"South San Francisco, CA","23andMe
 4.0"
-DC929,Associate Data Analyst- Graduate Development Program,$32K-$59K (Glassdoor est.),"Richfield, OH","National Interstate
+DC929,Associate Data Analyst- Graduate Development Program,45.5,"Richfield, OH","National Interstate
 3.3"
-DC930,Sr. Data Engineer,$87K-$158K (Glassdoor est.),"Indianapolis, IN","Moser Consulting
+DC930,Sr. Data Engineer,122.5,"Indianapolis, IN","Moser Consulting
 4.5"
-DC931,Clinical Data Analyst,$27K-$48K (Glassdoor est.),"Tampa, FL","Greenway Health
+DC931,Clinical Data Analyst,37.5,"Tampa, FL","Greenway Health
 3.0"
-DC932,IT Associate Data Analyst,$39K-$69K (Glassdoor est.),"Worcester, MA","The Hanover Insurance Group
+DC932,IT Associate Data Analyst,54,"Worcester, MA","The Hanover Insurance Group
 3.7"
-DC933,Business Data Analyst,$36K-$71K (Glassdoor est.),"New York, NY","Fareportal
+DC933,Business Data Analyst,53.5,"New York, NY","Fareportal
 3.8"
-DC934,Senior Insurance Data Scientist,$107K-$173K (Glassdoor est.),"Chicago, IL","TransUnion
+DC934,Senior Insurance Data Scientist,140,"Chicago, IL","TransUnion
 3.9"
-DC935,Senior Data Science Systems Engineer,$56K-$99K (Glassdoor est.),"Hampton, VA","MITRE
+DC935,Senior Data Science Systems Engineer,77.5,"Hampton, VA","MITRE
 3.2"
-DC952,"Project Scientist - Auton Lab, Robotics Institute",$56K-$91K (Glassdoor est.),"Pittsburgh, PA","Software Engineering Institute
+DC952,"Project Scientist - Auton Lab, Robotics Institute",73.5,"Pittsburgh, PA","Software Engineering Institute
 2.6"
-DC936,ENVIRONMENTAL ENGINEER/SCIENTIST,Employer Provided Salary:$25-$28 Per Hour,"Cambridge, MA","Mcphail Associates
+DC936,ENVIRONMENTAL ENGINEER/SCIENTIST,55,"Cambridge, MA","Mcphail Associates
 3.3"
-DC938,Senior Scientist - Regulatory Submissions,$80K-$155K (Glassdoor est.),"Winston-Salem, NC","Reynolds American
+DC938,Senior Scientist - Regulatory Submissions,117.5,"Winston-Salem, NC","Reynolds American
 3.1"
-DC939,Scientist - Biomarker and Flow Cytometry,$43K-$98K (Glassdoor est.),"San Diego, CA","Crown Bioscience
+DC939,Scientist - Biomarker and Flow Cytometry,70.5,"San Diego, CA","Crown Bioscience
 2.4"
-DC940,Revenue Analytics Manager,$45K-$78K (Glassdoor est.),"San Francisco, CA","HOVER
+DC940,Revenue Analytics Manager,61.5,"San Francisco, CA","HOVER
 4.8"
-DC941,Sr. Scientist Method Development,$50K-$110K (Glassdoor est.),"Marietta, GA","Q2 Solutions
+DC941,Sr. Scientist Method Development,80,"Marietta, GA","Q2 Solutions
 2.9"
-DC942,"Associate Scientist, LC/MS Biologics",$44K-$96K (Glassdoor est.),"Ithaca, NY","Q2 Solutions
+DC942,"Associate Scientist, LC/MS Biologics",70,"Ithaca, NY","Q2 Solutions
 2.9"
-DC943,"Research Scientist, Immunology - Cancer Biology",Employer Provided Salary:$100K-$140K,"Cambridge, MA",Kronos Bio
-DC944,IT - Data Engineer II,$61K-$119K (Glassdoor est.),"Quincy, MA","Arbella Insurance
+DC943,"Research Scientist, Immunology - Cancer Biology",120,"Cambridge, MA",Kronos Bio
+DC944,IT - Data Engineer II,90,"Quincy, MA","Arbella Insurance
 3.4"
-DC945,Machine Learning Engineer (NLP),$80K-$142K (Glassdoor est.),"Palo Alto, CA","CK-12 Foundation
+DC945,Machine Learning Engineer (NLP),111,"Palo Alto, CA","CK-12 Foundation
 4.1"
-DC946,Senior Data Analyst,$99K-$178K (Glassdoor est.),"San Francisco, CA","Life360
+DC946,Senior Data Analyst,138.5,"San Francisco, CA","Life360
 3.9"
-DC947,Data Science Project Manager,$37K-$100K (Glassdoor est.),"Boston, MA","MassMutual
+DC947,Data Science Project Manager,68.5,"Boston, MA","MassMutual
 3.6"
-DC948,Data Engineer,$62K-$113K (Glassdoor est.),"San Francisco, CA","Fivestars
+DC948,Data Engineer,87.5,"San Francisco, CA","Fivestars
 3.9"
-DC949,"Principal, Data Science - Advanced Analytics",$86K-$137K (Glassdoor est.),"Plymouth Meeting, PA","IQVIA
+DC949,"Principal, Data Science - Advanced Analytics",111.5,"Plymouth Meeting, PA","IQVIA
 3.6"
-DC953,Data Science Manager,$95K-$160K (Glassdoor est.),"Allentown, PA","Numeric, LLC
+DC953,Data Science Manager,127.5,"Allentown, PA","Numeric, LLC
 3.2"
-DC955,Research Scientist – Security and Privacy,$61K-$126K (Glassdoor est.),"Beavercreek, OH","Riverside Research Institute
+DC955,Research Scientist – Security and Privacy,93.5,"Beavercreek, OH","Riverside Research Institute
 3.6"
 LF0,Product Ma0ger,107000,"Redwood City, CA",Oracle
 LF1,Software Engineer,0,"San Francisco, CA",eBay
