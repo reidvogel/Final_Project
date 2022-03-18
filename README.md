@@ -18,4 +18,5 @@ Our team's main source of communication is through slack. We have scheduled zoom
 
 
 #### Presentation
-{google_docs}https://docs.google.com/presentation/d/1fSWGhl2xTozmtblOBTLWxI3q0nlmSoqF4lLhkz6ujpQ/edit?usp=sharing{/google_docs}
+Our presentation is available through the following link:
+https://docs.google.com/presentation/d/1fSWGhl2xTozmtblOBTLWxI3q0nlmSoqF4lLhkz6ujpQ/edit?usp=sharing
