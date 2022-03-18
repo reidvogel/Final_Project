@@ -1,0 +1,104 @@
+SELECT *,
+CONCAT('DC', index )
+INTO data_cleaned1
+FROM public.data_cleaned
+
+Select *,
+Concat ('LF', index)
+Into Levels_FYI1
+FROM public."Levels_FYI"
+
+
+Select
+X.*
+INTO COMBINED
+FROM
+(
+Select
+DC."DCID",	
+DC."Job_Title",
+DC."Salary_Estimate",
+DC."Location",
+DC."Company_Name"
+
+From public.data_cleaned1 AS DC
+
+Union all
+
+Select 
+LF."CONCAT",
+LF.title,
+cast (basesalary as varchar),
+LF.location,
+LF.company
+	
+From public.levels_fyi1 LF ) as X
+
+
+SELECT 
+COM.*,
+lf.timestamp,
+lf.level,
+lf.totalyearlycompensation,
+lf.yearsofexperience,
+lf.tag,
+lf.stockgrantvalue,
+lf.bonus,
+lf.gender,
+lf.otherdetails,
+lf.cityid,
+lf.dmaid,
+lf."rowNumber",
+lf."Masters_Degree",
+lf."Bachelors_Degree",
+lf."Doctorate_Degree",
+lf."Highschool",
+lf."Some_College",
+lf."Race_Asian",
+lf."Race_White",
+lf."Race_Two_Or_More",
+lf."Race_Black",
+lf."Race_Hispanic",
+lf."Race",
+lf."Education",
+DC."Rating",
+DC."Headquarters",
+DC."Size",
+DC."Founded",
+DC."Type_of_ownership",
+DC."Industry",
+DC."Sector",
+DC."Revenue",
+DC."Competitors",
+DC."Hourly",
+DC."Employer provided",
+DC."Lower Salary",
+DC."Upper Salary",
+DC."Avg_Salary",
+DC.company_txt,
+DC."Job_Location",
+DC."Age",
+DC."Python",
+DC.spark,
+DC.aws,
+DC.excel,
+DC.sql,
+DC.sas,
+DC.keras,
+DC.pytorch,
+DC.scikit,
+DC.tensor,
+DC.hadoop,
+DC.tableau,
+DC.bi,
+DC.flink,
+DC.mongo,
+DC.google_an,
+DC.job_title_sim,
+DC.seniority_by_title,
+DC."Degree"
+Into Full_Data
+FROM public.combined COM
+LEFT JOIN public.levels_fyi1 AS lf ON COM."COMID" = LF."LFID"
+Left Join public.data_cleaned1 as DC on COM."COMID" = DC."DCID"
+					
