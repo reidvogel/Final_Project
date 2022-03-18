@@ -15,3 +15,7 @@ The topic our team chose deals with the salary ranges for various Data Scientist
 
 #### Communication Protocols
 Our team's main source of communication is through slack. We have scheduled zoom meetings every Tuesday and Thursday from 7pm to 9pm eastern. We schedule additional meetings through our slack group message.
+
+
+#### Presentation
+{google_docs}https://docs.google.com/presentation/d/1fSWGhl2xTozmtblOBTLWxI3q0nlmSoqF4lLhkz6ujpQ/edit?usp=sharing{/google_docs}
