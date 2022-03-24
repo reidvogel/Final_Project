@@ -7,17 +7,21 @@
 #### About the dataset
 The topic our team chose deals with the salary ranges for various Data Scientist positions. We chose this topic because all 4 of our team members are either working in the data science field or potentially transfering to the field. Hopefully, this data analysis will help our team, and others, find answers that will determine the next steps they should take in their data science career. Over the next few weeks our team will be analyzing salaries and how salaries are impacted by a variety of skillsets, locations, degrees, and more. The original dataset being used in our project was collected by Glassdoor and plushed to Kaggle. In addition to our original dataset, we have added a dataset called "data science and STEM Salaries". 
 
-#### Team Roles
+## Team Roles
 - Square: Reid Vogel will be responsible for our teams repository.
 - Triangle: Fritz is responsible for the machine learning model. 
 - Circle: Megan Willard is responsible for creating and maintaining our teams databases. 
 - X: Gabe Barletta is responsible for deciding which technologies to use for each step. 
 
 
-#### Communication Protocols
+## Communication Protocols
 Our team's main source of communication is through slack. We have scheduled zoom meetings every Tuesday and Thursday from 7pm to 9pm eastern. We schedule additional meetings through our slack group message.
 
-#### Model Building
+## Cleaning the dataset
+
+## Database development
+
+## Model Building
 
 First, we transformed the categorical variables into dummy variables. Then we  split the data into train and tests sets with a test size of 20% using sklearn.model train_test_split.
 
@@ -31,17 +35,20 @@ Lasso Regression – Because of the sparse data from the many categorical variab
 
 Random Forest – Again, wbecause of the sparsity associated with the data, I thought that this would be a good fit.
 
-#### Model performance
+## Model performance
 
 * Multiple Linear Regression: MAE = -42902504173.30
 * Lasso Regression: MAE = -19.68
 * Random Forest: MAE = -13.62
 
-#### Model Acuracy 
-* Multiple Linear Regression: MAE = 46%
-* Lasso Regression: MAE = 
-* Random Forest: MAE = 76%
+## Model Acuracy 
+* Multiple Linear Regression: = 46%
+* Lasso Regression: = 
+* Random Forest:  = 76%
 
-#### Presentation
+## Dashboard development
+
+
+## Presentation
 Our presentation is available through the following link:
 https://docs.google.com/presentation/d/1fSWGhl2xTozmtblOBTLWxI3q0nlmSoqF4lLhkz6ujpQ/edit?usp=sharing
