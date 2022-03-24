@@ -33,14 +33,14 @@ Random Forest – Again, wbecause of the sparsity associated with the data, I th
 
 #### Model performance
 
-Multiple Linear Regression: MAE = -42902504173.30
-Lasso Regression: MAE = -19.68
-Random Forest: MAE = -13.62
+* Multiple Linear Regression: MAE = -42902504173.30
+* Lasso Regression: MAE = -19.68
+* Random Forest: MAE = -13.62
 
 #### Model Acuracy 
-Random Forest : MAE = 46.23%
-Linear Regression: MAE = 53%
-Ridge Regression: MAE = -13.62
+* Multiple Linear Regression: MAE = 46%
+* Lasso Regression: MAE = 
+* Random Forest: MAE = 76%
 
 #### Presentation
 Our presentation is available through the following link:
