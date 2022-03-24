@@ -21,7 +21,7 @@ Our team's main source of communication is through slack. We have scheduled zoom
 
 ## Database development
 
-## Model Building
+## Model Building overview
 
 First, we transformed the categorical variables into dummy variables. Then we  split the data into train and tests sets with a test size of 20% using sklearn.model train_test_split.
 
@@ -34,6 +34,8 @@ Multiple Linear Regression – Baseline for the model
 Lasso Regression – Because of the sparse data from the many categorical variables, I thought a normalized regression like lasso would be effective.
 
 Random Forest – Again, wbecause of the sparsity associated with the data, I thought that this would be a good fit.
+
+#### Preliminary data
 
 ## Model performance
 
