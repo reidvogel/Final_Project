@@ -61,4 +61,7 @@ Random Forest – Again, wbecause of the sparsity associated with the data, I th
 
 ## Presentation
 Our presentation is available through the following link:
+https://docs.google.com/presentation/d/1fSWGhl2xTozmtblOBTLWxI3q0nlmSoqF4lLhkz6ujpQ/edit?usp=sharing
+
+Our story board is available through the following link:
 https://docs.google.com/presentation/d/1Qyj2e5KKToX0qI48rrzPFEZkz3QcQ_HNPzj0oSZePhg/edit#slide=id.g11dccfb9e8f_0_10
