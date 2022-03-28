@@ -57,6 +57,15 @@ Random Forest – Again, wbecause of the sparsity associated with the data, I th
 * Random Forest:  = 76%
 
 ## Dashboard development
+Our Dashboard currently consists of 4 different visualizations. We will also be creating an interactive heatmap to show the relationship between salaries and the location of the company. Refer to the following tableau links to use the visualizations. 
+- Salaries Per Position bar chart: https://public.tableau.com/app/profile/reid.vogel/viz/Data_Salaries/SalariesPerPosition
+
+- Count of Position Hires bar chart: https://public.tableau.com/app/profile/reid.vogel/viz/CountofHires/CountofPositionHires?publish=yes
+
+- Highest Paying Companies bar chart:
+https://public.tableau.com/app/profile/reid.vogel/viz/highestpayingcompanies/HighestPayingCompanies?publish=yes
+
+- Count of Positions pie chart: https://public.tableau.com/app/profile/reid.vogel/viz/piechartofpositions/PieChartofPosition?publish=yes
 
 
 ## Presentation
