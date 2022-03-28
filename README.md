@@ -37,6 +37,20 @@ Random Forest – Again, wbecause of the sparsity associated with the data, I th
 
 #### Preliminary data
 
+The preliminary data was scraped from levels.fyi and glassdoor where it was then uploaded to (https://www.kaggle.com/datasets/jackogozaly/data-science-and-stem-salaries). It had over 50,000 different salary records from top compaines. 
+
+the data from levels.fyi gave use tons of information from current or ex workers that we consider using for our machine learning model such as type of 
+
+company, levels,total yearly pay,job location,years of experience,years at company,stock grant values,bonus,gender,cityid,degree information, race infomation.  
+
+and the data scraped from glassdoor data set provide us with with recent job posting which was catgorized by 
+title,salary,job description,company,location,headquarters,size,year founded,type of ownership,industry,sector,revenue,compettitors,hourly pay,skils needed
+
+we belived using these two data sets would be the best way to maximized accuracy 
+
+#### Train test split
+ First, we transformed the categorical variables into dummy variables. Then we split the data into train and tests sets with a test size of 20% using sklearn.model train_test_split.
+
 ## Model performance
 
 * Multiple Linear Regression: MAE = -42902504173.30
