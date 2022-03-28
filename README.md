@@ -21,6 +21,14 @@ Our team's main source of communication is through slack. We have scheduled zoom
 
 ## Database development
 
+Circle_Segment2
+Both data sets was loaded into SQL using sqlAlchamey. 
+A primary key field was added to both sets and the 4 columns in common were combined using a Union statement. The corresponding data was combined using a Left Join. 
+
+SQLAlchemy was then used to load two data sets back into a data frame in a jupyter notebook. One that just had the four columns in common and 1 that had all of the data. 
+
+
+ main
 ## Model Building overview
 
 First, we transformed the categorical variables into dummy variables. Then we  split the data into train and tests sets with a test size of 20% using sklearn.model train_test_split.
@@ -63,8 +71,20 @@ we belived using these two data sets would be the best way to maximized accuracy
 * Random Forest:  = 76%
 
 ## Dashboard development
+Our Dashboard currently consists of 4 different visualizations. We will also be creating an interactive heatmap to show the relationship between salaries and the location of the company. Refer to the following tableau links to use the visualizations. 
+- Salaries Per Position bar chart: https://public.tableau.com/app/profile/reid.vogel/viz/Data_Salaries/SalariesPerPosition
+
+- Count of Position Hires bar chart: https://public.tableau.com/app/profile/reid.vogel/viz/CountofHires/CountofPositionHires?publish=yes
+
+- Highest Paying Companies bar chart:
+https://public.tableau.com/app/profile/reid.vogel/viz/highestpayingcompanies/HighestPayingCompanies?publish=yes
+
+- Count of Positions pie chart: https://public.tableau.com/app/profile/reid.vogel/viz/piechartofpositions/PieChartofPosition?publish=yes
 
 
 ## Presentation
 Our presentation is available through the following link:
+https://docs.google.com/presentation/d/1fSWGhl2xTozmtblOBTLWxI3q0nlmSoqF4lLhkz6ujpQ/edit?usp=sharing
+
+Our story board is available through the following link:
 https://docs.google.com/presentation/d/1Qyj2e5KKToX0qI48rrzPFEZkz3QcQ_HNPzj0oSZePhg/edit#slide=id.g11dccfb9e8f_0_10
