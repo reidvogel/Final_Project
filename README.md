@@ -72,24 +72,29 @@ we belived using these two data sets would be the best way to maximized accuracy
 
 ## Dashboard development
 Our Dashboard currently consists of 4 different visualizations. We will also be creating an interactive heatmap to show the relationship between salaries and the location of the company. Refer to the following tableau links to use the visualizations. 
-- Salaries Per Position bar chart: https://public.tableau.com/app/profile/reid.vogel/viz/Data_Salaries/SalariesPerPosition
+- Salaries Per Position bar chart: https://public.tableau.com/app/profile/reid.vogel/viz/AvgSalaryperPosition/AvgSalaryperPosition
 ![Avg_Salary_per_Position](https://user-images.githubusercontent.com/92598335/161164327-2efa161e-f748-422e-922b-ac463ddbba62.png)
 
-- Count of Position Hires bar chart: https://public.tableau.com/app/profile/reid.vogel/viz/CountofHires/CountofPositionHires?publish=yes
+- Count of Position Hires bar chart: https://public.tableau.com/app/profile/reid.vogel/viz/NumberofHiresperPosition/NumberofHiresperPosition
 ![hires_per_position](https://user-images.githubusercontent.com/92598335/161164256-c323fd91-59a1-45d0-8d56-4e4b8dfe3a30.png)
 
 - Highest Paying Companies bar chart:
-https://public.tableau.com/app/profile/reid.vogel/viz/highestpayingcompanies/HighestPayingCompanies?publish=yes
-
-- Count of Positions pie chart: https://public.tableau.com/app/profile/reid.vogel/viz/piechartofpositions/PieChartofPosition?publish=yes
-
-- Salaries per Location Heatmap:
 
 
-- Salaries per sector:
+- Count of Positions pie chart: 
 
 
-- Salaries vs Revenue:
+- Salaries per Location Heatmap: https://public.tableau.com/app/profile/megan.willard1550/viz/SalaryHeatMap/Sheet1
+![Salary_Heatmap](https://user-images.githubusercontent.com/92598335/161164829-76e92aab-d5f5-4bfa-b17e-a5e0a12bc35d.png)
+
+
+- Salaries per sector: https://public.tableau.com/app/profile/megan.willard1550/viz/DataSalariessector/Sheet1
+![Salary_per_Sector](https://user-images.githubusercontent.com/92598335/161164904-4a0bb1b8-ca2b-4982-be27-01679f988a0d.png)
+
+
+- Salaries vs Revenue: https://public.tableau.com/app/profile/megan.willard1550/viz/SalaryandRevenue/Sheet1
+![Salary_v_Revenue](https://user-images.githubusercontent.com/92598335/161164785-6f61eef1-7a2d-4303-8dc1-8426d2f577fd.png)
+
 
 
 
