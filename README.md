@@ -73,13 +73,24 @@ we belived using these two data sets would be the best way to maximized accuracy
 ## Dashboard development
 Our Dashboard currently consists of 4 different visualizations. We will also be creating an interactive heatmap to show the relationship between salaries and the location of the company. Refer to the following tableau links to use the visualizations. 
 - Salaries Per Position bar chart: https://public.tableau.com/app/profile/reid.vogel/viz/Data_Salaries/SalariesPerPosition
+![Avg_Salary_per_Position](https://user-images.githubusercontent.com/92598335/161164327-2efa161e-f748-422e-922b-ac463ddbba62.png)
 
 - Count of Position Hires bar chart: https://public.tableau.com/app/profile/reid.vogel/viz/CountofHires/CountofPositionHires?publish=yes
+![hires_per_position](https://user-images.githubusercontent.com/92598335/161164256-c323fd91-59a1-45d0-8d56-4e4b8dfe3a30.png)
 
 - Highest Paying Companies bar chart:
 https://public.tableau.com/app/profile/reid.vogel/viz/highestpayingcompanies/HighestPayingCompanies?publish=yes
 
 - Count of Positions pie chart: https://public.tableau.com/app/profile/reid.vogel/viz/piechartofpositions/PieChartofPosition?publish=yes
+
+- Salaries per Location Heatmap:
+
+
+- Salaries per sector:
+
+
+- Salaries vs Revenue:
+
 
 
 ## Presentation
