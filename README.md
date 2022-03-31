@@ -78,11 +78,8 @@ Our Dashboard currently consists of 4 different visualizations. We will also be 
 - Count of Position Hires bar chart: https://public.tableau.com/app/profile/reid.vogel/viz/NumberofHiresperPosition/NumberofHiresperPosition
 ![hires_per_position](https://user-images.githubusercontent.com/92598335/161164256-c323fd91-59a1-45d0-8d56-4e4b8dfe3a30.png)
 
-- Highest Paying Companies bar chart:
-
-
-- Count of Positions pie chart: 
-
+- Highest Paying Companies bar chart: https://public.tableau.com/app/profile/megan.willard1550/viz/SalarybyCompany/Sheet3
+![Companies_Highest_Salaries](https://user-images.githubusercontent.com/92598335/161166741-e2727cbd-47c7-4476-974a-81c41b9f39cf.png)
 
 - Salaries per Location Heatmap: https://public.tableau.com/app/profile/megan.willard1550/viz/SalaryHeatMap/Sheet1
 ![Salary_Heatmap](https://user-images.githubusercontent.com/92598335/161164829-76e92aab-d5f5-4bfa-b17e-a5e0a12bc35d.png)
