@@ -21,14 +21,16 @@ Our team's main source of communication is through slack. We have scheduled zoom
 
 ## Database development
 
-Circle_Segment2
+We compared the two data sets and found that there were several column categories in common. These columns would need to be the focus of the joins. 
+
+  The below graphic shows the columns that were similar between the datasets.
+![ERD](https://user-images.githubusercontent.com/90511014/161175880-a6d1e738-ef17-4194-b44f-e5a5fe1a3f8e.png)
+
 Both data sets was loaded into SQL using sqlAlchamey. 
 A primary key field was added to both sets and the 4 columns in common were combined using a Union statement. The corresponding data was combined using a Left Join. 
 
 SQLAlchemy was then used to load two data sets back into a data frame in a jupyter notebook. One that just had the four columns in common and 1 that had all of the data. 
 
-
- main
 ## Model Building overview
 
 First, we transformed the categorical variables into dummy variables. Then we  split the data into train and tests sets with a test size of 20% using sklearn.model train_test_split.
