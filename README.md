@@ -15,7 +15,7 @@ The topic our team chose deals with the salary ranges for various Data Scientist
 
 
 ## Communication Protocols
-Our team's main source of communication is through slack. We have scheduled zoom meetings every Tuesday and Thursday from 7pm to 9pm eastern. We schedule additional meetings through our slack group message.
+Our team's main source of communication is through slack. We have scheduled zoom meetings every Tuesday and Thursday from 7pm to 9pm eastern. We schedule additional meetings through our slack group message. Prior to pushing data to the main and deleting/adding branches, team members review the accuracy of the data and ensure branches are up-to-date. 
 
 ## Cleaning the dataset
 
@@ -71,7 +71,7 @@ we belived using these two data sets would be the best way to maximized accuracy
 * Random Forest:  = 76%
 
 ## Dashboard development
-Our Dashboard currently consists of 4 different visualizations. We will also be creating an interactive heatmap to show the relationship between salaries and the location of the company. Refer to the following tableau links to use the visualizations. 
+Our Dashboard currently consists of 6 visualizations that were created using Tableau. Below you can find images of the visualizations, as well as tableau links to access the visualizations. 
 - Salaries Per Position bar chart: https://public.tableau.com/app/profile/reid.vogel/viz/AvgSalaryperPosition/AvgSalaryperPosition
 ![Avg_Salary_per_Position](https://user-images.githubusercontent.com/92598335/161164327-2efa161e-f748-422e-922b-ac463ddbba62.png)
 
