@@ -9,7 +9,7 @@ The topic our team chose deals with the salary ranges for various Data Scientist
 
 ## Team Roles
 - Square: Reid Vogel will be responsible for our teams repository.
-- Triangle: Fritz is responsible for the machine learning model. 
+- Triangle: Fritz Saintil is responsible for the machine learning model. 
 - Circle: Megan Willard is responsible for creating and maintaining our teams databases. 
 - X: Gabe Barletta is responsible for deciding which technologies to use for each step. 
 
@@ -28,7 +28,6 @@ A primary key field was added to both sets and the 4 columns in common were comb
 SQLAlchemy was then used to load two data sets back into a data frame in a jupyter notebook. One that just had the four columns in common and 1 that had all of the data. 
 
 
- main
 ## Model Building overview
 
 First, we transformed the categorical variables into dummy variables. Then we  split the data into train and tests sets with a test size of 20% using sklearn.model train_test_split.
