@@ -1,11 +1,11 @@
-# Final_Project
+# Salary Analysis of Data Professionals 
 
 
 ## Overview
-
+The topic our team chose deals with the salary ranges for various Data Scientist positions. We chose this topic because all 4 of our team members are either working in the data science field or potentially transfering to the field. Hopefully, this data analysis will help our team, and others, find answers that will determine the next steps they should take in their data science career.
 
 #### About the dataset
-The topic our team chose deals with the salary ranges for various Data Scientist positions. We chose this topic because all 4 of our team members are either working in the data science field or potentially transfering to the field. Hopefully, this data analysis will help our team, and others, find answers that will determine the next steps they should take in their data science career. Over the next few weeks our team will be analyzing salaries and how salaries are impacted by a variety of skillsets, locations, degrees, and more. The original dataset being used in our project was collected by Glassdoor and plushed to Kaggle. In addition to our original dataset, we have added a dataset called "data science and STEM Salaries". 
+  The original dataset being used in our project was collected by Glassdoor and plushed to [Kaggle](https://www.kaggle.com/datasets/jackogozaly/data-science-and-stem-salaries).In addition to our original dataset, we have added a dataset called "data science and STEM Salaries". 
 
 ## Team Roles
 - Square: Reid Vogel will be responsible for our teams repository.
@@ -19,6 +19,26 @@ Our team's main source of communication is through slack. We have scheduled zoom
 
 ## Cleaning the dataset
 
+There were quite a few things that needed to be clean in order to propery anlyize this data. 
+
+* First we cleaned salary colunm by 
+    - Removed all rolls with -1 
+    - remove all the text in the colunm 
+    - Created a min and max coulmn then made an avergae column out of       the two 
+    - Then converted all hourley pay in salery
+
+<img src="Images/datacleaning.png"/>
+
+* Cleaning the Location cloumn
+    - Corrected the Los Angeles erro and included it in the state of California 
+
+<img src="Images/cleanstates.png"/>
+
+* We also wanted to parse through the Job description couln to make columns for certains skills the these postions requried 
+
+<img src="Images/clean jobdesc.png"/>
+
+
 ## Database development
 
 Circle_Segment2
@@ -30,6 +50,10 @@ SQLAlchemy was then used to load two data sets back into a data frame in a jupyt
 
  main
 ## Model Building overview
+In deveolopeming the machine learn model there a couple of major factors we had to consdier. We took a deeper dive into the data main columns that will help us preditc a salary. they are type of ownership, sector, seniority level of the postion and certains skill sets
+
+
+
 
 First, we transformed the categorical variables into dummy variables. Then we  split the data into train and tests sets with a test size of 20% using sklearn.model train_test_split.
 
@@ -45,30 +69,53 @@ Random Forest – Again, wbecause of the sparsity associated with the data, I th
 
 #### Preliminary data
 
-The preliminary data was scraped from levels.fyi and glassdoor where it was then uploaded to (https://www.kaggle.com/datasets/jackogozaly/data-science-and-stem-salaries). It had over 50,000 different salary records from top compaines. 
+The preliminary data was scraped from levels.fyi and glassdoor where it was then uploaded to [Kaggle](https://www.kaggle.com/datasets/jackogozaly/data-science-and-stem-salaries). It had over 50,000 different salary records from top compaines. The data from [Levels](https://www.levels.fyi/?compare=Citrix,Microsoft,Amazon&track=Software%20Engineer) gave use tons of information from current or ex workers that we consider using for our machine learning model such as type of company, total yearly pay,job location etc.  
 
-the data from levels.fyi gave use tons of information from current or ex workers that we consider using for our machine learning model such as type of 
+Using these two datasets would be the best way to maximized accuracy. After future cleaning the Data sets we get the dataframe seen below as our new data set that will be used to traing the models we will test out.
 
-company, levels,total yearly pay,job location,years of experience,years at company,stock grant values,bonus,gender,cityid,degree information, race infomation.  
+<img src="Images/Screen Shot 2022-04-05 at 12.22.21 PM.png"/>
 
-and the data scraped from glassdoor data set provide us with with recent job posting which was catgorized by 
-title,salary,job description,company,location,headquarters,size,year founded,type of ownership,industry,sector,revenue,compettitors,hourly pay,skils needed
-
-we belived using these two data sets would be the best way to maximized accuracy 
 
 #### Train test split
- First, we transformed the categorical variables into dummy variables. Then we split the data into train and tests sets with a test size of 20% using sklearn.model train_test_split.
+The new Dataframe was made machine learning ready by encoding it with getdummies Then we split the data into train and tests sets with a test size of 20% using sklearn.model train_test_split.
 
 ## Model performance
 
-* Multiple Linear Regression: MAE = -42902504173.30
-* Lasso Regression: MAE = -19.68
-* Random Forest: MAE = -13.62
+### Multiple Linear Regression
+ For our base we chose to do a multiple Linear regression model using stats models.api we can see the models perfmance after fitting it with the training and testing  sets
+ <img src="Images/Screen Shot 2022-04-05 at 12.36.46 PM.png"/>
+ 
+ we see that R-squared accuracy raiting is only 63%, we beleve we can do better and tighen things up so we  move one to a different model 
+ 
+### Lasso Regression
+<img src="Images/lasso.png"/>
+Although the Lasso Regression model had a much beeter Mean absolute error (MAE) of being just $20,000 off the prediction value the Accuracy score was still not good enough as it was only a 58%
+
+
+### Random Forest
+
+ <img src="Images/rf.png"/>
+ <img src="Images/rfac.png"/>
+ 
+ 
+
 
 ## Model Acuracy 
-* Multiple Linear Regression: = 46%
-* Lasso Regression: = 
-* Random Forest:  = 76%
+when comparing all three models we decieded to go with the best performing model which is the Random forest regression model
+
+From the analysis of each method the Random forest regression models have the greatest predictive accuracy 
+
+* Multiple Linear Regression: = 40%
+* Lasso Regression: = 58% 
+* Random Forest:  = 79%
+
+## Prediction
+
+we created a web page to allow user to iinput creatin information which will be severed to the machine learning model to then give salary prdictiong base on the input information 
+
+(insert link here)
+
+Along with our prediction caculater you will find all information extracted from these data settins allowing users to further looking into the data. 
 
 ## Dashboard development
 Our Dashboard currently consists of 6 visualizations that were created using Tableau. Below you can find our Tableau storyboard, images of the visualizations, and links to access the visualizations. 
