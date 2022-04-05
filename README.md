@@ -41,14 +41,16 @@ There were quite a few things that needed to be clean in order to propery anlyiz
 
 ## Database development
 
-Circle_Segment2
+We compared the two data sets and found that there were several column categories in common. These columns would need to be the focus of the joins. 
+
+  The below graphic shows the columns that were similar between the datasets.
+![ERD](https://user-images.githubusercontent.com/90511014/161175880-a6d1e738-ef17-4194-b44f-e5a5fe1a3f8e.png)
+
 Both data sets was loaded into SQL using sqlAlchamey. 
 A primary key field was added to both sets and the 4 columns in common were combined using a Union statement. The corresponding data was combined using a Left Join. 
 
 SQLAlchemy was then used to load two data sets back into a data frame in a jupyter notebook. One that just had the four columns in common and 1 that had all of the data. 
 
-
- main
 ## Model Building overview
 In deveolopeming the machine learn model there a couple of major factors we had to consdier. We took a deeper dive into the data main columns that will help us preditc a salary. they are type of ownership, sector, seniority level of the postion and certains skill sets
 
