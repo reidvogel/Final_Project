@@ -47,7 +47,9 @@ We compared the two data sets and found that there were several column categorie
 ![ERD](https://user-images.githubusercontent.com/90511014/161175880-a6d1e738-ef17-4194-b44f-e5a5fe1a3f8e.png)
 
 Both data sets was loaded into SQL using sqlAlchamey. 
-A primary key field was added to both sets and the 4 columns in common were combined using a Union statement. The corresponding data was combined using a Left Join. 
+A primary key field was added to both sets and the 4 columns in common were combined using a Union statement. The corresponding data was combined using a Left Join. As shown by the following code.
+
+
 
 SQLAlchemy was then used to load two data sets back into a data frame in a jupyter notebook. One that just had the four columns in common and 1 that had all of the data. 
 
