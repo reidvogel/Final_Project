@@ -118,7 +118,12 @@ we created a web page to allow user to iinput creatin information which will be 
 Along with our prediction caculater you will find all information extracted from these data settins allowing users to further looking into the data. 
 
 ## Dashboard development
-Our Dashboard currently consists of 6 visualizations that were created using Tableau. Below you can find images of the visualizations, as well as tableau links to access the visualizations. 
+Our Dashboard currently consists of 6 visualizations that were created using Tableau. Below you can find our Tableau storyboard, images of the visualizations, and links to access the visualizations. 
+
+#### Tableau Storyboard
+https://public.tableau.com/app/profile/reid.vogel/viz/DataSalariesStoryboard/DataScientistSalaries
+
+#### Visualizations
 - Salaries Per Position bar chart: https://public.tableau.com/app/profile/reid.vogel/viz/AvgSalaryperPosition/AvgSalaryperPosition
 ![Avg_Salary_per_Position](https://user-images.githubusercontent.com/92598335/161164327-2efa161e-f748-422e-922b-ac463ddbba62.png)
 
